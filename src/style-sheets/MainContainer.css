@@ -1,0 +1,25 @@
+  
+  .upperMenu {
+    height: 50px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+  }
+
+  #lupa {
+    width: 19px;
+    height: auto;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+
+  #searchField {
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+   
+  .phraseContainer{
+    display: flex;
+    justify-content: center;
+  }
