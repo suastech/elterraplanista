@@ -1,17 +1,30 @@
 
-.main-container {
+.closeButton {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 60px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  &:hover {
+    opacity: 0.7;
+  }
+  &:active {
+    height: 55px;
+    width: 55px;
+  }
+}
+
+.main-container2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
 }
-
-.arrow {
+.arrow2 {
     background: none;
     border: none;
-  }
-  
-  .arrow img {
+  } 
+  .arrow2 img {
     height: 50px;
     cursor: pointer;
     &:active {
@@ -19,54 +32,29 @@
     }
   }
 
-
- .whole-phrase {
-  height: fit-content;
-  width: fit-content;
-  padding: 10px;
+ .frame-hall2 {
+    position: relative;
  }
 
-.phrase-frame {
-      position: relative;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      border-radius: 30px;
-      border: 5px solid #f4a91e;
-      outline: 3px solid #f4a91e;
-      background-color: rgba(255, 255, 255);
-      outline-offset: 4px
+ .frame-hall2 img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.phrase-frame2 {
+  position: absolute;
+  top: 24px;
+  left: 33px;
+  width: 89.9%;
+  height: 88.8%;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   }
 
-.loading {
-    background-color: black;
-    border-radius: 24px;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url('../imagenes/meme.jpg');
-    background-size: auto 50%;
-    background-position: center center;
-    background-repeat: no-repeat;
-  }
-
-.circle {
-    width: 30px;
-    height: 30px;
-    border: 4px solid rgba(0, 123, 255, 0.3); /* Borde transparente */
-    border-radius: 50%; /* Forma de círculo */
-    border-top: 4px solid #007bff; /* Borde superior azul */
-    animation: spin 1s linear infinite; /* Animación de rotación */
-  }
-  
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-.phrase {
+.phrase2 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -76,7 +64,7 @@
     text-align: justify;
   }
 
-.text {
+.text2 {
       font-size: 1em;
       color: #015D87;   
       font-family: Georgia, 'Times New Roman', Times, serif;
@@ -84,14 +72,14 @@
       margin: 0px;
     }
     
-.author {
+.author2 {
       font-size: .8em;
       color: #015D87;
       font-weight: bold;
       margin: 0px;
     }
     
-.comment {
+.comment2 {
       font-size: .9em;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-style: italic;
@@ -101,13 +89,12 @@
       margin-left: 10%;
     }
 
-.bottom {
+.bottom2 {
     height: fit-content;
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: 0px 60px;
-    padding-bottom: 20px;
     border-radius: 8px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
@@ -115,7 +102,7 @@
     color:white;
   }
 
-  .shareButtons {
+  .shareButtons2 {
       width: fit-content;   
       height: fit-content;
       display: flex;
@@ -123,14 +110,14 @@
       transition: 0.3s;
     }
       
-      .shareButtonsA {
+      .shareButtonsA2 {
         border-radius: 8px;
         background-color: rgba(36, 36, 36, 0.8);
         display: flex;
         align-items: center;
         transition: 0.3s;
       }
-      .shareButtons img, .shareButtonsA img{
+      .shareButtons2 img, .shareButtonsA2 img{
       height: 30px;
       border-radius: 8px;
       padding: 2px;
@@ -144,8 +131,38 @@
       }
       }
       
-      #sharebutton{
+      #sharebutton2{
         &:active {
           transform: none;
         }
       }
+
+
+      
+.loading2 {
+  background-color: black;
+  border-radius: 3px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../imagenes/meme.jpg');
+  background-size: auto 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.circle2 {
+  width: 30px;
+  height: 30px;
+  border: 4px solid rgba(0, 123, 255, 0.3); /* Borde transparente */
+  border-radius: 50%; /* Forma de círculo */
+  border-top: 4px solid #007bff; /* Borde superior azul */
+  animation: spin 1s linear infinite; /* Animación de rotación */
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

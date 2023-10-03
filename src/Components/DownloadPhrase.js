@@ -1,16 +1,14 @@
 import { toJpeg } from 'html-to-image';
 import { saveAs } from 'file-saver';
-import boton from '../imagenes/descargar.png'
-
+import boton from '../imagenes/descargar.jpg'
+import React from 'react';
 
 function DownloadPhrase(props) {
 
     const manejarDescargar = async () => {
-        const generadorNode = props.generadorRef.current;
-        generadorNode.style.backgroundColor = 'white';
+        const generatorNode = props.generatorRef.current;
             try {
-            const imageBlob = await toJpeg(generadorNode);
-            generadorNode.style.backgroundColor = 'transparent';
+            const imageBlob = await toJpeg(generatorNode); 
             saveAs(imageBlob, 'frase_inmortal.jpg');
         } catch (error) {
             console.error('Error al generar o descargar la imagen:', error);
@@ -19,7 +17,6 @@ function DownloadPhrase(props) {
     return <img
     src={boton}
     alt="Icono Copiar"
-    style={{ height: '25px', width: "auto", cursor: 'pointer', padding: '2px'}}
     onClick={manejarDescargar}
   />
 };

@@ -1,31 +1,26 @@
 
-.main {
+header {
     display: flex;
     align-items: center;
-    background-image: url('../imagenes/fondo\ encabezado.jpg');
+    background-color: #1D2F38;
     height: 100px;
     padding: 0px 0px;
   }
-  
-  .left {
-    height: 100%;
-  }
-  
-  .left img {
-    height: 100%;
-    width: auto;
-  }
-  
-  .title {
-    font-size: 45px;
+
+header img {
+  height: 80px;
+}
+ 
+header h1 {
+    font-size: 50px;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
   }
   
-  .right {
-    font-size: 13px;
+header h2 {
+    font-size: 18px;
     color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: 10px;
-    margin-top: 22px;
+    margin-left: 30px;
+    margin-top: 39px;
   }

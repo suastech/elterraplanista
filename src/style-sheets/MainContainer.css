@@ -1,25 +1,81 @@
+  .containter {
+    background-image: url('../imagenes/fondo\ encabezado.jpg')
+    
+  }
   
   .upperMenu {
     height: 50px;
     display: flex;
     align-items:center;
     justify-content: space-around;
+    padding: 30px 0px;
   }
 
-  #lupa {
-    width: 19px;
-    height: auto;
+  .select {
+    height: 40px;
+    padding: 5px; /* Añade un espacio de relleno para un aspecto más limpio */
+    border: 2px solid #025D8A; /* Agrega un borde para definir el elemento */
+    border-radius: 10px; /* Borde redondeado para un aspecto suave */
+    background-color: #fff; /* Fondo blanco */
+    color: #333; /* Color del texto */
+    font-size: 14px; /* Tamaño de fuente adecuado */
+    font-weight: bold;
+    outline: none; 
     cursor: pointer;
-    margin-right: 5px;
   }
+    .select:focus {
+      border: 1px solid #007bff; /* Cambia el borde al enfocar el elemento */
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Agrega una sombra al enfocar el elemento */
+    }
+
+    .select option {
+      font-size: 15px;
+      color: black;
+    }
 
   #searchField {
-    padding: 4px;
-    border: 1px solid #ccc;
+    padding: 0px;
+    height: 40px;
+    width: 250px;
+    border:2px solid #025D8A;
+    background: url('../imagenes/lupa.png') 5px center no-repeat;
+    background-color: white;
     border-radius: 10px;
+    background-size: auto 50%; /* Ajusta el tamaño de la imagen verticalmente centrada */
+    font-weight: bold;
+    text-indent: 30px;
+    font-size: 14px;
+    outline: none; 
   }
-   
-  .phraseContainer{
+  #searchField:focus {
+    border: 2px solid #007bff; /* Cambia el borde al enfocar el elemento */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Agrega una sombra al enfocar el elemento */
+  }
+
+#classicsButton, #backButton {
+  height: 45px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none; 
+  border:2px solid #26A69A;
+    &:active {
+    transform: scale(0.95);
+  }
+  &:hover {
+    background-color: rgb(210, 215, 215);
+  }
+}
+#classicsButton:focus {
+  border: 2px solid #007bff; /* Cambia el borde al enfocar el elemento */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Agrega una sombra al enfocar el elemento */
+}
+
+.phraseContainer{
     display: flex;
     justify-content: center;
   }

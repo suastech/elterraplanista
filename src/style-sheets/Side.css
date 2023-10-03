@@ -1,0 +1,210 @@
+
+.sideMenu {
+    height: 300px;
+    width: 60px;
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%);
+    left: -25px;
+    background-color: rgb(36, 36, 36);
+    border-radius: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    opacity: 0.8;
+    transition: 0.2s;
+    z-index: 1;
+    
+    &:hover {
+        opacity: 0.8;      
+    }
+}
+
+.sideMenu img {
+    width: 25px;
+    margin-right: 5px;
+}
+
+.sideMenu-expanded {
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%);    
+    border-radius: 20px;
+    transition: 0.2s;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    z-index: 1;
+}
+
+.hide {
+    width: 35px;
+    height: 100%;
+    background-color: rgb(36, 36, 36);
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    &:hover {
+        background-color: rgb(55, 55, 55);  
+    }
+}
+
+.hide img{
+    width: 25px;
+}
+
+.options {
+    height: 100%;
+    width: 180px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(36, 36, 36);
+    opacity: 0.8;
+}
+
+.item {
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 60px;
+    margin-bottom: 2px;
+    display: flex;
+    align-items: center;
+    &:hover {
+        background-color: rgb(55, 55, 55);
+    }
+    &:active {
+      transform: scale(0.9);
+    }
+}
+
+.item img {
+    height: 20px;
+    margin: 0 3px;
+}
+
+.item p{
+    margin: 0;
+}
+
+#hall-container {
+  z-index: 1;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #1D2F38;
+  border-radius: 50px;
+  border: 2px solid rgb(45, 244, 244);
+  padding: 0px 15px;
+  padding-bottom: 20px;
+}
+
+.containers {
+    z-index: 1;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 50vw;
+    height: fit-content;
+    padding-bottom: 10px;
+    display: inline;
+    background-color: black;
+    border-radius: 50px;
+    border: 3px solid #26A69A;
+  }
+  .closeButton {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 60px;
+    margin-top: 10px;
+    cursor: pointer;  
+    &:hover {
+      opacity: 0.7;
+    }
+    &:active {
+      height: 55px;
+      width: 55px;
+    }
+  }
+  #support-content {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 0px 60px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.5em;
+  }
+
+
+  .donateImages {
+    text-align: center; /* Centrar horizontalmente el contenido */
+
+    padding: 10px 0px;
+    cursor: pointer;
+  }
+  .paypal {
+    height: 55px;
+    width: 260px;
+    display: block; /* Asegura que las imágenes sean elementos de bloque */
+    margin: 0 auto;
+    &:hover {
+      opacity: 0.7;
+    }
+    &:active {
+      transform: scale(0.95);
+    }
+  }
+  .buyme {
+    width: 250px;
+    height: 60px;
+    margin-top: 25px;
+    &:hover {
+      opacity: 0.7;
+    }
+    &:active {
+      transform: scale(0.95);
+    }
+  }
+
+.principles-content ul {
+    padding: 0px;
+    margin: 0px;
+  }
+.principles-content li {
+  text-align: justify;
+  margin-bottom: 20px;
+  margin-right: 40px;
+  margin-left: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.5em;
+  color: white;
+  list-style:circle;
+  font-size: 22px;
+}
+
+.containers p {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 10px 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.3em;
+}

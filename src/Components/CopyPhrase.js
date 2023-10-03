@@ -5,12 +5,9 @@ import boton from '../imagenes/copiarpegar.jpg'
 function CopiarFrase(props) {
 
     const manejarCopiar = async () => {
-        const generadorNode = props.generadorRef.current;
-        generadorNode.style.backgroundColor = 'white';
+        const generatorNode = props.generatorRef.current;
             try {
-            const imageBlob = await toJpeg(generadorNode);
-            generadorNode.style.backgroundColor = 'transparent';
-
+            const imageBlob = await toJpeg(generatorNode);
             const blobUrl = URL.createObjectURL(imageBlob);
             clipboardCopy(blobUrl);
             URL.revokeObjectURL(blobUrl);
@@ -22,7 +19,6 @@ function CopiarFrase(props) {
     return <img
     src={boton}
     alt="Copiar"
-    style={{ height: '25px', width: "auto", cursor: 'pointer', padding: '2px'}} 
     onClick={manejarCopiar}
   />
   

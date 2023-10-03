@@ -4,23 +4,16 @@ import logo_encabezado from '../imagenes/logo_encabezado.png'
 function Header() {
     const phrases = [
           "Bitácora de la desventura declarativa",
-          "El Waterloo de las oportunidades para guardar silencio",
-          "El Atila a cuyo paso no vulve a crecer el sentido de la proporción",
           "Museo del silogisticidio",
+          "Eterno resplandor de la mente sin recato"
         ];
       
 return (
-    <div className="main">
-        <div className="left">
-            <img src={logo_encabezado} alt="Logotipo" />
-        </div>
-        <div className="title">
-            El Terraplanista
-        </div>
-        <div className="right">
-          <p>{phrases[Math.floor(Math.random() * phrases.length)]}</p>
-        </div>
-    </div>
+    <header className="main">
+        <img src={logo_encabezado} alt='logo'/> 
+        <h1>El Terraplanista</h1>
+        <h2> <p>{phrases[Math.floor(Math.random() * phrases.length)]}</p> </h2>
+    </header>
     )
 }
 
