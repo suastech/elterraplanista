@@ -10,10 +10,9 @@ import hide from '../imagenes/close.png'
 import star from '../imagenes/star.png'
 import paypal from '../imagenes/paypal.png'
 import buyme from '../imagenes/buyme.png'
-import close from '../imagenes/closebutton.png'
+import close from '../imagenes/closebutton2.png'
 
 const Side = (props) => {
-    console.log("Valor del array fame en Side:", props.hallOfFameArray)
     const [sideActive,setSideActive]= useState(false)
     const [principles, setPrinciples] = useState(false)
     const [support, setSupport] = useState(false)
@@ -109,7 +108,7 @@ return (
        ( <div className='containers'>
          <img className='closeButton' src={close} alt='close' onClick={()=> toggleButton(setSupport)}/>
             <p id="support-content">
-                Si te gusta el contenido de nuestro sitio, puedes contribuir a que siga funcionando con un donativo a través de PayPal o Buy Me A Coffee. ¡Gracias!
+                <i>¡Terraplanistas del mundo, mochaos!</i> <br/><br/>Si te gusta el contenido de nuestro sitio, puedes contribuir a que siga funcionando con un donativo a través de PayPal o Buy Me A Coffee. ¡Gracias!
             </p>
             <div className='donateImages'>
                 <img src={paypal} alt='paypal' className='paypal'/>
@@ -154,7 +153,7 @@ return (
         <div className='containers'>
             <img className='closeButton' onClick={()=> toggleButton(setCredits)}
                 src={close} alt='close'/>
-            <p>Todas las declaraciones son mérito exclusivo de sus autores y presumiblemente fueron emitidas de manera totalmente voluntaria.</p>
+            <p>Todas las declaraciones son mérito exclusivo de sus autores y presumiblemente fueron emitidas voluntariamente.</p>
             <p>Respetamos las faltas ortográficas y otras formas de disidencia idiomática de las fuentes originales.</p>
             <p>Logotipo: cortesía de Monero Hernández</p>
             <p>Los ociosos tras esta iniciativa:</p>

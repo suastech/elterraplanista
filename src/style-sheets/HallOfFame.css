@@ -2,16 +2,15 @@
 .closeButton {
   position: relative;
   left: 50%;
-  transform: translateX(-50%);
-  height: 60px;
+  height: 45px;
   cursor: pointer;
-  margin-bottom: 10px;
+  margin: 20px 0px;
   &:hover {
     opacity: 0.7;
   }
   &:active {
-    height: 55px;
-    width: 55px;
+    height: 42px;
+    width: 42px;
   }
 }
 
@@ -23,6 +22,9 @@
 .arrow2 {
     background: none;
     border: none;
+    &:focus {
+      outline: none;
+    }
   } 
   .arrow2 img {
     height: 50px;
@@ -57,7 +59,7 @@
 .phrase2 {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
     height: 92%;
     width: 92%;
     line-height: 1.2;

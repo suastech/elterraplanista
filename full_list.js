@@ -1,4 +1,3 @@
-//La lista con la que alimenté Contentful:
 {
     "phrases": [
         {
@@ -69,7 +68,7 @@
             "text": "Cuando tienen un problema de taponación, se meten, los meten, se meten a sus casas llenos de miedo, a tragar chatarra y media, que el propio doctor López Gatell lo ha dicho, que eso hace daño, tapona los pulmones, no pueden respirar bronquios y pulmones. Ya no saben anatomía y fisiología. Eso es elemental.",
             "author": "Participante de la manifestación antivacunas en Palacio Nacional explica (más o menos) la relación entre los bronquios y comer papitas.",
             "info_author": "",
-            "comment": "Qué es la ideología de género desde el punto de vista de la Iglesia Católica? Un ministro de culto nos lo explica: La ideología de género pretende: menos personas en el mundo [¿dónde quedaron esas hembras alfa que parían ocho hijos sin andar lloriqueando por la ausencia de una carrera profesional?."
+            "comment": "Qué es la ideología de género desde el punto de vista de la Iglesia Católica? Un ministro de culto nos lo explica: La ideología de género pretende: menos personas en el mundo [¿dónde quedaron esas hembras alfa que parían ocho hijos sin andar lloriqueando por la ausencia de una carrera profesional?"
         },
         {
             "points": 0,
@@ -79,7 +78,7 @@
             "text": "Qué es la ideología de género desde el punto de vista de la Iglesia Católica? Un ministro de culto nos lo explica:",
             "author": "La ideología de género pretende:",
             "info_author": "",
-            "comment": "menos personas en el mundo [¿dónde quedaron esas hembras alfa que parían ocho hijos sin andar lloriqueando por la ausencia de una carrera profesional?."
+            "comment": "menos personas en el mundo [¿dónde quedaron esas hembras alfa que parían ocho hijos sin andar lloriqueando por la ausencia de una carrera profesional?"
         },
         {
             "points": 0,
@@ -129,7 +128,7 @@
             "text": "A la ruleta apuestan los dos: capitalista y trabajador. Si se pierde en la ruleta, el trabajador no pierde nada y el capitalista todo. Por eso le paga al capitalista para que le cubra los riesgos.",
             "author": "Juan Ramón Rallo, economista",
             "info_author": "",
-            "comment": "Tuit avalado por los dos millones de trabajadores que mueren cada año en accidentes laborales. PD. ¡Con que pierden todo! Que los capitalistas no lean este tuit o se les va a ocurrir inventar las Sociedades de Responsabilidad Limitada."
+            "comment": "Declaración avalada por los dos millones de trabajadores que mueren cada año en accidentes laborales. PD. ¡¿Conque pierden todo?! Que los capitalistas no se enteren o se les va a ocurrir inventar las Sociedades de Responsabilidad Limitada."
         },
         {
             "points": 0,
@@ -149,7 +148,7 @@
             "text": "Soñar es pensar a lo grande. Es apuntar a la luna sabiendo que si te quedas corto, alcanzarás las estrellas.",
             "author": "Anxo Pérez, “Los 88 peldaños del éxito”",
             "info_author": "",
-            "comment": "Estamos deseosos de que el escritor publique un diagrama de su modelo astronómico. ¿A cuántos metros de altura se imagina que están las estrellas? ¿Van antes o después del Everest?."
+            "comment": "Estamos deseosos de que el escritor publique un diagrama de su modelo astronómico. ¿A cuántos metros de altura se imagina que están las estrellas? ¿Van antes o después del Everest?"
         },
         {
             "points": 0,
@@ -157,9 +156,9 @@
             "hashtags": [],
             "date": "02/2022",
             "text": "No sólo tenemos la cárcel de DC, que es el Gulag DC, sino que ahora tenemos a la Policía Gaspacho de Nancy Pelosi.",
-            "author": "Marjorie Taylor Greene, diputada estadounidense, víctima de la traicionera  cercanía fonética entre Gestapo y Gaspacho.",
+            "author": "Marjorie Taylor Greene, diputada estadounidense",
             "info_author": "",
-            "comment": "Traía a un amigo mío colombiano mafiosón con otra 9 milímetros más chueca que él. Roebrto Palazuelos No importa que digan que hagan, la verdad siempre sale a la luz. Solo me están haciendo más fuerte, más grande y voy en camino a cumplir con mi destino. Vamos a terminar con el poder corrupto que tanto ha dañado a 🇲🇽. Yo sí amo a mi país, a su gente y voy de la mano de Dios. Roebrto Palazuelos [De la mano de Dios y de la del amigo mafiosón armado con una pistola más chueca que él."
+            "comment": "Suponemos que quiso decir Gestapo.",
         },
         {
             "points": 0,
@@ -219,7 +218,7 @@
             "text": "El recorrido de López Obrador [...] traza muchas analogías, por cuanto a aislamiento, desconfianza y represalias contra quienes fueron leales, con Maximilien Robespierre.",
             "author": "Raymundo Riva Palacio",
             "info_author": "",
-            "comment": "Amanecimos dadaístas de la glándula de las analogías. Proonemos una entre AMLO y Luis XIV, uno apodado el “Rey Sol”, otro oriundo de una tierra donde hace mucho calor. ¿Y por qué hace calor? Por el sol. ¿Y cómo le decían al Luis XIV? Rey sol. Práticamente vivimos en una monarquía absolutista."
+            "comment": "Amanecimos dadaístas de la glándula de las analogías. Proponemos una entre AMLO y Luis XIV, uno apodado el “Rey Sol”, otro oriundo de una tierra donde hace mucho calor. ¿Y por qué hace calor? Por el sol. ¿Y cómo le decían al Luis XIV? Rey sol. Práticamente vivimos en una monarquía absolutista."
         },
         {
             "points": 0,
@@ -229,7 +228,7 @@
             "text": "Para un enfermo terminal con dolores ordinarios -soportables- es mejor no pedir la sedación. Así el enfermo tiene ocasión de llevar su dolor con fe y por amor a Jesús, y ganar méritos para la Vida Eterna.",
             "author": "Padre Eduardo Hayen",
             "info_author": "",
-            "comment": "Qué consuelo para un moribundo imaginarse al Padre Celestial con un cronómetro en la mano contando los minutos que le va a apuntar en la boleta. Total, nunca se sabe: un día usted se pega en el dedo chiquito del pie y resulta que ese dolor es la morralla espiritual con la que acompleta para la salvación de su alma."
+            "comment": "Qué consuelo para un moribundo imaginarse al Padre Celestial cronómetro en mano contando los minutos que le va a apuntar en la boleta. Total, nunca se sabe: un día usted se pega en el dedo chiquito del pie y ese dolor es la morralla espiritual con la que acompleta para la salvación de su alma."
         },
         {
             "points": 0,
@@ -259,17 +258,7 @@
             "text": "Al diputado morenista Mier le faltan dos letras al final del apellido.",
             "author": "Jorge Berry",
             "info_author": "",
-            "comment": "Qué original. Cuánto ingenio. ¿Qué insultos habrá utilizado el señor cuando tenía siete años?."
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
-            "date": "04/2022",
-            "text": "Las mujeres dicen buscar un Príncipe Azul, pero lo que realmente les atrae es la Bestia. El Príncipe llega a aburrirles, la Bestia siempre les es un reto",
-            "author": "",
-            "info_author": "",
-            "comment": "Es fundamental que las mujeres lean esta clase de declaraciones para que lleguen a conocerse a sí mismas. Sabemos tanto sobre ellas…."
+            "comment": "Usted suelta ese insulto a los cuatro años y se convierte en el ingenioso del salón. A los seis ya los van acusando de anacrónico..."
         },
         {
             "points": 0,
@@ -279,7 +268,7 @@
             "text": "Samuel admira mucho a J.F. Kennedy, ¿sientes lo mismo por Jackie? La verdad no sé nada de esa historia. Historia era la clase en la que peor me iba en el colegio. La mexicana sí, pero más tipo maya o azteca. Siento que fui maya en otra vida, porque voy a las pirámides de Chiapas y siento algo curioso. La neta, de Estados Unidos no sé. Sé que hay una película de ella y después la varé.",
             "author": "Mariana Rodríguez, primera dama de Nuevo León en esta vida",
             "info_author": "",
-            "comment": "Si le faltan motivos para hacerse creyente considere que el infierno podría ser una conversación eterna entre Mariana Rodríguez y Ricardo Salinas Pliego."
+            "comment": ""
         },
         {
             "points": 0,
@@ -299,7 +288,7 @@
             "text": "No habrá solución definitiva al aborto hasta que el divorcio quede prohibido. Es urgente defender la familia como célula básica de toda sociedad, fuera de los caprichos individualistas que nos hacen creer que tenemos libertad para hacer lo que sea sin importar las consecuencias.",
             "author": "Leonardo Brown",
             "info_author": "",
-            "comment": "Que el compañero desarrolle su teoría: ¿ya consideró que, según algunos biólogos, la fecundación puede producirse incluso en ausencia de certificados de no divorcio? Por lo demás, reconozcamos que la implementación del plan tiene un problema: si se prohíbe el divorcio, ¿qué demente va a tomar el riesgo de casarse? ¿Qué va a seguir? ¿Hacer obligatorio el matrimonio, prohibir el sexo extramarital?."
+            "comment": "Que el compañero desarrolle su teoría: ¿ya consideró que, según algunos biólogos, la fecundación puede producirse incluso en ausencia de certificados de no divorcio? Por lo demás, reconozcamos que la implementación del plan tiene un problema: si se prohíbe el divorcio, ¿qué demente va a tomar el riesgo de casarse? ¿Qué va a seguir? ¿Hacer obligatorio el matrimonio, prohibir el sexo extramarital?"
         },
         {
             "points": 0,
@@ -336,7 +325,7 @@
             "region": "",
             "hashtags": [],
             "date": "05/2022",
-            "text": "Menos libros y más España. Vox”",
+            "text": "Menos libros y más España. Vox",
             "author": "Pinta en la fachada de la Biblioteca Sant Gervasi-Joan Maragall de Barcelona.",
             "info_author": "",
             "comment": "Las anécdotas de Vox son lo que en México conocimos como chistes de gallegos."
@@ -369,7 +358,7 @@
             "text": "Diez pesos la hora, por ocho horas diarias te da ochenta pesos diarios. Ochenta pesos diarios por semana de 48 horas te da $3840.00 semanales. Por cuatro semanas (dos quincenas) al mes, obtienes $15,360.00 mensuales. No es un salario tan bajo. La pregunta es ¿haciendo qué?",
             "author": "Paco Calderón",
             "info_author": "",
-            "comment": "Mira, Bartola, ahí te dejo estos diez pesos. Con que trabajes 190 días al mes sale un sueldo muy digno. Cuestión de voluntad (y de saber extender el espacio-tiempo)."
+            "comment": "Mira Bartola, con que trabajes 190 días al mes te alcanza bien."
         },
         {
             "points": 0,
@@ -416,10 +405,10 @@
             "region": "",
             "hashtags": [],
             "date": "06/2022",
-            "text": "Yo les recomiendo a los que les interese el tema que lean a León Tolstoi, tiene un… Un día voy a dar a conocer una bibliografía, porque no necesariamente tiene que ser Lenin o Hitler para la formación.",
+            "text": "Yo les recomiendo a los que les interese el tema que lean a León Tolstoi. Un día voy a dar a conocer una bibliografía, porque no necesariamente tiene que ser Lenin o Hitler para la formación.",
             "author": "AMLO",
             "info_author": "",
-            "comment": "¿Dijo Hitler? ¿Y dijo “necesariamente”? ¿O sea que lo dejamos como lectura optativa? ¿Y para la formación de quién y en qué? ¿Ya juntamos a Lenin con Hitler?."
+            "comment": "¿Dijo Hitler? ¿Y dijo “necesariamente”? ¿O sea que lo dejamos como lectura optativa? ¿Y para la formación de quién y en qué? ¿Ya juntamos a Lenin con Hitler?"
         },
         {
             "points": 0,
@@ -429,7 +418,7 @@
             "text": "Algún día, una niña o un niño de Ucrania se acordará que unos representantes de México fueron a su país a decirles: estamos con ustedes. México no es indiferente frente a esta profunda injusticia. Y por eso vale la pena hacer política.",
             "author": "Juan Zavala, Secretario general de Movimiento Ciudadano",
             "info_author": "",
-            "comment": "Niños de Ucrania, aquí les dejo el imborrable recuerdo de mi persona para que les dé fuerza y consuelo..."
+            "comment": "Qué ayudadota, verdaderamente. Las adversidades de una guerra son poco frente a la satisfacción de conocer a este señor de olvido imposible."
         },
         {
             "points": 0,
@@ -479,7 +468,7 @@
             "text": "Como alguien que ha ayudado a planificar golpes de Estado -no aquí, pero sí en otros lugares- se necesita mucho trabajo.",
             "author": "John Bolton, exconsejero de seguridad de Estados Unidos",
             "info_author": "",
-            "comment": "Asesinos? Sí. ¿Cobardes? Siempre. Pero holgazanes, nunca."
+            "comment": "¿Asesinos? Sí. ¿Cobardes? Siempre. ¿Holgazanes? Jamás."
         },
         {
             "points": 0,
@@ -489,7 +478,7 @@
             "text": "Los derechos humanos son, precisamente, para los humanos. Los delincuentes son bestias que no merecen ninguna consideración.",
             "author": "América Rangel, diputada del Partido Acción Nacional.",
             "info_author": "",
-            "comment": "Dónde vive la diputada? ¿Considera que nuestras instituciones penales no ejercen suficientemente la crueldad? ¡México, ese país agobiado por el exceso de derechos humanos y el déficit de brutalidad!"
+            "comment": "¿Dónde vive la diputada? ¿Considera que nuestras instituciones penales no ejercen suficientemente la crueldad? ¡México, ese país agobiado por el exceso de derechos humanos y el déficit de brutalidad!"
         },
         {
             "points": 0,
@@ -499,7 +488,7 @@
             "text": "Jesús Murillo Karam es preso político de López Obrador. Pueden citarme.",
             "author": "Fernando Belauzarán",
             "info_author": "",
-            "comment": "La genuina izquierda ya se moviliza en defensa de los presos políticos. Libertad al compañero Murillo, perseguido por defender sus ideas, sobre todo su peculiar idea de lo que es la impartición de justicia. Alguien cíteme por el amor de Dios."
+            "comment": "Libertad al compañero Murillo, perseguido por defender sus ideas (sobre todo su muy peculiar idea de lo que es la impartición de justicia). Alguien cíteme por el amor de Dios."
         },
         {
             "points": 0,
@@ -507,9 +496,9 @@
             "hashtags": [],
             "date": "08/2022",
             "text": "Esta pobre mujer no parece entender la relación entre productividad y sueldos. El tema no es cómo “presionar” para subir salarios, sino cómo ayudarles a los trabajadores a aumentar su productividad con mejor capacitación y acceso a mejores bienes de capital y tecnología de punta.",
-            "author": "Monseñor Jorge Suárez-Velez, obispo de la Iglesia de la Utilidad Marginal, en condecendiente explicación a la economista Viri Ríos.",
+            "author": "Monseñor Jorge Suárez-Vélez, obispo de la Iglesia de la Utilidad Marginal, en condecendiente explicación a la economista Viri Ríos.",
             "info_author": "",
-            "comment": "Aprendan de los capitalistas, que no se andan organizando para incrementar sus ganancias sino que se limitan a aceptar lo que el sapiente mercado les manda. ¿O acaso alguien se atreverá a dudar de la vigencia del modelito ese que estudié en el primer semestre de Economía?."
+            "comment": "Aprendan de los capitalistas, que no se andan organizando para incrementar sus ganancias sino que se limitan a aceptar lo que el mercado buenamente les manda. (Búrlense lo que quieran de los terraplanistas, pero los manuales de economía a la Samuelson et. al rigen el mundo)"
         },
         {
             "points": 0,
@@ -657,7 +646,7 @@
             "hashtags": [],
             "date": "10/2022",
             "text": "La ciencia decía que el hombre provenía de los simios. [...] Si eso es cierto, ¿por qué sigue habiendo simios? Piense en ello.",
-            "author": "Herschel Walker, político estadounidense, el Waterloo de Charles Darwin",
+            "author": "Herschel Walker, político estadounidense, el Waterloo de Charles Darwin.",
             "info_author": "",
             "comment": ""
         },
@@ -736,7 +725,7 @@
             "region": "",
             "hashtags": [],
             "date": "11/2022",
-            "text": "Lo que yo veo para todos ustedes es un México boyante...",
+            "text": "Lo que yo veo para todos ustedes es un México boyante.",
             "author": "Carlos Slim",
             "info_author": "",
             "comment": "No sea burlón, pinche ingeniero."
@@ -949,7 +938,7 @@
             "text": "Ser incómodo para los tiranos es lo más significativo que me ha pasado.",
             "author": "Chumel Torres",
             "info_author": "",
-            "comment": "Aquí incomodando, dijo la hormiga. Aquí construyendo la paz en Chiapas, dijo Maná. Aquí luchando por la emancipación de la mujer proletaria, dijo Paris Hilton."
+            "comment": "Aquí incomodando, dijo la hormiga. Aquí luchando por la emancipación de la mujer proletaria, dijo Paris Hilton."
         },
         {
             "points": 0,
@@ -969,7 +958,7 @@
             "text": "Ovidio [Guzmán] desafía la explicación obradorista de que el crimen es resultado de la pobreza. Creció como niño pijo en el Pedregal y estudió primaria en el Ceyca, la escuela más fresa del sur. Luego arruinó su vida siguiendo al padre.",
             "author": "Pablo Majluf",
             "info_author": "",
-            "comment": "Lo llamaremos falsacionismo en esteroides: si encontramos un cisne negro, le escribimos a Karl Popper para notificarle que los cisnes blancos no existen. PD.- Avísenle a los cientos de miles de presos que a lo mejor pertenecen a la clase media."
+            "comment": "Lo llamaremos falsacionismo en esteroides: si encontramos un cisne negro le notificamos a Karl Popper que los cisnes blancos no existen. Pd. Avísenle a los cientos de miles de presos que a lo mejor pertenecen a la clase media."
         },
         {
             "points": 0,
@@ -989,7 +978,7 @@
             "text": "Vuelan vuelan hacia los cielos las aeronaves con libertad/Varios destinos en territorio, también con rumbo internacional...",
             "author": "Himno del Aeropuerto Internacional Felipe Ángeles",
             "info_author": "",
-            "comment": ""
+            "comment": "No como antes que las aeronaves volaban sin libertad."
         },
         {
             "points": 0,
@@ -999,7 +988,7 @@
             "text": "Esto [el himno del AIFA] es casi fascista.",
             "author": "Joaquín López Dóriga",
             "info_author": "",
-            "comment": ""
+            "comment": "¿Qué se imaginan que fue el fascismo? ¿Un conjunto de productos culturales cursis? ¿Todo aquello a lo que le puedo atribuir un valor negativo? No te comas esas mandarinas, ya están medio fascistas. Ni un tiro a gol, este partido está fascistísima. El tráfico está refascista, me hice dos horas."
         },
         {
             "points": 0,
@@ -1009,7 +998,7 @@
             "text": "Que nunca más tengamos institutos electorales costosos e imparciales a costa del pueblo.",
             "author": "Morena",
             "info_author": "",
-            "comment": "Nunca más instituciones imparciales. Nuestra lucha es contra el diccionario y por la inimparcialidad"
+            "comment": "¡Abajo la imparcialidad, viva la inimparcialidad!"
         },
         {
             "points": 0,
@@ -1029,7 +1018,7 @@
             "text": "Esas no van a venir.",
             "author": "Manuel Bartlett, en Pasta de Conchos, sobre cinco viudas ya fallecidas de los mineros sepultados.",
             "info_author": "",
-            "comment": "Y bueno, si renuncio al sentido del humor con qué quieren que me quede. ¿Mi inteligencia? ¿Mi honestidad?."
+            "comment": "Y bueno, si renuncio al sentido del humor con qué quieren que me quede. ¿Mi inteligencia? ¿Mi honestidad?"
         },
         {
             "points": 0,
@@ -1339,7 +1328,7 @@
             "text": "ABER baboso ignorante!",
             "author": "Pedro Ferriz Híjar",
             "info_author": "",
-            "comment": "Eso te pasa por no a ver estudiado!."
+            "comment": "Eso te pasa por no a ver estudiado."
         },
         {
             "points": 0,
@@ -1379,14 +1368,14 @@
             "text": "Ojalá Xóchitl nos cubra eso. Que los huevones no caben en el gobierno y tampoco en el país. Ya se acabó que estés recibiendo programas sociales. ¡A trabajar cabrones!",
             "author": "Vicente Fox",
             "info_author": "",
-            "comment": "Fox presenta: “Los beneficiarios de programas sociales son unos holgazanes y otros eslóganes para ganarnos la simpatía de la gente”. Pd.- Ah, la pensión vitalicia a expresidentes sí devuélvanla por favor.."
+            "comment": "Fox presenta: “Los beneficiarios de programas sociales son unos holgazanes y otros eslóganes para ganarnos la simpatía de la gente”. Pd. Ah, la pensión vitalicia a expresidentes sí devuélvanla por favor.."
         },
         {
             "points": 0,
             "region": "",
             "hashtags": [],
             "date": "08/2023",
-            "text": "Zurdos de mierda: somos superiores productivamente, somos superiores moralmente, somos superiores estéticamente\".",
+            "text": "Zurdos de mierda: somos superiores productivamente, somos superiores moralmente, somos superiores estéticamente.",
             "author": "Javier Milei",
             "info_author": "",
             "comment": "Eso sí ofende. La izquierda nunca reivindicó como suya la guapura, pero nunca nos habían dicho feos. Tendremos que proponer el acceso público y gratuito a los servicios de peluquería."
@@ -1399,7 +1388,7 @@
             "text": "Viva Allende! ¡Viva Morelos! ¡Viva el erótico pueblo de México!",
             "author": "Jesús Flores, alcalde de Huatabampo, durante la conmemoración del grito de independencia.",
             "info_author": "",
-            "comment": "Vivan los concupiscentes empeños de las masas! ¡Vivan los eros que nos dieron líbido!."
+            "comment": "Vivan los concupiscentes empeños de las masas! ¡Vivan los eros que nos dieron líbido!"
         },
         {
             "points": 0,
@@ -1459,7 +1448,7 @@
             "text": "No odias los lunes, odias tu vida y sólo es lunes.",
             "author": "Chumel Torres",
             "info_author": "",
-            "comment": "Lo agobia la idea de pararse a las 6 de la mañana y pasar dos horas en el transporte público para llegar a un trabajo malpagado? No se preocupe, los portavoces de la encumbrada frivolidad están aquí para prodigarle lecciones de vida."
+            "comment": "¿Lo agobia la idea de pararse a las 6 de la mañana y pasar dos horas en el transporte público para llegar a un trabajo malpagado? No se preocupe, los portavoces de la encumbrada frivolidad están aquí para prodigarle lecciones de vida."
         },
         {
             "points": 0,
@@ -1469,7 +1458,7 @@
             "text": "Estos cien kilómetros de tubo... Si tu vas en tu carro y le pisas a cien kilómetros por hora, te puedes echar hora y media.",
             "author": "Samuel García, gobernador de Nuevo León",
             "info_author": "",
-            "comment": "Bueno, el problema estaba complicado. Va otro más al nivel del gobernador: si Pedro tiene 3 manzanas, ¿cuántas manzanas tiene?."
+            "comment": "Bueno, el problema estaba complicado. Va otro más al nivel del gobernador: si Pedro tiene 3 manzanas, ¿cuántas manzanas tiene?"
         },
         {
             "text": "Si hubiera un virus letal, ¿no creen que ya nos hubiéramos muerto todos?",
@@ -1499,7 +1488,7 @@
             "text": "El atentado que sufrió García Harfuch deja en evidencia que querían asesinarlo.",
             "author": "Raymundo Riva Palacio",
             "info_author": ", periodista y detective.",
-            "comment": "¿De veras? Nada más le dispararon 400 veces. ¿Ya se lo comentó a los detectives?",
+            "comment": "¿Está seguro? Nada más le dispararon 400 veces. ¿Le cae?",
             "region": "nacional",
             "points": 1,
             "date": "07/2020",
@@ -1596,7 +1585,7 @@
             "points": 0,
             "date": "05/2020",
             "hashtags": [
-                "Epidemología humanista"
+                "Epidemología"
             ]
         },
         {
@@ -1616,26 +1605,16 @@
             "points": 0,
             "region": "",
             "hashtags": [],
-            "date": "07/2020",
-            "text": "Más de 40 mil muertos por Covid-19! Miles de hijos, esposas, esposos, nietos… por la estupide de un ignorante que llegó al poder! Ya entendieron que es más peligroso en el poder un analfabeta, que la bomba atómica; más peligroso que un dictador como Mussolini, Hitler y Franco?",
-            "author": "Ricardo Alemán",
-            "info_author": ", periodista.",
-            "comment": ""
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
             "date": "06/2020",
             "text": "El demonio existe en plena pandemia, intentando llevar a cabo investigaciones para vacunas y para curaciones. Nos encontramos con la dolorosísima noticia de que una de las vacunas se fabrica a base de células de fetos abortados. Eso es despreciar al hombre mismo... Primero se le mata con el aborto, y después se le manipula para: “ay qué bueno, mira qué bien, ya tenemos una vacuna”.",
             "author": "Antonio Cañizares",
             "info_author": ", Arzobispo de Valencia",
-            "comment": "Increíble que en pleno siglo XXI la ciencia siga creyendo en las vacunas."
+            "comment": "¿Se acuerda del feto-ingeniero? Ya tenemos al feto-vacuna."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": ["Susanita vive"],
             "date": "07/2020",
             "text": "IMAGÍNENSE la cena de gala, a los empresarios mexicanos, a los embajadores de ambos países, Ebrard y los invitados gringos -TODOS ENGLISH SPEAKING-, cuando estén traduciendo a AMLO pero no entienda los chistoretes de TRUMP, todos riendo y él con cara de WHAT. ¿Sentirán vergüenza?",
             "author": "Ma. Elena Pérez-Jaén",
@@ -1659,7 +1638,7 @@
             "date": "08/2020",
             "text": "En Dinamarca no funcionaría el clientelismo de amlo.",
             "author": "Francisco Martín Moreno",
-            "info_author": ", compartiendo la información (equivocada) de que \"En Dinamarca toda persona que recibe algún tipo de ayuda social está inhabilitada para votar\".",
+            "info_author": ", compartiendo la información (equivocada) de que 'En Dinamarca toda persona que recibe algún tipo de ayuda social está inhabilitada para votar'.",
             "comment": ""
         },
         {
@@ -1670,7 +1649,7 @@
             "text": "[Leona Vicario] también dio dinero y no la grabaron. Me gustaría ver el video de cuando Leona Vicario daba dinero para que todos pudieran comer en los campamentos y lucháramos por la independencia.",
             "author": "Beatriz Gutiérrez Müller",
             "info_author": ", en respuesta a los videos que muestran a Pío López Obrador recibiendo sobres con dinero en efectivo.",
-            "comment": "Leona Vicario hizo tanto por México que hoy es digna de ser comparada con el hermano del líder de nuestro movimiento. (Pd.- En rigor, la ausencia de grabaciones sugiere que la prócer pudo haber hecho sus contribuciones vía SPEI)."
+            "comment": "Leona Vicario hizo tanto por México que hoy es digna de ser comparada con el hermano del líder de nuestro movimiento. (Pd. En rigor, la ausencia de grabaciones sugiere que la prócer pudo haber hecho sus contribuciones vía SPEI)."
         },
         {
             "points": 0,
@@ -1680,7 +1659,7 @@
             "text": "Como cuando tú vieja agarra tú cel y le escribe a tus amigos para que ya no te inviten al pedo.",
             "author": "Pedro Ferriz Híjar",
             "info_author": "",
-            "comment": "Qué menso, se le olvidó acentuar 'tús'."
+            "comment": "Se le olvidó acentuar el 'tús'."
         },
         {
             "points": 0,
@@ -1717,10 +1696,10 @@
             "region": "",
             "hashtags": [],
             "date": "05/2020",
-            "text": "¿Qué quiere Morena? Iniciar el establecimiento de un Estado comunista en México. Así de sencillo.",
+            "text": "¿Qué quiere Morena? Iniciar el establecimiento de un Estado comunista en México. Así de sencillo. Lo hace disfrazándolo con el término “Estado de Bienestar”. Pero no nos engañemos: es comuniso puro y duro.",
             "author": "Carlos Mota",
             "info_author": "",
-            "comment": "Sin la socialización de los medios de producción, pero un Estado comunista. Vaya, sin reforma fiscal, pero de que quieren un Estado comunista no hay duda"
+            "comment": "Un fantasma recorre mi imaginación. Es el fantasma de lo que sea que entienda por comunismo..."
         },
         {
             "points": 0,
@@ -1729,7 +1708,7 @@
             "date": "05/2020",
             "text": "Los mexicanos no debieron sacralizar el precepto de la “lucha contra la desigualdad”. Pero sus culpas pudieron más que su amor propio...",
             "author": "Carlos Mota",
-            "info_author": "periodista.",
+            "info_author": ", periodista.",
             "comment": "No es para tanto: seguimos siendo un país profundamente desigual... algo de amor propio nos queda. Y mire qué bien estamos, no como esos escandinavos que tanto deben despreciarse"
         },
         {
@@ -1747,10 +1726,10 @@
             "region": "",
             "hashtags": [],
             "date": "05/2020",
-            "text": "¿Qué quiere AMLO? ¿Hacia dónde va el país? Los hechos apuntan a que vamos hacia el socialismo caduco.",
+            "text": "López Obrador ha emprendido una huida hacia el socialismo. Un socialismo marxista, no democrático, que tiene a la lucha de clases como su motor fundamental. [...] ¿Qué quiere AMLO? ¿Hacia dónde va el país? Los hechos apuntan a que vamos hacia el socialismo caduco.",
             "author": "Pablo Hiriart",
             "info_author": "periodista.",
-            "comment": "¡Un fantasma recorre la imaginación del columnista! Por 'los hechos' me refiero a lo que fantaseo que puede llegar a suceder una vez que hacemos abstracción de los hechos. Lo llamo empirismo imaginario."
+            "comment": "Por 'los hechos' me refiero a lo que fantaseo que puede llegar a suceder una vez que hacemos abstracción de los hechos. Lo llamo empirismo imaginario."
         },
         {
             "points": 0,
@@ -1790,7 +1769,7 @@
             "text": "Ahora con la simulación sobre el feminismo, empiezo a escuchar “Rompa el pacto, rompa el pacto”. Les digo, sinceramente, y no miento... me enteré de lo que era eso hace cinco días. Le dije a mi esposa, oye, ¿qué es esto de “rompa el pacto”? Y ya me dijo: rompa el pacto patriarcal. O sea, deja de estar apoyando a los hombres. ¿Y saben qué sucede? Que son expresiones importadas. Copias, o sea...¿Qué tenemos nosotros que ver con eso, si nosotros somos respetuosos de las mujeres, de todos los seres humanos?",
             "author": "AMLO",
             "info_author": "",
-            "comment": "Lo importante es que usted siga hable y hable del tema que sea. Cuando uno no entiende algo lo mejor es explicarlo en cadena nacional."
+            "comment": "Lo importante es que usted siga hable y hable del tema que sea, porque cuando uno no entiende algo lo mejor es explicarlo en cadena nacional."
         },
         {
             "points": 0,
@@ -1832,7 +1811,7 @@
             "text": "Los extranjeros que nos atacan son de otro país.",
             "author": "Nicolás Maduro",
             "info_author": "",
-            "comment": "No se burlen. Es un discurso sobre Kant y los juicios sintéticos a priori, ¿ah verdad?"
+            "comment": "Al menos en su gran mayoría."
         },
         {
             "points": 1,
@@ -1844,7 +1823,7 @@
             "text": "Demasiada coincidencia que maten a alguien y al día siguiente esté muerto.",
             "author": "Nicolás Maduro",
             "info_author": "",
-            "comment": "¡Qué tiempos! Se está muriendo mucha gente que antes no se moría."
+            "comment": "Qué tiempos. Se está muriendo mucha gente que antes no se moría."
         },
         {
             "points": 0,
@@ -1861,7 +1840,7 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": ["Susanita vive"],
             "date": "",
             "text": "Los pobres son los codiciosos. Si lo piensas, para ser rico, necesitas dar algo. Debo producir libros, juegos, comprar terrenos, ofrecer viviendas, ofrecer trabajos. Pero la gente codiciosa no produce nada.",
             "author": "Robert Kiyosaki",
@@ -1877,6 +1856,96 @@
             "author": "Mariano Rajoy, expresidente (!) de España",
             "info_author": "",
             "comment": "Vaya, algunas ideas tenemos, pero lo que se dice saber exactamente, desafortunadamente no"
-        }
+        },
+        {
+            "points": 1,
+            "region": "",
+            "hashtags": [],
+            "date": "03/2018",
+            "text": "Ahora el más resuelto enemigo de la literatura, que pretende descontaminarla de machismo, prejuicios múltiples e inmoralidades, es el feminismo.",
+           "author": "Mario Vargas Llosa",
+            "info_author": "",
+            "comment": "El más resuelto enemigo. Sea. (Duda seria: ¿el machismo es amigo o enemigo de la literatura?)"
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "",
+            "text": "Mientras más estricta ha sido la educación de una niña y de una adolescente, más dispuesta para el amor será esa mujer cuando sea adulta.",
+            "author": "Mario Vargas Llosa",
+            "info_author": "",
+            "comment": "El señor educado en colegio militar debe ser voz muy autorizada en la materia."
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "",
+            "text": "Hoy es el aniversario de Karl Marx, nacido el 5 de mayo de 1883. Nunca las ideas de un filósofo generaron tantas muertes.",
+            "author": "Sergio Sarmiento",
+            "info_author": "",
+            "comment": "Si nació en 1883 habrá muerto por allí de 1960. Hablamos con conocimiento de causa. Marx es un ruso que construía gulags en Cuba."
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "06/2020",
+            "text": "Con mucha pena te esclibo esta calta para infolmalte que pol óldenes supelioles no publicalemos la entlevista que te hice la semana pasada pol la cantidad de mentilas que nos dĳiste.",
+            "author": "Carlos Alazraki, en 'Carta de mi amigo chino Tu Chin Gun'",
+            "info_author": "",
+            "comment": "Si El Universal quiere abarcar todo el espectro de la complejidad de las opiniones, ¿por qué no invitar directamente a escribir a un niño de cuatro años?"
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "06/2020",
+            "text": "Conforme avanza la recuperación de la vida económica de México va quedando claro quiénes fueron los principales personajes que sacaron la casta para que nuestra crisis tuviera un freno: los banqueros. [...] Hace falta que el presidente Andrés Manuel López Obrador emita un reconocimiento público a esta acción heroica de los banqueros.",
+            "author": "Carlos Mota, sobre la prórroga de cuatro meses al cobro de créditos concedida por los bancos durante la pandemia",
+            "info_author": "",
+            "comment": "¡Posponer cuatro meses el cobro de intereses! ¿Habrán podido comer bien? ¿Son banqueros o San Martín de Porres? (Pd.Los millones de trabajadores que arriesgaron su vida para mentener la economía en marcha apenas alcanzan mención honorífica en el ranking de los héroes)."
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "10/2020",
+            "text": "Hemos sido aplastados, pero somos de mercurio.",
+            "author": "Alberto Plaza, cantautor chileno, sobre la derogación de la constitución chilena a través del plebiscito de 2020.",
+            "info_author": "",
+            "comment": "¡Volveremos y seremos termómetro!"
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "10/2020",
+            "text": "Piñera no fue capaz de hacer nada. No fue que lo derrotaron. Fue que ni siquiera fue a la batalla. Y entregó el país en los que podríamos llamar un Golpe de Estado posmoderno.",
+            "author": "Vanesa Vallejo, periodista chilena, sobre la derogación de la constitución chilena a través del plebiscito de 2020.",
+            "info_author": "",
+            "comment": "Ahonde la denunciante: ¿el posmogolpe incluye torturas posmodernas? ¿Los toques eléctricos se enviarán por Wifi? ¿A los asesinatos los reemplaza la eliminación de las cuentas de Instagram? Qué manga de débiles son los posmogolpistas."
+           },
+           {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "09/2020",
+            "text": "Se le conoció como el benemérito de las Américas... Fue tan importante su proceder y su fama, que Benito Mussolini lleva ese nombre porque su papá quiso que se llamara como Benito Juárez.",
+            "author": "AMLO, ante una asamblea general de la ONU complacida por estas interesantes historias.",
+            "info_author": "",
+            "comment": "Intervenciones de AMLO en la ONU: 1. Intervenciones inolvidables de AMLO en la ONU: 1. "
+           },
+           {
+            "points": 1,
+            "region": "",
+            "hashtags": [],
+            "date": "09/2020",
+            "text": "¿Así se le dice a un animalito que se tiene como mascota, se le dice a un perrito, a cualquier animalito, 'vete a buscar tus alimentos'? No. El dueño, el que quiere a ese animal, lo protege y le da de comer. ¿Por qué a los seres humanos no? ¿Cuál es la misión del gobierno? Lograr la felicidad del publo.",
+            "author": "AMLO",
+            "info_author": "",
+            "comment": "Los tecnócratas nos llamaban 'componentes de la curva de demanda agregada'. Hoy somos entrañables animalitos. Total, acá andamos para lo que se le ofrezca a su avidez metafórica."
+           }
     ]
 }

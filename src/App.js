@@ -23,7 +23,7 @@ function App() {
       },
       })
       .then(response => {
-        setGeneral_list(response.data.fields.hallOfFame.phrases);
+        setGeneral_list(response.data.fields.TerraplanistaPhrases.phrases);
         setIsLoading(false);
       })
       .catch(error => {
@@ -34,11 +34,17 @@ function App() {
   function getArrays(array) {
   const shuffledArray = [...array];
   const hall_of_fame = array.filter(obj => obj.points > 0);
-  console.log("array después de la función filter:", hall_of_fame);
+
+  
       for (let i = shuffledArray.length - 1; i > 0; i--) {
         const randomIndex = Math.floor(Math.random() * (i + 1));
         [shuffledArray[i], shuffledArray[randomIndex]] = [shuffledArray[randomIndex], shuffledArray[i]];
       }
+      for (let i = hall_of_fame.length - 1; i > 0; i--) {
+        const randomIndex = Math.floor(Math.random() * (i + 1));
+        [hall_of_fame[i], hall_of_fame[randomIndex]] = [hall_of_fame[randomIndex], hall_of_fame[i]];
+      }
+
       return [shuffledArray, hall_of_fame]; 
     }
 
@@ -52,7 +58,6 @@ function App() {
         <div> Cargando</div>
         :
           <div className='workspace'>
-          {console.log("valor antes de llamar a Side:", hallOfFameArray)}
           <Side hallOfFameArray={hallOfFameArray}/>
           <MainContainer list_to_show={list_to_show}/>   
         </div>

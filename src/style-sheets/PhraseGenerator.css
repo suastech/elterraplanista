@@ -9,48 +9,35 @@
 .arrow {
     background: none;
     border: none;
+    &:focus {
+      outline: none;
+    }
   }
   
   .arrow img {
-    height: 50px;
+    height: 35px;
     cursor: pointer;
     &:active {
       transform: scale(0.90);
     }
   }
 
-
  .whole-phrase {
+  position: relative;
   height: fit-content;
   width: fit-content;
-  padding: 10px;
  }
 
 .phrase-frame {
-      position: relative;
+      position: absolute;
+      height: 76%;
+      width: 90%;
+      top: 45px;
+      left: 35px;
       display: flex;
       justify-content: center;
       align-items: center;
-      border-radius: 30px;
-      border: 5px solid #f4a91e;
-      outline: 3px solid #f4a91e;
-      background-color: rgba(255, 255, 255);
-      outline-offset: 4px
-  }
-
-.loading {
-    background-color: black;
-    border-radius: 24px;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url('../imagenes/meme.jpg');
-    background-size: auto 50%;
-    background-position: center center;
-    background-repeat: no-repeat;
-  }
+    }
 
 .circle {
     width: 30px;
@@ -69,36 +56,37 @@
 .phrase {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    height: 92%;
-    width: 92%;
-    line-height: 1.2;
-    text-align: justify;
+    justify-content: space-evenly;
+    height: 90%;
+    width: 90%;
+    line-height: 1.3;
   }
 
 .text {
       font-size: 1em;
       color: #015D87;   
-      font-family: Georgia, 'Times New Roman', Times, serif;
-      text-align: justify;
+      font-weight: 600;
+      font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
       margin: 0px;
     }
     
 .author {
-      font-size: .8em;
+      font-size: .85em;
       color: #015D87;
-      font-weight: bold;
+      font-weight: 600;
+      font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
       margin: 0px;
     }
     
 .comment {
-      font-size: .9em;
-      font-family: Georgia, 'Times New Roman', Times, serif;
-      font-style: italic;
+      font-size: .8em;
+      font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
       color: #8b5c04;
+      font-weight: 600;
       margin-top: 0px;
       margin-bottom: 0px;
       margin-left: 10%;
+      text-align: left;
     }
 
 .bottom {
@@ -108,10 +96,9 @@
     justify-content: space-between;
     margin: 0px 60px;
     padding-bottom: 20px;
-    border-radius: 8px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
-    font-weight: bold;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
     color:white;
   }
 

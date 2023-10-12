@@ -110,8 +110,9 @@ return (
             {!isSearchActive ? 
                 ( <>
                 <input  type="text"
+                        maxLength="30" 
                         id="searchField"
-                        placeholder="Busca un nombre o término"
+                        placeholder="Buscar..."
                         onKeyDown= {handleSearch} />
                 </> )
                 :

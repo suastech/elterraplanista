@@ -7,7 +7,7 @@ import DownloadPhrase from "./DownloadPhrase";
 import CopyPhrase from "./CopyPhrase";
 import share from "../imagenes/sharew.png";
 import framehall from '../imagenes/framehall3.png'
-import close from '../imagenes/closebutton.png'
+import close from '../imagenes/closebutton2.png'
 
 
 function HallOfFame(props) {

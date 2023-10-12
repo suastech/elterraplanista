@@ -7,19 +7,17 @@ header {
     padding: 0px 0px;
   }
 
-header img {
-  height: 80px;
-}
- 
 header h1 {
     font-size: 50px;
     color: white;
+    margin-left: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
   }
   
 header h2 {
     font-size: 18px;
     color: white;
+
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 30px;
     margin-top: 39px;
