@@ -1,9 +1,14 @@
 import { toJpeg } from 'html-to-image';
 import boton from '../imagenes/logoTwitter.webp'
 
-
 function ShareOnTwitter(props) {
     const manejarTwitter = async () => {
+
+      const message = `"${props.text}"\n${props.author}${props.info_author}\n
+      [${props.comment}]\n
+      Para más frases inmortales, visite "El Terraplanista" o síganos en @TerraplanistaMX
+      `
+
       try {
         const generatorNode = props.generatorRef.current;
         const imageBlob = await toJpeg(generatorNode);

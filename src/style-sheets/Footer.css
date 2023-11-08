@@ -7,7 +7,24 @@ footer {
   font-size: 14px;
   color: white;
   justify-content: space-around;
+ 
 }
 footer p {
   text-align: center;
+}
+
+@media (max-width: 670px) {
+  footer {
+    font-size: 11px;
+    display: block;
+    align-items: center;
+    height: fit-content;
+    padding: 10px 0px;
+    position: relative;
+
+  }
+  footer p {
+    margin-top: 5px;
+  }
+  
 }

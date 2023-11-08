@@ -3,14 +3,13 @@ import PhraseGenerator from "./PhraseGenerator";
 import { useState, useEffect } from "react";
 import wordFinder from "./wordFinder";
 
-function MainContainer( {list_to_show} ) {
+function MainContainer( {list_to_show, normalVersion, setNormalVersion} ) {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isSearchActive, setIsSearchActive] = useState(false);
     const [search, setSearch] = useState("")
     const [order, setOrder] = useState("seeAll");
     const [category, setCategory] = useState('all')
     const [isCategoryOn, setIsCategoryOn] = useState(false);
-
     const [selectedArray, setSelectedArray] = useState(list_to_show);
 
     const handleOrder  = (event) => {
@@ -55,7 +54,20 @@ function MainContainer( {list_to_show} ) {
     });
 
 //Building the list of phrases to show according to user selections: 
-  //Functions to select phrases: 
+
+  //sortByDate
+  function sortByDate(data) {
+    data.forEach(item => {
+      const [month, year] = item.date.split("/");
+      const parsedDate = new Date(year, month - 1, 1); // Restamos 1 al mes ya que los meses en JavaScript son 0-indexados
+      item.parsedDate = parsedDate;
+    });
+    // Ordena el array en orden descendente por fecha
+    data.sort((a, b) => b.parsedDate - a.parsedDate);
+    return data.slice(0, 20);
+  }
+
+//Functions to select phrases: 
   function arrayFactory(list_to_arrenge) { 
     if (category !== "all") {
       return list_to_arrenge.filter(obj => obj.hashtags.some(hashtag => hashtag === category) ) }
@@ -68,7 +80,18 @@ function MainContainer( {list_to_show} ) {
         setIsSearchActive(false);
         return list_to_arrenge};
       };
-      if (order === "seeRecent") { return  list_to_arrenge.sort((a, b) => b.date - a.date)}
+      if (order === "seeRecent") {
+//        list_to_arrenge.sort((a, b) => new Date(b.date) - new Date(a.date) )
+//        return list_to_arrenge.slice(0,20)
+
+        list_to_arrenge.sort((a, b) => 
+          {
+            let lengthA = a.text.length + a.author.length + a.info_author.length + a.comment.length
+            let lengthB = b.text.length + b.author.length + b.info_author.length + b.comment.length
+            return lengthB - lengthA
+          })
+          return list_to_arrenge;
+      }
       if (order === "seeAll") {return  list_to_arrenge}
   }
 
@@ -79,7 +102,7 @@ function MainContainer( {list_to_show} ) {
 
  
 return (
-    <div className="container">
+    <div className="workingspace">
 
       <div className="upperMenu">
 
@@ -122,13 +145,15 @@ return (
         
       </div>
 
-      <div className="phraseContainer">
+      <>
         <PhraseGenerator
           selectedArray={selectedArray}
           currentIndex={currentIndex}
           setCurrentIndex={setCurrentIndex}
+          normalVersion={normalVersion}
+          setNormalVersion={setNormalVersion}
         />
-      </div>
+      </>
     </div>
   );
 }

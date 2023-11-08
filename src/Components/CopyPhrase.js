@@ -1,27 +1,23 @@
-import { toJpeg } from 'html-to-image';
-import clipboardCopy from 'clipboard-copy';
-import boton from '../imagenes/copiarpegar.jpg'
+import boton from '../imagenes/copiarpegar.jpg';
 
-function CopiarFrase(props) {
+const CopyPhrase = ({ currentItem }) => {
+  const { text, author, info_author, comment } = currentItem;
 
-    const manejarCopiar = async () => {
-        const generatorNode = props.generatorRef.current;
-            try {
-            const imageBlob = await toJpeg(generatorNode);
-            const blobUrl = URL.createObjectURL(imageBlob);
-            clipboardCopy(blobUrl);
-            URL.revokeObjectURL(blobUrl);
+  const handleCopy = () => {
+    const message = `"${text}"\n${author}${info_author}\n[${comment}]\nPara más frases inmortales, visite "El Terraplanista" o síganos en @TerraplanistaMX`;
 
-    } catch (error) {
-      console.error('Error al copiar la imagen al portapapeles:', error);
-    }
+    // Copiar el mensaje al portapapeles
+    navigator.clipboard.writeText(message)
+      .then(() => {
+        alert('Texto copiado al portapapeles');
+      })
+      .catch((error) => {
+        console.error('Error al copiar el mensaje: ', error);
+      });
   };
-    return <img
-    src={boton}
-    alt="Copiar"
-    onClick={manejarCopiar}
-  />
-  
+  return (
+    <img src={boton} alt="Copiar" onClick={handleCopy} />
+  );
 };
 
-export default CopiarFrase;
+export default CopyPhrase;

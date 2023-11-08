@@ -1,12 +1,12 @@
 import React from 'react';
 import '../style-sheets/Footer.css'
 
-
 const Footer = () => {
 
   const phrases = [
     "Si lo pude decir debe ser cierto",
-    "óilooo"
+    "¿De lo que no se puede hablar? Ni que fuérmaos mudos",
+    "Si me callo van a creer que no sé"
   ];
 
   return (

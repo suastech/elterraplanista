@@ -1,8 +1,6 @@
-  .containter {
-    background-image: url('../imagenes/fondo\ encabezado.jpg')
-    
-  }
   
+ .workingspace {
+ } 
   .upperMenu {
     height: 50px;
     display: flex;
@@ -13,25 +11,25 @@
 
   .select {
     height: 40px;
-    padding: 5px; /* Añade un espacio de relleno para un aspecto más limpio */
-    border: 2px solid #025D8A; /* Agrega un borde para definir el elemento */
-    border-radius: 10px; /* Borde redondeado para un aspecto suave */
-    background-color: #fff; /* Fondo blanco */
-    color: #333; /* Color del texto */
-    font-size: 14px; /* Tamaño de fuente adecuado */
+    padding: 5px;
+    border: 2px solid #025D8A; 
+    border-radius: 10px;
+    background-color: #fff; 
+    color: #333; 
+    font-size: 14px; 
     font-weight: bold;
     outline: none; 
     cursor: pointer;
   }
-    .select:focus {
-      border: 1px solid #007bff; /* Cambia el borde al enfocar el elemento */
-      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Agrega una sombra al enfocar el elemento */
-    }
+.select:focus {
+   border: 1px solid #007bff; 
+   box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); 
+  }
 
-    .select option {
-      font-size: 15px;
-      color: black;
-    }
+.select option {
+  font-size: 15px;
+  color: black;
+ }
 
   #searchField {
     height: 40px;
@@ -75,7 +73,31 @@
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Agrega una sombra al enfocar el elemento */
 }
 
-.phraseContainer{
-    display: flex;
-    justify-content: center;
-  }
+
+
+
+  @media (max-width: 670px) {
+    .upperMenu{
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      padding: 10px 0px;
+    }
+    .select{
+      margin-bottom: 4px;
+      width: 130px;
+      height: 30px;
+      font-size: 10px;
+    }
+    #searchField{
+      width: 100px;
+      font-size: 11px;
+      height: 25px;
+    }
+    #backButton{
+      width: 130px;
+      height: 25px;
+      
+      font-size: 12px;
+    }
+}

@@ -1,6 +1,25 @@
 
-.workspace {
+.fullbody {
     background-image: url('./imagenes/backgroundMain.png');
+    background-size: cover;
+    min-height:85vh;
+    height: fit-content;
     position: relative;
-    height: auto;
 }
+
+.waiting {
+    min-height:90vh;
+    background-color:#015D87;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 670px) {
+.fullbody {
+    background-image: none;
+    background-color:#015D87;
+}
+
+}
+ 

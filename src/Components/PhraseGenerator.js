@@ -6,20 +6,25 @@ import ShareOnTwitter from "./ShareOnTwitter";
 import DownloadPhrase from "./DownloadPhrase";
 import CopyPhrase from "./CopyPhrase";
 import share from "../imagenes/sharew.png";
-import frame from "../imagenes/frame2.png";
+import horizontalframe from "../imagenes/frame1b.jpg";
+import verticalframe from "../imagenes/framehall2.jpg";
+import ShareWhatsapp from "./ShareWhatsapp";
 
-function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex })  {
+function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex, normalVersion, setNormalVersion })  {
   const generatorRef = useRef(null);
-  const [smallVersion, setSmallVersion] = useState(false);
-  const rootFont = !smallVersion? 26:18;
+  const rootFont = normalVersion? 26:20;
   const [isLoading, setIsLoading] = useState(false);
   const [isShareOn, setIsShareOn] = useState(false);
   
   const handleResize = () => {
-    if (window.innerWidth < 750) {
-      setSmallVersion(true);
-    } else {
-      setSmallVersion(false);
+    if (window.innerWidth > 870) {
+      setNormalVersion(true);
+    } 
+    else if (window.innerWidth > 670) {
+      setNormalVersion(false);
+    } 
+    else {
+      setNormalVersion(null);
     }
   };
 
@@ -82,51 +87,88 @@ function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex })  {
   let word_length = currentItem.text.length + currentItem.author.length + currentItem.info_author.length + currentItem.comment.length;
 
   return (
-    <div>
+    <div className="phraseAndBottom">
       <div className="main-container">
         <button className="arrow" onClick={() => showNewItem(-1)}>
           <img src={left_arrow} alt="left arrow" />
         </button>
-       
         <div className="whole-phrase" ref={generatorRef}>
-         <img src={frame} alt="frame" ref={generatorRef} 
-            style={{
-              width: smallVersion ? '500px' : '700px',
-              height: smallVersion ? '290px' : '400px',
-            }}/>
-
-          <div
-            className="phrase-frame"
+        {normalVersion === null?
+         <img src={verticalframe} alt="frame" ref={generatorRef}/>
+         :
+         <img src={horizontalframe} alt="frame" ref={generatorRef}/>
+        }
+         <div className="phrase-frame"
             onTouchStart={handleTouchStart}
-            onTouchMove={handleTouchMove}
-            
-          >
+            onTouchMove={handleTouchMove}            
+         >
           {isLoading ? (
-                <div className="circle"></div>
-            ) :
+              normalVersion === null?
+              <div className="circle"></div>
+              :
+              <div className="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>               
+            )
+            :
             (
               <>
                   <div className="phrase"
-                    style={{
+                    style={
+                      normalVersion?
+                      {
                       fontSize:
-                          word_length < 200
-                          ? `${rootFont}px`
-                          : word_length < 250
-                          ? `${rootFont -1}px`
-                          : word_length < 350
-                          ? `${rootFont - 2}px`
-                          : word_length < 450
-                          ? `${rootFont - 4}px`
-                          : word_length < 550
-                          ? `${rootFont - 6}px`
-                          : word_length < 650
-                          ? `${rootFont - 8}px`
-                          : word_length < 750
-                          ? `${rootFont - 10}px`
-                          : word_length < 850
-                          ? `${rootFont - 11}px`
-                          : `${rootFont - 12}px`,
-                    }} >
+                        word_length < 150?
+                        `${rootFont+5}px`
+                        :
+                        word_length < 200
+                        ? `${rootFont}px`
+                        : word_length < 250
+                        ? `${rootFont -1}px`
+                        : word_length < 350
+                        ? `${rootFont - 2}px`
+                        : word_length < 450
+                        ? `${rootFont - 4}px`
+                        : word_length < 550
+                        ? `${rootFont - 6}px`
+                        : word_length < 650
+                        ? `${rootFont - 8}px`
+                        : word_length < 750
+                        ? `${rootFont - 10}px`
+                        : word_length < 850
+                        ? `${rootFont - 11}px`
+                        : `${rootFont - 12}px`,
+                      }
+                      :
+                      {
+                      fontSize:
+                        word_length < 150?
+                        `${rootFont+4}px`
+                        : word_length < 200
+                        ? `${rootFont}px`
+                        : word_length < 250
+                        ? `${rootFont -1}px`
+                        : word_length < 300
+                        ? `${rootFont -2}px`
+                        : word_length < 350
+                        ? `${rootFont - 3}px`
+                        : word_length < 400
+                        ? `${rootFont - 3.5}px`
+                        : word_length < 450
+                        ? `${rootFont - 4.5}px`
+                        : word_length < 500
+                        ? `${rootFont - 5.5}px`
+                        : word_length < 550
+                        ? `${rootFont - 6.5}px`
+                        : word_length < 650
+                        ? `${rootFont - 7}px`
+                        : word_length < 750
+                        ? `${rootFont - 7.5}px`
+                        : word_length < 800
+                        ? `${rootFont - 8}px`
+                        : word_length < 850
+                        ? `${rootFont - 8.5}px`
+                        : `${rootFont - 9}px`,
+                      }
+                  } >
                     <p className="text">{currentItem.text}</p>
                     <p className="author">
                       {currentItem.author}{currentItem.info_author}
@@ -153,15 +195,16 @@ function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex })  {
               {isShareOn?
               (<>
               <DownloadPhrase generatorRef={generatorRef}/>
-              <CopyPhrase generatorRef={generatorRef} />
+              <CopyPhrase currentItem={currentItem} />
               <ShareOnTwitter generatorRef={generatorRef} />
+              <ShareWhatsapp currentItem={currentItem}/>
               </>)
               :
               null
               }
         </div>
           <>Mostrando: {currentIndex+1} de {selectedArray.length} </>
-        </div>
+      </div>
 
     </div>
   );

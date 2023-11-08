@@ -6,17 +6,16 @@ import Side from './Components/Side';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
-
 function App() {
   const spaceId = '42sdehjd5fc9';
   const accessToken = '_Tk112hm2bH7MYCQ1C6HYO_MSoIFgsxzgrJQ6hdpBgc';
   const entryId = '5LmU4p1lsG0gQz7T4tevLo';
-  const [general_list, setGeneral_list] = useState([])
-  const [isLoading, setIsLoading] = useState(true)
-  //const [hallOfFameArray, setHallOfFameArray] = useState([])
+  const [general_list, setGeneral_list] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [normalVersion, setNormalVersion] = useState(true);
+
 
   useEffect(() => {
-    console.log("se activa el UseEffect para pedir info a Contentful")
     axios.get(`https://cdn.contentful.com/spaces/${spaceId}/entries/${entryId}`, {
       headers: {
         'Authorization': `Bearer ${accessToken}`,
@@ -50,20 +49,22 @@ function App() {
 
     const [list_to_show, hallOfFameArray] = getArrays(general_list)
 
-    
     return (
-      <body>
+      <>
         <Header/>
         {isLoading?
-        <div> Cargando</div>
+        <div className='waiting'> 
+        <div className="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+
+        </div>
         :
-          <div className='workspace'>
-          <Side hallOfFameArray={hallOfFameArray}/>
-          <MainContainer list_to_show={list_to_show}/>   
+        <div className='fullbody'>
+          <Side hallOfFameArray={hallOfFameArray} normalVersion={normalVersion} setNormalVersion={setNormalVersion}/>
+          <MainContainer list_to_show={list_to_show} normalVersion={normalVersion} setNormalVersion={setNormalVersion}/>   
         </div>
         }
         <Footer/>
-      </body>
+      </>
     )
 };
 
