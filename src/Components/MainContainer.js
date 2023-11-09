@@ -81,16 +81,8 @@ function MainContainer( {list_to_show, normalVersion, setNormalVersion} ) {
         return list_to_arrenge};
       };
       if (order === "seeRecent") {
-//        list_to_arrenge.sort((a, b) => new Date(b.date) - new Date(a.date) )
-//        return list_to_arrenge.slice(0,20)
-
-        list_to_arrenge.sort((a, b) => 
-          {
-            let lengthA = a.text.length + a.author.length + a.info_author.length + a.comment.length
-            let lengthB = b.text.length + b.author.length + b.info_author.length + b.comment.length
-            return lengthB - lengthA
-          })
-          return list_to_arrenge;
+        list_to_arrenge.sort((a, b) => new Date(b.date) - new Date(a.date) )
+        return list_to_arrenge.slice(0,20)      
       }
       if (order === "seeAll") {return  list_to_arrenge}
   }

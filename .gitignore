@@ -1,3 +1,4 @@
+.env
 .DS_STOREcd
 node_modules
 Primera versión
@@ -7,6 +8,8 @@ scripts/flow/*/.flowconfig
 .flowconfig
 *~
 *.pyc
+frases_protección.js
+ful_list.js
 .grunt
 _SpecRunner.html
 __benchmarks__

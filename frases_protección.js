@@ -1534,7 +1534,7 @@
             "points": 0,
             "date": "2020-05-01",
             "hashtags": [
-                "Epidemología"
+                "Epidemiología"
             ]
         },
         {

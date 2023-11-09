@@ -4,6 +4,7 @@ function Header() {
     const phrases = [
           "Bitácora de la desventura declarativa",
           "Museo del silogisticidio",
+          "La voz de los excedidos de voz"
         ];
       
 return (

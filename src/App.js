@@ -7,13 +7,13 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 
 function App() {
-  const spaceId = '42sdehjd5fc9';
-  const accessToken = '_Tk112hm2bH7MYCQ1C6HYO_MSoIFgsxzgrJQ6hdpBgc';
-  const entryId = '5LmU4p1lsG0gQz7T4tevLo';
+  const spaceId = process.env.REACT_APP_SPACE_ID;
+  const accessToken = process.env.REACT_APP_ACCESS_TOKEN;
+  const entryId = process.env.REACT_APP_ENTRY_ID;
+
   const [general_list, setGeneral_list] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [normalVersion, setNormalVersion] = useState(true);
-
 
   useEffect(() => {
     axios.get(`https://cdn.contentful.com/spaces/${spaceId}/entries/${entryId}`, {
