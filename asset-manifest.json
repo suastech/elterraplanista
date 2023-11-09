@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/elterraplanista/static/css/main.f972a4f3.css",
+    "main.js": "/elterraplanista/static/js/main.ec208a52.js",
+    "static/media/logo_recortado.png": "/elterraplanista/static/media/logo_recortado.9fa9f8f3a710f3914848.png",
+    "static/media/framehall2.jpg": "/elterraplanista/static/media/framehall2.1f36ba0b1581662a6e5f.jpg",
+    "static/media/framehall3vertical.png": "/elterraplanista/static/media/framehall3vertical.397ecba3680d23fdaaeb.png",
+    "static/media/framehall3.png": "/elterraplanista/static/media/framehall3.47c9e37a104d8e150f24.png",
+    "static/media/frame1b.jpg": "/elterraplanista/static/media/frame1b.4b56a0cce62c0baacc05.jpg",
+    "static/media/backgroundMain.png": "/elterraplanista/static/media/backgroundMain.2ab24165971f53b0d899.png",
+    "static/media/credits.png": "/elterraplanista/static/media/credits.bc061bcf9d73dc52f30e.png",
+    "static/media/whatsapp5.png": "/elterraplanista/static/media/whatsapp5.cb1bed55b7aa5aa10ce4.png",
+    "static/media/star.png": "/elterraplanista/static/media/star.9b98fe710887dfdeca45.png",
+    "static/media/paypal.png": "/elterraplanista/static/media/paypal.6b1a6936261f6db3bc68.png",
+    "static/media/closebutton2.png": "/elterraplanista/static/media/closebutton2.6e3d302780f0e6c32437.png",
+    "static/media/logoTwitter.webp": "/elterraplanista/static/media/logoTwitter.50023a68bf6983651324.webp",
+    "static/media/lupa.png": "/elterraplanista/static/media/lupa.99c83429f28813ca8dc2.png",
+    "static/media/foco.png": "/elterraplanista/static/media/foco.adbd75fd016548ff574c.png",
+    "static/media/heart.png": "/elterraplanista/static/media/heart.70f13ca0f2fddce97c3c.png",
+    "index.html": "/elterraplanista/index.html",
+    "main.f972a4f3.css.map": "/elterraplanista/static/css/main.f972a4f3.css.map",
+    "main.ec208a52.js.map": "/elterraplanista/static/js/main.ec208a52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f972a4f3.css",
+    "static/js/main.ec208a52.js"
+  ]
+}
