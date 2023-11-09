@@ -36,14 +36,14 @@
 
 .phrase-frame {
       position: absolute;
-      height: 81.1%;
+      height: 81.5%;
       width: 84.8%;
       top: 9%;
-      left: 7.8%;
+      left: 7.7%;
       display: flex;
       justify-content: center;
       align-items: center;
-      border-radius: 2px;
+      border-radius: 3px;
       background-color: rgb(197, 197, 197);
     }
 

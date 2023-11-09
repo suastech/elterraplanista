@@ -17,7 +17,7 @@ function HallOfFame(props) {
     const generatorRef = useRef(null);
     const [isLoading, setIsLoading] = useState(false);
     const [isShareOn, setIsShareOn] = useState(false);
-    const rootFont = normalVersion? 29:21;
+    const rootFont = normalVersion? 29:20;
 
     let currentItem = hallOfFameArray[currentIndex];
     let word_length = currentItem.text.length + currentItem.author.length + currentItem.info_author.length + currentItem.comment.length;
@@ -92,7 +92,7 @@ function HallOfFame(props) {
           >
               {isLoading ? (
                   <div className="loading2">
-                      <div className="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                    <div className="circle"></div>
                   </div>
                 ) :
                 (

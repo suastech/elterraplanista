@@ -18,7 +18,7 @@
             "text": "Macron es un miserable, digno heredero de Robespierre, Saint-Just y demás cabecillas del Terror desencadenado por la Revolución Francesa. Ahora defiende esa variante de los antiguos sacrificios humanos que es el derecho al aborto libre.",
             "author": "Frnando Sánchez Dragó, escritor.",
             "info_author": "",
-            "comment": "1) Los jacobinos llegan a enterarse de que los anda emparentando con Macron y de inmediato mandan guillotinar al declarante. 2) Occidente debería aprender de los talibanes en materia de respeto a la vida y derechos humanos."
+            "comment": "A diferencia de nosotros que defendemos la perpetuación de los abortos clandestinos."
         },
         {
             "points": 0,
@@ -28,7 +28,7 @@
             "text": "Compré mi boleto en clase Turista en el avión. Pero me percibo como pasajero de Primera Clase. Ahora le voy a decir a la aeromoza que me cambie de lugar adelante, y si me dice que no, que estoy loco, la voy a acusar de Discurso de Odio.",
             "author": "Luis Pazos P., acerca de la transexualidad.",
             "info_author": "",
-            "comment": "Eso: ser transexual es pasarse de listo para adquirir boletos con descuento. Ahora bien, no habría que menospreciar el poder de la percepción: usted percibe que sus metáforas son geniales y henos aquí."
+            "comment": "Eso: ser transexual es pasarse de listo para adquirir boletos con descuento. El chiste es tomar un tema complejo y explicárnoslo a través de metáforas tontas."
         },
         {
             "points": 0,
@@ -45,42 +45,12 @@
             "region": "",
             "hashtags": [],
             "date": "2022-01-01",
-            "text": "Aquí está papá.",
-            "author": "Cuauhtémoc Blanco, defendiéndose de las acusaciones que lo ligan al narcotráfico.",
-            "info_author": "",
-            "comment": " '¿Papá' será su alias dentro del hampa?"
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
-            "date": "2022-01-01",
-            "text": "Claudia Sheinbaum impuso el cubrebocas. Con esto se empató con la derecha. La verdad (...) creo que ha sido uno de los errores más graves de alguien del movimiento.",
-            "author": "Gerardo Fernández Noroña.",
-            "info_author": "",
-            "comment": "Aprendan de mí: me niego a usar el cubrebocas y sólo me ha dado covid dos veces."
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
-            "date": "2022-01-01",
             "text": "Cuando tienen un problema de taponación, se meten, los meten, se meten a sus casas llenos de miedo, a tragar chatarra y media, que el propio doctor López Gatell lo ha dicho, que eso hace daño, tapona los pulmones, no pueden respirar bronquios y pulmones. Ya no saben anatomía y fisiología. Eso es elemental.",
             "author": "Participante de la manifestación antivacunas en Palacio Nacional explica (más o menos) la relación entre los bronquios y comer papitas.",
             "info_author": "",
-            "comment": "Qué es la ideología de género desde el punto de vista de la Iglesia Católica? Un ministro de culto nos lo explica: La ideología de género pretende: menos personas en el mundo [¿dónde quedaron esas hembras alfa que parían ocho hijos sin andar lloriqueando por la ausencia de una carrera profesional?"
+            "comment": ""
         },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
-            "date": "2022-01-01",
-            "text": "Qué es la ideología de género desde el punto de vista de la Iglesia Católica? Un ministro de culto nos lo explica:",
-            "author": "La ideología de género pretende:",
-            "info_author": "",
-            "comment": "menos personas en el mundo [¿dónde quedaron esas hembras alfa que parían ocho hijos sin andar lloriqueando por la ausencia de una carrera profesional?"
-        },
-        {
+       {
             "points": 0,
             "region": "",
             "hashtags": [],
@@ -108,7 +78,7 @@
             "text": "Yo tenía la solución a nivel de mercadotecnia. Esta campaña no se gana con publicidad, se gana con propaganda. Y mientras más mentiras des contra Morena, mejor te va.",
             "author": "Carlos Alazraki",
             "info_author": "",
-            "comment": "Editorialización a cargo de Roberto Madrazo: “Genio, yo conozco a uno: es mi hermano, se llama Carlos Alazraki. Ese es un genio”.."
+            "comment": "Editorialización a cargo de Roberto Madrazo: “Genio, yo conozco a uno: es mi hermano, se llama Carlos Alazraki. Ese es un genio”."
         },
         {
             "points": 0,
@@ -1836,7 +1806,7 @@
             "hashtags": [],
             "date": "",
             "text": "Esto no es porque sí. Esto no es como el agua que cae del cielo sin que se sepa exactamente por qué.",
-            "author": "Mariano Rajoy, expresidente (!) de España",
+            "author": "Mariano Rajoy, expresidente de España",
             "info_author": "",
             "comment": "En una esuela primaria, el desconocimiento del ciclo del agua arruinaría la candidatura de un aspirante a Jefe de Grupo. Menos mal que la presidencia de un país es un puesto menos exigente."
         },

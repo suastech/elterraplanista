@@ -9,7 +9,6 @@ import heart from '../imagenes/heart.png';
 import hide from '../imagenes/close.png'
 import star from '../imagenes/star.png'
 import paypal from '../imagenes/paypal.png'
-import buyme from '../imagenes/buyme.png'
 import close from '../imagenes/closebutton2.png'
 
 const Side = (props) => {
@@ -17,7 +16,7 @@ const Side = (props) => {
     const [principles, setPrinciples] = useState(false)
     const [support, setSupport] = useState(false)
     const [credits, setCredits] = useState(false)
-    const [hallOfFame, setHallOfFame] = useState(true)
+    const [hallOfFame, setHallOfFame] = useState(false)
 
     const turnOn = ()=> {
         setSideActive(true)
