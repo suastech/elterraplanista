@@ -9,7 +9,6 @@ scripts/flow/*/.flowconfig
 *~
 *.pyc
 frases_protección.js
-ful_list.js
 .grunt
 _SpecRunner.html
 __benchmarks__
