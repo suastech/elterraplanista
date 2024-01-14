@@ -3,13 +3,16 @@ import '../style-sheets/Side.css';
 import HallOfFame from './HallOfFame';
 import seeMore from '../imagenes/seemore2.png';
 import seeLess from '../imagenes/seeless2.png';
-import principios from '../imagenes/foco.png';
-import copyleft from '../imagenes/credits.png';
-import heart from '../imagenes/heart.png';
-import hide from '../imagenes/close.png'
-import star from '../imagenes/star.png'
 import paypal from '../imagenes/paypal.png'
 import close from '../imagenes/closebutton2.png'
+
+    /*
+    import principios from '../imagenes/foco.png';
+    import copyleft from '../imagenes/credits.png';
+    import heart from '../imagenes/heart.png';
+    import hide from '../imagenes/close.png'
+    import star from '../imagenes/star.png'
+    */
 
 const Side = (props) => {
     const [sideActive,setSideActive]= useState(false)
