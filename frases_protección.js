@@ -13,27 +13,33 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "No soy machista pero..."
+            ],
             "date": "2022-01-01",
             "text": "Macron es un miserable, digno heredero de Robespierre, Saint-Just y demás cabecillas del Terror desencadenado por la Revolución Francesa. Ahora defiende esa variante de los antiguos sacrificios humanos que es el derecho al aborto libre.",
             "author": "Frnando Sánchez Dragó, escritor.",
             "info_author": "",
-            "comment": "A diferencia de nosotros que defendemos la perpetuación de los abortos clandestinos."
+            "comment": "Defendamos la perpetuación de los abortos clandestinos."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "En defensa del rigor"
+            ],
             "date": "2022-01-01",
             "text": "Compré mi boleto en clase Turista en el avión. Pero me percibo como pasajero de Primera Clase. Ahora le voy a decir a la aeromoza que me cambie de lugar adelante, y si me dice que no, que estoy loco, la voy a acusar de Discurso de Odio.",
             "author": "Luis Pazos P., acerca de la transexualidad.",
             "info_author": "",
-            "comment": "Eso: ser transexual es pasarse de listo para adquirir boletos con descuento. El chiste es tomar un tema complejo y explicárnoslo a través de metáforas tontas."
+            "comment": "Eso: ser transexual es pasarse de listo para adquirir boletos con descuento. El chiste es tomar un tema complejo y explicarlo con metáforas tontas."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Susanita vive"
+            ],
             "date": "2022-01-01",
             "text": "La buena noticia para AMLO es que habrá muchos más pobres dispuestos a venderle su voto por migajas.",
             "author": "Jorge Suárez Vélez",
@@ -43,17 +49,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Epidemiología"
+            ],
             "date": "2022-01-01",
             "text": "Cuando tienen un problema de taponación, se meten, los meten, se meten a sus casas llenos de miedo, a tragar chatarra y media, que el propio doctor López Gatell lo ha dicho, que eso hace daño, tapona los pulmones, no pueden respirar bronquios y pulmones. Ya no saben anatomía y fisiología. Eso es elemental.",
             "author": "Participante de la manifestación antivacunas en Palacio Nacional explica (más o menos) la relación entre los bronquios y comer papitas.",
             "info_author": "",
             "comment": ""
         },
-       {
+        {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-02-01",
             "text": "Antes los políticos eran más sinceros, no tenían un doble discurso, no se daban baños de pureza, no actuaban con doble moral, don Fidel Velázquez decía: ‘Soy charro y qué’.",
             "author": "AMLO",
@@ -63,7 +73,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-02-01",
             "text": "Los expertos y los especialistas nos están dando cuando mucho 2.5. Yo planteo el 5. -¿En qué lo fundamenta? -Tengo información y además soy optimista.",
             "author": "AMLO, acerca de los pronósticos de crecimiento económico para México",
@@ -83,7 +95,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Susanita vive"
+            ],
             "date": "2022-02-01",
             "text": "Como bien dijo Abel Quezada, NACO no es ser pobre ni de piel oscura. Es ser vulgar, ostentoso y grosero. Nuevo rico, pues.",
             "author": "Paco Calderón",
@@ -93,7 +107,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2022-02-01",
             "text": "A la ruleta apuestan los dos: capitalista y trabajador. Si se pierde en la ruleta, el trabajador no pierde nada y el capitalista todo. Por eso le paga al capitalista para que le cubra los riesgos.",
             "author": "Juan Ramón Rallo, economista",
@@ -103,17 +119,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-02-01",
-            "text": "El presidente Andrés Manuel López Obrador, encarna a la Nación, a la patria y al pueblo. [...] Los que se oponen al Presidente de México [...] son ¡unos traidores a la nación, la patria y al pueblo!",
-            "author": "Senadores de Morena",
+            "text": "El presidente Andrés Manuel López Obrador, encarna a la Nación, a la patria y al pueblo. [...] Los que se oponen al Presidente de México son ¡unos traidores a la nación, la patria y al pueblo!",
+            "author": "Comunicado de los senadores de Morena",
             "info_author": "",
-            "comment": "Lo que le faltaba a la izquierda era suscribir la teología de la encarnación. Un escándalo más y nos pronunciamos a favor de reconocer la infalibilidad de del presidente y la incuestionabilidad de los dogmas de la Santa Cuatrinidad."
+            "comment": "Si se puso medio gordito es por el gentío al que tiene que encarnar."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Ciencia"
+            ],
             "date": "2022-02-01",
             "text": "Soñar es pensar a lo grande. Es apuntar a la luna sabiendo que si te quedas corto, alcanzarás las estrellas.",
             "author": "Anxo Pérez, “Los 88 peldaños del éxito”",
@@ -123,7 +143,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-02-01",
             "text": "No sólo tenemos la cárcel de DC, que es el Gulag DC, sino que ahora tenemos a la Policía Gaspacho de Nancy Pelosi.",
             "author": "Marjorie Taylor Greene, diputada estadounidense",
@@ -133,27 +155,34 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-02-01",
             "text": "Soy plenamente feliz. La vida ha sido generosa, y ustedes conmigo.",
             "author": "Elba Esther Gordillo, tras su boda.",
             "info_author": "",
-            "comment": "Por “ustedes” me refiero a los maestros. Por “vida” me refiero a sus puntuales cuotas sindicales.."
+            "comment": "Por “vida” me refiero a sus puntuales cuotas sindicales.."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Lógica",
+                "Presidenciales"
+            ],
             "date": "2022-02-01",
             "text": "López tiene que entender: si camina como pato, si huele a pato, si tiene plumas como pato, es que es Jose Ramon.",
             "author": "Vicente Fox",
             "info_author": "",
-            "comment": "Duda teológica legítima: ¿Y si en realidad Vicente Fox es Dios, y a través de Twitter revela las reglas silogísticas con las que creó el mundo? Eso explicaría tantas cosas."
+            "comment": "Un silogismo perfectamente mal formado sigue siendo un silogismo perfecto. Los hombres son mortales. Sócrates es hombre. Luego, ningún pato es verde."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-02-01",
             "text": "Hola Texas. Es grandioso volver a este hermoso estado con miles de patriotas estadounidenses orgullosos que creen en la familia, la libertad, Dios, el país y, por cierto, el petróleo y las armas.",
             "author": "Donald Trump",
@@ -163,7 +192,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-03-01",
             "text": "En el próximo sexenio se revertirá ese decreto. El NAIM será realidad en cuanto saquemos a estos léperos del poder. El primer vuelo será a Canadá, como símbolo de la aspiración de los ciudadanos por un país seguro, con Estado de derecho, educación, salud, prosperidad y libertad.",
             "author": "Lilly Téllez, promotora del primer aeropuerto subacuático y diseñadora de rutas simbólicas.",
@@ -173,7 +204,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Ciencia"
+            ],
             "date": "2022-03-01",
             "text": "Debemos dejar de pensar que envejecer es un proceso común y natural. Envejecer es una enfermedad y, como tal, es algo que se puede tratar o incluso curar.",
             "author": "Martha Debayle",
@@ -183,12 +216,14 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "En defensa del rigor"
+            ],
             "date": "2022-04-01",
             "text": "El recorrido de López Obrador [...] traza muchas analogías, por cuanto a aislamiento, desconfianza y represalias contra quienes fueron leales, con Maximilien Robespierre.",
             "author": "Raymundo Riva Palacio",
             "info_author": "",
-            "comment": "Amanecimos dadaístas de la glándula de las analogías. Proponemos una entre AMLO y Luis XIV, uno apodado el “Rey Sol”, otro oriundo de una tierra donde hace mucho calor. ¿Y por qué hace calor? Por el sol. ¿Y cómo le decían al Luis XIV? Rey sol. Práticamente vivimos en una monarquía absolutista."
+            "comment": "Amanecimos dadaístas de la glándula de las analogías. Proponemos una entre AMLO y Luis XIV, uno apodado el “Rey Sol”, otro oriundo de una tierra donde hace mucho calor, también por el sol."
         },
         {
             "points": 0,
@@ -198,7 +233,7 @@
             "text": "Para un enfermo terminal con dolores ordinarios -soportables- es mejor no pedir la sedación. Así el enfermo tiene ocasión de llevar su dolor con fe y por amor a Jesús, y ganar méritos para la Vida Eterna.",
             "author": "Padre Eduardo Hayen",
             "info_author": "",
-            "comment": "Qué consuelo para un moribundo imaginarse al Padre Celestial cronómetro en mano contando los minutos que le va a apuntar en la boleta. Total, nunca se sabe: un día usted se pega en el dedo chiquito del pie y ese dolor es la morralla espiritual con la que acompleta para la salvación de su alma."
+            "comment": "Qué consuelo para un moribundo imaginarse al Padre Celestial, cronómetro en mano, contando los minutos que le va a apuntar en la boleta. Total, nunca se sabe: un día usted se pega en el dedo chiquito del pie y ese dolor es la morralla espiritual con la que acompleta para la salvación de su alma."
         },
         {
             "points": 0,
@@ -213,12 +248,14 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Lógica"
+            ],
             "date": "2022-04-01",
             "text": "Con 1/3 de las casillas instaladas, lo lógico era esperar 1 millón de votos, una tercera parte de los 3 que tuvo en 2018...",
-            "author": "Matí Batres",
+            "author": "Martí Batres",
             "info_author": "",
-            "comment": "¡Ofertón en el bazar de la inferencia! ¡Compre la regla de tres y llévese gratis la causalidad y la correlación!."
+            "comment": "¡Ofertón en el bazar de la inferencia! ¡Compre la regla de tres y llévese gratis la causalidad y la correlación!"
         },
         {
             "points": 0,
@@ -233,27 +270,33 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Historia"
+            ],
             "date": "2022-04-01",
-            "text": "Samuel admira mucho a J.F. Kennedy, ¿sientes lo mismo por Jackie? La verdad no sé nada de esa historia. Historia era la clase en la que peor me iba en el colegio. La mexicana sí, pero más tipo maya o azteca. Siento que fui maya en otra vida, porque voy a las pirámides de Chiapas y siento algo curioso. La neta, de Estados Unidos no sé. Sé que hay una película de ella y después la varé.",
-            "author": "Mariana Rodríguez, primera dama de Nuevo León en esta vida",
+            "text": "La verdad no sé nada de esa historia. Historia era la clase en la que peor me iba en el colegio. La mexicana sí, pero más tipo maya o azteca. Siento que fui maya en otra vida, porque voy a las pirámides de Chiapas y siento algo curioso. La neta, de Estados Unidos no sé. Sé que hay una película de ella y después la veré.",
+            "author": "Mariana Rodríguez, primera dama de Nuevo León en esta vida, tras una pregunta sobre su opinión de Jackie Kennedy.",
             "info_author": "",
-            "comment": ""
+            "comment": "Pues seguramente Jacke Kennedy tampoco sabe nada de Mariana Rodríguez, así que estamos a mano."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-05-01",
             "text": "La solución para las violaciones, abusos sexuales y similares es educar a todos desde niños a ser puros hasta el matrimonio y fieles hasta la muerte.",
             "author": "Adolfo Castillón",
             "info_author": "",
-            "comment": "Ahí tiene usted la edad media europea: ni una sola violación, ni un solo abuso sexual..."
+            "comment": "Ahí tiene usted la edad media: ni una sola violación, ni un solo abuso sexual..."
         },
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-05-01",
             "text": "No habrá solución definitiva al aborto hasta que el divorcio quede prohibido. Es urgente defender la familia como célula básica de toda sociedad, fuera de los caprichos individualistas que nos hacen creer que tenemos libertad para hacer lo que sea sin importar las consecuencias.",
             "author": "Leonardo Brown",
@@ -263,47 +306,45 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-05-01",
             "text": "Y sí. Yo volvería a utilizar toda la fuerza pública para defender a los ciudadanos.",
             "author": "Felipe Calderón",
             "info_author": "",
-            "comment": "Eso es lo bonito del ser humano. Que puede aprender de sus errores. Este señor se encuentra una máquina del tiempo y viaja derechito al pasado para asegurarse de que todo pase exactamente igual, ni que hubiera muertos que lamentar."
+            "comment": "¿Conque sigue creyendo que protegió a alguien? ¿Cuántos muertos habría necesitado para admitir que defender a los ciudadanos fue precisamente lo que no ocurrió?"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-05-01",
             "text": "No es malo per se el que una empresa administre la distribución del agua, lo que sucede por lo general es que hay corrupción […] Yo he llegado a sostener que si el modelo neoliberal se aplicara sin corrupción no sería del todo malo.",
             "author": "AMLO",
             "info_author": "",
-            "comment": "Qué gacho que el presidente le vuele eslóganes al PAN. Urge que empiece a funcionar la Escuela de Formación de Cuadros de Morena porque ya le tenemos listo al primer reprobado."
+            "comment": "Qué gacho que el presidente le vuele eslóganes al PAN. Avísenle al Instituto de Formación Política de Morena que ya le tenemos al primer reprobado."
         },
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-05-01",
             "text": "Pero qué le dice a los familiares de estos niños? Son 14 menores que desaparecen al día. Dos de cada tres son niñas. - Que estamos trabajando todo el tiempo para garantizar la paz, enfrentando los intereses del antiguo régimen y enfrentando campañas de desprestigio como las que lleva a cabo, entre otros medios, el que conduce Carmen Aristegui.",
             "author": "AMLO",
             "info_author": "",
-            "comment": "Gracias señor presiente por esta valiente campaña contra Carmen Aristegui, fundamental para dar con el paradero de los infantes."
+            "comment": "Gracias, señor presiente, por su valiente campaña contra Carmen Aristegui, fundamental para dar con el paradero de los infantes."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
-            "date": "2022-05-01",
-            "text": "Menos libros y más España. Vox",
-            "author": "Pinta en la fachada de la Biblioteca Sant Gervasi-Joan Maragall de Barcelona.",
-            "info_author": "",
-            "comment": "Las anécdotas de Vox son lo que en México conocimos como chistes de gallegos."
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-05-01",
             "text": "El resultado es la ausencia de pesos y contrapesos en Rusia, y la decisión de un solo hombre de lanzar una invasión completamente injustificada y brutal contra Irak... contra Ucrania.",
             "author": "Declaración del inconsciente de George Bush.",
@@ -313,37 +354,45 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-06-01",
             "text": "Un médico tiene el DEBER de decirle a sus pacientes que si eligen esto o lo otro su salud estará en riesgo. Pero un empresario NO puede decirle a sus asalariados que si gana tal o cual candidato sus empleos podrían estarlo. Tonterías que sólo se nos ocurren a los mexicanos.",
             "author": "Paco Calderón",
             "info_author": "",
-            "comment": "Eso. El empresario es el médico del alma colectiva, el pediatra de un pueblo aquejado por una deficiencia de la vitamina del esfuerzo. Para que luego no anden diciendo que vivimos en tiempos postideológicos."
+            "comment": "Para que luego no anden diciendo que vivimos en tiempos postideológicos: el empresario es el médico del alma colectiva, ¿cree usted que va a andar recomendando cosas contrarias al bien común?"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2022-06-01",
             "text": "Diez pesos la hora, por ocho horas diarias te da ochenta pesos diarios. Ochenta pesos diarios por semana de 48 horas te da $3840.00 semanales. Por cuatro semanas (dos quincenas) al mes, obtienes $15,360.00 mensuales. No es un salario tan bajo. La pregunta es ¿haciendo qué?",
             "author": "Paco Calderón",
             "info_author": "",
-            "comment": "Mira Bartola, con que trabajes 190 días al mes te alcanza bien."
+            "comment": "Mira Bartola, con que trabajes 190 días al mes..."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-06-01",
             "text": "Esto es un ataque a la democracia, ni en las peores épocas del PRI, hoy nuestro aliado, ya democratizado.",
             "author": "Santiago Creel",
             "info_author": "",
-            "comment": "Es verdad que hay discursos familiares igual de poco meditados: “y fue así como esa señora metiche y rencorosa, a quien hoy me precio de llamar querida suegra…”."
+            "comment": "Hay discursos familiares igual de poco meditados: “y fue así como esa señora metiche y rencorosa, a quien hoy me precio de llamar querida suegra…”"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-06-01",
             "text": "La pregunta correcta no es “¿Porque Latinoamerica no aprende?”  La pregunta correcta es: “¿Que esta haciendo bien el progresismo en términos de marketing que sigue engañando a la gente?”. Tristemente, la política es Marketing señores, no resultados. Les guste o no.",
             "author": "Luis Pazos P.",
@@ -353,7 +402,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2022-06-01",
             "text": "A los 4 años no se da cuenta de que el crecimiento económico es de “-0”. Sí. Menos cero!",
             "author": "Vicente Fox",
@@ -363,17 +414,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Lógica"
+            ],
             "date": "2022-06-01",
             "text": "Desde mi punto de vista, dos condiciones sin ecuanon…",
             "author": "Vicente Fox",
             "info_author": "",
-            "comment": "Porque hay condiciones con ecuanón, sin ecuanón, o con más o menos de ecuanón (por cierto, don Vicente, ¿ecuanón no lleva acento?)."
+            "comment": "Porque hay condiciones con ecuanón, sin ecuanón, o con más o menos de ecuanón. (Por cierto, ecuanón lleva acento)."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-06-01",
             "text": "Yo les recomiendo a los que les interese el tema que lean a León Tolstoi. Un día voy a dar a conocer una bibliografía, porque no necesariamente tiene que ser Lenin o Hitler para la formación.",
             "author": "AMLO",
@@ -383,7 +438,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-07-01",
             "text": "Algún día, una niña o un niño de Ucrania se acordará que unos representantes de México fueron a su país a decirles: estamos con ustedes. México no es indiferente frente a esta profunda injusticia. Y por eso vale la pena hacer política.",
             "author": "Juan Zavala, Secretario general de Movimiento Ciudadano",
@@ -393,7 +450,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-07-01",
             "text": "Cuando se olvida que el sexo es una cuestión [...] cuya finalidad principal es la procreación, vemos que hay personas que se liberan de esas cadenas que supone la familia, que supone el matrimonio, para dedicar su existencia a satisfacer sus deseos sexuales.",
             "author": "Juan García Gallardo, político de VOX",
@@ -403,17 +462,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-07-01",
             "text": "No hicieron nada para evitar lo que hoy vivimos y lo que viene. Salvo un par de excepciones, son una bola de cobardes. Su avaricia, codicia (codos)y cobardía permitió y estimula que esto ocurra.",
             "author": "Felipe Calderón, en modo 'ex tóxico', dirigéndose a los empresarios antes suyos, hoy de otro.",
             "info_author": "",
-            "comment": "Suena el tango vindicativo: 'Y al mirarla envilecida, a otros brazos entregada, fue p´a mi una puñalada y de celos me cegué...'?"
+            "comment": "Suena el tango vindicativo: 'Y al mirarla envilecida, a otros brazos entregada, fue p´a mi una puñalada y de celos me cegué...'"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2022-07-01",
             "text": "Tenemos que tomar en cuenta el que, si no hay la orden de reprimir al pueblo, repito, no hay nada que temer. Y estoy convencido de que los gobiernos civiles en el futuro van a ser gentes sensibles, que cada vez van a profesar más amor a nuestro pueblo, más amor al prójimo.",
             "author": "AMLO, sobre la integración de la Guardia Nacional a la Sedena.",
@@ -423,7 +486,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-07-01",
             "text": "Pretender que cualquiera de nosotros va a estar a la altura del liderazgo, del compromiso, de la imaginación hecha política pública del Presidente, es equivocarnos, darnos contra la pared. Solitos no somos nadie. [Él] es el creador de este movimiento, es el origen y es el destino.",
             "author": "Adán Augusto",
@@ -443,7 +508,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-08-01",
             "text": "Los derechos humanos son, precisamente, para los humanos. Los delincuentes son bestias que no merecen ninguna consideración.",
             "author": "América Rangel, diputada del Partido Acción Nacional.",
@@ -453,7 +520,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-08-01",
             "text": "Jesús Murillo Karam es preso político de López Obrador. Pueden citarme.",
             "author": "Fernando Belauzarán",
@@ -463,17 +532,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2022-08-01",
             "text": "Esta pobre mujer no parece entender la relación entre productividad y sueldos. El tema no es cómo “presionar” para subir salarios, sino cómo ayudarles a los trabajadores a aumentar su productividad con mejor capacitación y acceso a mejores bienes de capital y tecnología de punta.",
-            "author": "Monseñor Jorge Suárez-Vélez, obispo de la Iglesia de la Utilidad Marginal, en condecendiente explicación a la economista Viri Ríos.",
+            "author": "Jorge Suárez-Vélez, obispo de la Iglesia de la Utilidad Marginal, en condecendiente explicación a la economista Viri Ríos.",
             "info_author": "",
-            "comment": "Aprendan de los capitalistas, que no se andan organizando para incrementar sus ganancias sino que se limitan a aceptar lo que el mercado buenamente les manda. (Búrlense lo que quieran de los terraplanistas, pero los manuales de economía a la Samuelson et. al rigen el mundo)"
+            "comment": "Aprendan de los capitalistas, que no se andan organizando para incrementar sus ganancias sino que se limitan a aceptar lo que el mercado buenamente les manda. (Búrlense lo que quieran de los terraplanistas, pero los manuales de economía de Samuelson y similares rigen el mundo)"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-08-01",
             "text": "Rindiendo homenaje al gran Porfirio Díaz, cementerio Montparnasse, Paris. En 2024 lo repatriaremos...",
             "author": "Gabriel Quadri",
@@ -488,7 +561,7 @@
             "text": "Enseñaremos la verdad en nuestros colegios. No dejaremos que ellos impongan su agenda ideológica. Enseñaremos que nuestros derechos provienen de Dios, no del gobierno.",
             "author": "Ron DeSantis, gobernador de Florida",
             "info_author": "",
-            "comment": "¡Basta de ideologías! ¡Suscribamos las verdades autoevidentes de la religión!."
+            "comment": "Basta de ideologías. Suscribamos las verdades autoevidentes de la religión."
         },
         {
             "points": 0,
@@ -513,12 +586,14 @@
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-09-01",
             "text": "Me huele a montaje. Cristina ya sabe que una muerte repentina, o algo trágico, puede darle puntos políticos.",
             "author": "Irving Gatell, sobre el atentado fallido contra Cristina Fernández.",
             "info_author": "",
-            "comment": "La muy astuta ya se veía en la comodidad de la tumba disfrutando de todos esos puntos políticos."
+            "comment": "Ya se veía en la comodidad de la tumba disfrutando de todos esos puntos políticos, la muy astuta."
         },
         {
             "points": 0,
@@ -526,14 +601,16 @@
             "hashtags": [],
             "date": "2022-09-01",
             "text": "Si aplicamos la lógica de estos subnormales, Hitler no era racista.",
-            "author": "Chumel Torres",
+            "author": "Chumel Torres, contra la tesis de que el racismo inverso no existe",
             "info_author": "",
-            "comment": "Contexto: 1) Alguien afirma que el racismo inverso no existe. 2) Nuestro colaborador responde que si se sigue esa lógica debe concluirse que Hitler no era racista. Directo al Museo de los Silogismos Disidentes. Si un judío iba por ahí discriminando a los arios damos por demostrada la existencia del antisemitismo inverso."
+            "comment": ""
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-09-01",
             "text": "Mira, yo como tengo un método… A mí cuando me dicen “Jalife le atinó”, no es cierto. Yo traigo método [...] Te vas y lo aplicas y te da resultados. Aunque tu corazoncito esté con las ucranianas que son de las mujeres más bellas del mundo, o las rusas, que no se quedan atrás, porque es la misma raza…. Entonces, el método dialéctico, pues es la tesis y la antítesis y tú sacas tú conclusión.",
             "author": "Alfredo Jalife, el analista 777.",
@@ -543,7 +620,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-09-01",
             "text": "Interesante cómo los activismos blancos van desnaturalizando y prostituyendo movimientos locales como el de las madres buscadoras. Ahora realizan acciones americanizadas en la estela de luz. Es muy grave la manipulación que hacen.",
             "author": "Pablo Hernández",
@@ -553,7 +632,9 @@
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Ciencia"
+            ],
             "date": "2022-09-01",
             "text": "Yo no se ustedes pero para mi no deberían hacer simulacros, atraen la energía! Somos energía! El estar pensando y haciendo simulacros se jala esa energía!",
             "author": "José Ron, actor",
@@ -563,7 +644,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Lógica"
+            ],
             "date": "2022-09-01",
             "text": "Dejé de ser vegano porque me mordió un perro, entonces me enojé. [...] Estoy militando para los animales y viene uno de ellos y me muerde. [...] Me fui a McDonald's. Automáticamente.",
             "author": "Mariano de la Canal",
@@ -573,7 +656,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2022-10-01",
             "text": "Marx se quedó atorado en una visión fetichista de la riqueza. Es decir, la creencia de que la riqueza tiene un valor propio. Por eso su teoría del valor-trabajo, y por eso su convicción de que hay que \"redistribuir la riqueza\". Ideas neolíticas, literalmente.",
             "author": "Irving Gatell",
@@ -588,12 +673,14 @@
             "text": "Aquí hay que insistir, no hay que darse por derrotado. Yo soy de los del Coyote y el Correcaminos. El Coyote no se rinde y siempre va a buscar al Correcaminos. Algún día lo va a alcanzar.",
             "author": "Germán Martínez",
             "info_author": "",
-            "comment": "Compañero, si el Coyote es emblema de lo que le espera a los militantes de su causa, declinamos respetuosamente la invitación. Qué época: el Coyote es la figura inspiracional que le queda a nuestro siglo"
+            "comment": "Compañero, si el Coyote es emblema de lo que le espera a los militantes de su causa, declinamos respetuosamente la invitación. ¿Cómo llegó a la idea de que el coyote puede fungir como figura inspiracional?"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-10-01",
             "text": "Felices fiestas patrias PRIMORes.",
             "author": "Yedickol Polevnsky",
@@ -608,22 +695,24 @@
             "text": "Nuestro gobierno condena los recientes disturbios en Irán, perpetrados por los sionistas británicos y estadounidenses, y estamos seguros de que todos los problemas se resolverán con la solidaridad, el conocimiento y la comprensión del querido líder de Irán.",
             "author": "Romina Pérez, embajadora de Bolivia en Irán.",
             "info_author": "",
-            "comment": "Qué casualidad que a las mujeres se les ocurre protestar justo ahora… y por “justo ahora” nos referimos al parpadeo de 43 años de tiene la república islámica. Es peligroso que las mujeres quieran anteponer sus intereses a las consideraciones geopolíticas. Si a las mujeres les hiciera bien tener más derechos, ¿no creen que el querido líder ya se los hubiera concedido?"
+            "comment": "Qué casualidad que a las mujeres se les ocurre protestar justo ahora… y por “justo ahora” nos referimos al parpadeo de 43 años de tiene la república islámica. Es peligroso que las mujeres quieran anteponer su existencia a las consideraciones geopolíticas. Si a las mujeres les hiciera bien tener más derechos, ¿no creen que el querido líder ya se los hubiera concedido?"
         },
         {
             "points": 1,
             "region": "",
             "hashtags": [],
             "date": "2022-10-01",
-            "text": "La ciencia decía que el hombre provenía de los simios. [...] Si eso es cierto, ¿por qué sigue habiendo simios? Piense en ello.",
-            "author": "Herschel Walker, político estadounidense, el Waterloo de Charles Darwin.",
+            "text": "La ciencia decía que el hombre provenía de los simios. Si eso es cierto, ¿por qué sigue habiendo simios? Piense en ello.",
+            "author": "Herschel Walker, candidato republicano al senado.",
             "info_author": "",
-            "comment": ""
+            "comment": "Bueno, la ciencia también dice que los seres humanos son inteligentes y henos aquí leyendo El Terraplanista."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-10-01",
             "text": "No se militariza al país -y por esto es que yo sí cambié de opinión- cuando se pone al ejército al servicio del pueblo.",
             "author": "Epigmenio Ibarra",
@@ -633,17 +722,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-11-01",
-            "text": "El voto de las mujeres fue lo peor que le pasó a Estados Unidos. Las mujeres votan mayoritariamente basándose en sus emociones. Y los liberales son muy buenos apelando a las emociones. [...] Antes las mujeres no votaban porque su marido tomaba la decisión por ellas. [...] Si sólo votaran nuestros maridos y los propietarios, estaríamos en un lugar mucho mejor que ahora. Nosotras [...] no tendríamos tanta autoridad y poder sobre quién llega a los cargos, porque no lo merecemos.",
+            "text": "El voto de las mujeres fue lo peor que le pasó a Estados Unidos. Las mujeres votan mayoritariamente basándose en sus emociones. Y los liberales son muy buenos apelando a las emociones. Antes las mujeres no votaban porque su marido tomaba la decisión por ellas. Si sólo votaran nuestros maridos y los propietarios, estaríamos en un lugar mucho mejor que ahora. Nosotras no tendríamos tanta autoridad y poder sobre quién llega a los cargos, porque no lo merecemos.",
             "author": "Lauren Witzke, candidata republicana al Senado en 2020.",
             "info_author": "",
-            "comment": ""
+            "comment": "Sabido es que los hombres no se dejan arrastrar por sus emociones."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-11-01",
             "text": "Vamos a pedir que todos los que vendan drogas, quienes sean sorprendidos vendiendo drogas, reciban la pena de muerte por sus actos atroces.",
             "author": "Donald Trump",
@@ -653,37 +746,45 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-11-01",
             "text": "Los Padres Fundadores no querían que votaran los malditos estúpidos que no han hecho una mierda en su vida. Todo este movimiento que la izquierda utiliza, ya sabes: \"salgan a votar\" [...] ¡No, maldito idiota! ¡No votes! Eres un estúpido. Eres un pedazo de escoria degenerada. En efecto, Dios te ama, pero la mayoría de nosotros no. No, no deberías votar.",
             "author": "Elijah Schaffer, conductor estadounidense, en reacción a la derrota del candidato republicano a la gubernatura de Arizona.",
             "info_author": "",
-            "comment": "Le reconocemos a los insultados su derecho inalienable al amor de Dios para demostrar que somos buenos cristianos."
+            "comment": "Demostrando que somos buenos cristianos, le reconocemos a los insultados que tal vez Dios los ama."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2022-11-01",
             "text": "Y hay una religión de demonios que ama el aborto. Esa religión proaborto se manifestó. Fue más grande de lo que todos previmos, por la pasión que esos poderes demoníacos crean en su iglesia de paganos que aman matar bebés - por eso no hubo una marea roja.",
             "author": "Shane Vaughn, predicador estadounidense, explica el mal resultado de los republicanos en las elecciones intermedias.",
             "info_author": "",
-            "comment": ""
+            "comment": "A juzgar por las estadísticas mundiales, el mundo cristiano es bastante proaboerto y es la religión musulmana la que más contundentemente se opone a su despenalización."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-11-01",
             "text": "He pasado décadas sin una guerra. El primer presidente que hace eso en un período tan largo.",
             "author": "Donald Trump",
             "info_author": "",
-            "comment": "Lo que pasa es que hay décadas de años, décadas de meses, décadas de semanas…."
+            "comment": "Lo que pasa es que hay décadas de años, décadas de meses, décadas de semanas…"
         },
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2022-11-01",
             "text": "Aquí decían de Segalmex y de las tortillas y no se qué. Pues yo les diría, pues váyase a vender tortillas, que es una noble labor. Es una noble labor que ustedes se quejan tanto del incremento y no se qué tanto, cuando ustedes pus deíquense a eso, a vender tortillas y a entrar al mercado a hacer negocio de las tortillas, que tanto les gustan los jugosos negocios.",
             "author": "Otoniel García Montiel, diputado, durante una sesión legislativa.",
@@ -693,7 +794,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2022-11-01",
             "text": "Lo que yo veo para todos ustedes es un México boyante.",
             "author": "Carlos Slim",
@@ -723,7 +826,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Glorias de la inferencia"
+            ],
             "date": "2022-12-01",
             "text": "Por que un “periodista” tiene que andar en “carro blindado” y con un séquito de guaruras ? Pues que tanto debe o a que mafia criminal pertenece?",
             "author": "Alfredo Jalife, sobre el atentado contra Ciro Gómez-Leyva (se respeta la ortografía del original).",
@@ -733,7 +838,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Glorias de la inferencia"
+            ],
             "date": "2022-12-01",
             "text": "Ser de izquierda y amante del fútbol al mismo tiempo es una hipocresía. Por un lado aseguras que la meritocracia no existe. Y por el otro admiras a futbolistas que crecieron en la pobreza pero que gracias a su talento, constancia y disciplina hoy son famosos y millonarios.",
             "author": "Christian Camacho",
@@ -743,7 +850,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Glorias de la Inferencia"
+            ],
             "date": "2022-12-01",
             "text": "[Declaración del 20 de junio de 2019] El piso de la selección argentina será logrado en agosto de 2024. Faltan aún 5 años de decadencia. Argentina patinará gravemente en el Mundial 2022, pero ganaremos el 2026 aunque hoy no se ve a cómo. La subida desde agosto de 2024 será vertical, y sin Messi ya. El mundo delirará.",
             "author": "Carlos Maslatón, político y analista argentino",
@@ -773,9 +882,11 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Historia"
+            ],
             "date": "2022-12-01",
-            "text": "Yo no necesito disculpas de España por haber creado mi país, ni por habernos engendrado a los mexicanos. [...] Hay una diferencia abismal. Holanda no creó una nación en el Congo, sólo lo expolió.",
+            "text": "Holanda no creó una nación en el Congo, sólo lo expolió.",
             "author": "Paco Calderón",
             "info_author": "",
             "comment": "Siguiendo con la lección de historia, Bélgica sí le debe a México una disculpa porque #NoEraPenal."
@@ -783,7 +894,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Glorias del periodismo"
+            ],
             "date": "2023-01-01",
             "text": "Lamento informarles que una fuente militar me confirmó que \"los verdes\" no tienen certeza de que el Ovidio detenido sea el Ovidio real! Lo lamento! Así la farsa de López Obrador!",
             "author": "Ricardo Alemán",
@@ -793,7 +906,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2023-01-01",
             "text": "Las mineras canadienses son las que más nos ayudan a proteger el territorio.",
             "author": "AMLO",
@@ -808,7 +923,7 @@
             "text": "Casi nadie contrataría a un niñero varón para que cuidara a sus hijos, ¿y sin embargo damos hijos en adopción a parejas masculinas? ¿Tiene sentido?",
             "author": "Matt Walsh",
             "info_author": "",
-            "comment": ""
+            "comment": "Si esos hombres razonan como usted, ninguno."
         },
         {
             "points": 0,
@@ -828,7 +943,7 @@
             "text": "El comunismo lo inventó un burgués, las leyes racistas en EEUU las abolieron los blancos. Piénsalo.",
             "author": "JPelirrojo, influencer español",
             "info_author": "",
-            "comment": ""
+            "comment": "Piénsalo, dice."
         },
         {
             "points": 0,
@@ -843,37 +958,45 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2023-02-01",
             "text": "Quieren que el gobierno les pague los condones. Quieren que el gobierno les pague el aborto. Están a nada de pedir que el gobierno les pague la peda y las prostitutas o los prostitutos, según el caso.",
             "author": "Christian Camacho, sobre la propuesta de garantizar la gratuidad de los preservativos.",
             "info_author": "",
-            "comment": "Lee preservativos y piensa en peda y prostitución. ¿En qué tugurio tomó clases de educación sexual? ¿Con qué chiste de Pepito se dio por formado en materia de sexo y lógica? Sólo una mirada muy depravada puede menospreciar así los misteriosos viajes por los bosques del deseo."
+            "comment": "Lee preservativos y piensa en peda y prostitución. ¿En qué tugurio tomó clases de educación sexual? ¿Con qué chiste de Pepito se dio por formado en materia de sexo y lógica? Sólo una mirada muy depravada puede menospreciar así los viajes a los misteriosos bosques del deseo."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2023-02-01",
             "text": "[Sobre los deudores morosos]. Me pasa cada mes con miles de personas y luego terminan olvidándose que cuando necesitaron ayuda, fuiste el único que les dio la oportunidad; se convierten en tus enemigos, hasta que vuelven a necesitar dinero… entonces regresan.",
-            "author": "Ricardo Salinas Pliego, usurero  filántropo",
+            "author": "Ricardo Salinas Pliego, sobre la usura",
             "info_author": "",
             "comment": "Como los hacendados de los siglos pasados no tuvieron Twitter, no pudimos enterarnos de que las Tiendas de Raya eran instituciones de caridad."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2023-02-01",
             "text": "La política de seguridad dio resultados [...] Los principales indicadores de criminalidad iban a la baja al terminar mi gobierno.",
             "author": "Felipe Calderón",
             "info_author": "",
-            "comment": "En los últimos minutos del partido metimos un gol. De mantenerse la tendencia, hubiéramos remontado ese complicado 9-1 en contra..."
+            "comment": "Claro que dio resultados, menso. Unos espeluznantes. Ah, si tan solo no hubiéramos tenido los cinco años previos de indicadores al alza..."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2023-02-01",
             "text": "La señora presidenta de la Corte, para hablar en plata, está por mí de presidenta…",
             "author": "AMLO",
@@ -893,17 +1016,21 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presideniales"
+            ],
             "date": "2023-02-01",
-            "text": "[Sobre la condena de García Luna] ¿Verdad que sí ha habido cambios? Estas cosas no se veían. [...] Vamos a seguir avanzando en la transformación…",
+            "text": "[Sobre la condena de García Luna] ¿Verdad que sí ha habido cambios? Estas cosas no se veían. Vamos a seguir avanzando en la transformación…",
             "author": "AMLO",
             "info_author": "",
-            "comment": "Aquí arando, dijo el señor Señor Borrón-y-Cuenta-Nueva, Don Olvido-No-Pero-Perdón-Sí, Míster Que-Se-Haga-Una-Consulta..."
+            "comment": "Aquí arando, dijo el señor Borrón-y-Cuenta-Nueva, Don Olvido-No-Pero-Perdón-Sí, Míster Que-Se-Haga-Una-Consulta..."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Glorias de la inferenia"
+            ],
             "date": "2023-02-01",
             "text": "Ovidio [Guzmán] desafía la explicación obradorista de que el crimen es resultado de la pobreza. Creció como niño pijo en el Pedregal y estudió primaria en el Ceyca, la escuela más fresa del sur. Luego arruinó su vida siguiendo al padre.",
             "author": "Pablo Majluf",
@@ -913,7 +1040,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2023-03-01",
             "text": "Pienso que Elon Musk está viendo lo que nosotros no. Invertirá en México en un tiempo en el que inversionistas nacionales y extranjeros prefieren ESPERAR. Musk ya vió la manifestación nacional ciudadana del 26 de febrero y sabe que se junta con el ocaso de MALO.",
             "author": "Pedro Ferriz de Con",
@@ -933,7 +1062,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Historia"
+            ],
             "date": "2023-03-01",
             "text": "Esto [el himno del AIFA] es casi fascista.",
             "author": "Joaquín López Dóriga",
@@ -948,12 +1079,14 @@
             "text": "Que nunca más tengamos institutos electorales costosos e imparciales a costa del pueblo.",
             "author": "Morena",
             "info_author": "",
-            "comment": "¡Abajo la imparcialidad, viva la inimparcialidad!"
+            "comment": "Abajo la imparcialidad. Viva la inimparcialidad."
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2023-03-01",
             "text": "Me preocupa mi familia, mi trabajo, mi país… tengo la misma sangre que tú.",
             "author": "Gustavo de Hoyos",
@@ -968,17 +1101,7 @@
             "text": "Esas no van a venir.",
             "author": "Manuel Bartlett, en Pasta de Conchos, sobre cinco viudas ya fallecidas de los mineros sepultados.",
             "info_author": "",
-            "comment": "Y bueno, si renuncio al sentido del humor con qué quieren que me quede. ¿Mi inteligencia? ¿Mi honestidad?"
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
-            "date": "2023-03-01",
-            "text": "Pueden contestarme lo que quieran, pero no tienen pruebas, son calumniadores, mentirosos. En México no se tortura, no es como antes, que ellos se quedaban callados y nunca decían nada. En México no hay más masacres, en México el Estado ha dejado de ser el principal violador de los derechos humanos.",
-            "author": "AMLO, en respuesta al Departamento de Estado de EU.",
-            "info_author": "",
-            "comment": ""
+            "comment": "Y bueno, si renuncio al sentido del humor con qué quieren que me quede. ¿Mi escondidiza inteligencia? ¿Mi estragada respetabilidad?"
         },
         {
             "points": 0,
@@ -1003,12 +1126,14 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "En defensa del rigor"
+            ],
             "date": "2023-04-01",
-            "text": "Quienes argumentan que “la mañanera no se toca” [...] se asemejan demasiado a robespierianos cortando cabezas, estalinistas asesinando disidentes, nazis persiguiendo judíos, inquisidores torturando a paganos, y hombres quemando a mujeres en la plaza pública.",
-            "author": "Denisse Dresser",
+            "text": "Quienes argumentan que “la mañanera no se toca” se asemejan demasiado a robespierianos cortando cabezas, estalinistas asesinando disidentes, nazis persiguiendo judíos, inquisidores torturando a paganos, y hombres quemando a mujeres en la plaza pública.",
+            "author": "Denisse Dresser, ¿o es Ana Frank?",
             "info_author": "",
-            "comment": "Pero la historia sabrá poner nuestros dignos artículos lado a lado con  los gritos de horror de nuestros compañeros de calvario: inocentes decapitados, disidentes masacrados, judíos asesinados, paganos torturados, mujeres quemadas, también demasiado semejantes a nosotros."
+            "comment": "Y ahí, entre los horrorizados gritos de los inocentes decapitados, disidentes masacrados, judíos asesinados, paganos torturados, mujeres quemadas, la historia hará un espacio para los que supimos resistir con lúcidos artículos."
         },
         {
             "points": 0,
@@ -1023,7 +1148,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Política"
+            ],
             "date": "2023-04-01",
             "text": "Guadiana las va a meter la pinga. Y lo digo claro, y lo digo fuerte.",
             "author": "Pedro Haces, líder sindical, durante un mitin en apoyo a Armando Guadiana.",
@@ -1048,7 +1175,7 @@
             "text": "Por mucha tragedia que sea la muerte de migrantes, no debe minimizarse que fue un accidente provocado por ellos mismos al incendiar colchones como protesta para evitar ser deportados, provocando una intoxicación masiva.",
             "author": "Nacho Rodríguez, 'El Chapucero' ",
             "info_author": "",
-            "comment": ""
+            "comment": "No debe maximizarse la muerte de migrantes hasta el punto en que afecte la imagen del gobierno."
         },
         {
             "points": 0,
@@ -1063,7 +1190,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2023-05-01",
             "text": "Si se tiene que colocar un muro en la frontera sur, lo vamos a hacer.",
             "author": "Carlos Leal",
@@ -1073,22 +1202,14 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología"
+            ],
             "date": "2023-05-01",
             "text": "También hay que tener obligación en las mujeres en el sentido de la vestimenta [...] Claro, la mujer muchas veces provoca y entonces después no se aguanta.",
             "author": "Pedro Haces, exsenador de Morena y líder de la Confederación Autónoma de Trabajadores y Empleados de México.",
             "info_author": "",
-            "comment": ""
-        },
-        {
-            "points": 0,
-            "region": "",
-            "hashtags": [],
-            "date": "2023-05-01",
-            "text": "Los perritos no causan el hambre en el mundo, sino los padres que encargan hijos sin poder -o querer- mantenerlos luego. ¿Por qué la Iglesia Católica nunca los critica a ellos?",
-            "author": "Paco Calderón",
-            "info_author": "",
-            "comment": ""
+            "comment": "Con esos líderes obreros quién neceista burguesía reaccionaria."
         },
         {
             "points": 0,
@@ -1103,7 +1224,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Economía"
+            ],
             "date": "2023-05-01",
             "text": "Los países más desarrollados no alcanzaron su riqueza con expropiaciones, sino respetando los derechos de propiedad adquiridos de manera legítima por sus habitantes…",
             "author": "Sergio Martínez, economista",
@@ -1113,7 +1236,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2023-05-01",
             "text": "Este veredicto es una vergüenza. Una continuación de la mayor caza de brujas de todos los tiempos.",
             "author": "Donald Trump, sobre su condena por abuso sexual",
@@ -1148,7 +1273,7 @@
             "text": "Llegaron a decir que no había existido ‘el Pípila’, porque nadie podría cargar una piedra tan pesada, o sea, quitarle hasta la imaginación a nuestro pueblo, el derecho a la esperanza, como si todo fuese racional y no hubiese lo místico. Y así muchísimas cosas. Que Siete Leguas no era caballo, sino yegua, nada más que ahí sí no pudieron porque el corrido, no me gusta la palabra, pero corrido tiene más peso que el pasaje histórico. Y sí, se argumentó muchísimo, que era yegua porque, todavía hasta hace poco, escuché una narración que cuando Villa pacta la paz con Adolfo de la Huerta ― que fue un buen presidente don Adolfo de la Huerta […]. Pero, bueno, todo esto. No, las ofensas, hasta en películas de los cineastas o en la ondita, progres, o en la ondita contra Hidalgo, y así…",
             "author": "AMLO, en respuesta a una pregunta sobre el proceso interno de Morena.",
             "info_author": "",
-            "comment": "Lo místico debe ser aquella región donde habita la coherencia de esta respuesta"
+            "comment": "Lo místico debe ser la región donde habita la coherencia de esta respuesta"
         },
         {
             "points": 0,
@@ -1177,7 +1302,7 @@
             "date": "2023-06-01",
             "text": "La Nueva Derecha es la resurrección de Dios en la cultura de Occidente.",
             "author": "Raúl Tortolero",
-            "comment": "",
+            "comment": "Se necesita valor para ostentarse como el desfibrilador del Creador",
             "info_author": ""
         },
         {
@@ -1455,7 +1580,8 @@
             "points": 0,
             "date": "2020-08-01",
             "hashtags": [
-                "Premio Sherlock Holmes"
+                "Premio Sherlock Holmes",
+                "Glorias del periodismo"
             ]
         },
         {
@@ -1499,8 +1625,8 @@
             "points": 0,
             "date": "2020-09-01",
             "hashtags": [
-                "LaHistoriaEsMiPasión",
-                "ElRigorEstáSobrevalorado"
+                "Historia",
+                "En defensa del rigor"
             ]
         },
         {
@@ -1511,7 +1637,9 @@
             "region": "nacional",
             "points": 0,
             "date": "2020-07-01",
-            "hashtags": []
+            "hashtags": [
+                "Glorias del periodismo"
+            ]
         },
         {
             "text": "Decir que el pobre es pobre porque el rico es rico, es como decir que el enfermo está enfermo porque el sano está sano. Son dos cosas que no tienen nada que ver. La riqueza NO es un juego de suma cero.",
@@ -1541,13 +1669,13 @@
             "text": "Un capitalista te pedirá que lo dejes trabajar en paz. Un socialista te pedirá que trabajes y le entregues parte de tu dinero.",
             "author": "Sergio Negrete Cárdenas",
             "info_author": ", aparentemente historiador.",
-            "comment": "La United Fruit fue una misión de paz",
+            "comment": "¿En paz? Pero estamos de acuerdo en que el desarrollo del capitalismo está ligado a uno que otro episodio de violencia, ¿cierto?",
             "region": "nacional",
             "points": 0,
             "date": "2020-11-01",
             "hashtags": [
                 "Economía",
-                "Historia del capitalismo"
+                "Historia"
             ]
         },
         {
@@ -1650,7 +1778,7 @@
             "text": "¿Qué quiere Morena? Iniciar el establecimiento de un Estado comunista en México. Así de sencillo. Lo hace disfrazándolo con el término “Estado de Bienestar”. Pero no nos engañemos: es comuniso puro y duro.",
             "author": "Carlos Mota",
             "info_author": "",
-            "comment": "Un fantasma recorre mi imaginación. Es el fantasma de lo que sea que entienda por comunismo..."
+            "comment": "¡Un fantasma recorre mi imaginación! Es el fantasma de lo que medio me figuro que es el comunismo."
         },
         {
             "points": 0,
@@ -1756,7 +1884,7 @@
             "points": 0,
             "region": "",
             "hashtags": [
-                "HazañasDeLaInfrencia"
+                "Glorias de la Inferencia"
             ],
             "date": "",
             "text": "Los extranjeros que nos atacan son de otro país.",
@@ -1768,7 +1896,7 @@
             "points": 1,
             "region": "",
             "hashtags": [
-                "HazañasDeLaInfrencia"
+                "Glorias de la Inferencia"
             ],
             "date": "",
             "text": "Demasiada coincidencia que maten a alguien y al día siguiente esté muerto.",
@@ -1798,12 +1926,14 @@
             "text": "Los pobres son los codiciosos. Si lo piensas, para ser rico, necesitas dar algo. Debo producir libros, juegos, comprar terrenos, ofrecer viviendas, ofrecer trabajos. Pero la gente codiciosa no produce nada.",
             "author": "Robert Kiyosaki",
             "info_author": "",
-            "comment": "Claro, si por 'debo producir' entiendo adquirir medios de producción para que los trabajadores produzcan."
+            "comment": "Claro, si por “debo producir” entendemos “adquirir medios de producción para que otros produzcan”."
         },
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "",
             "text": "Esto no es porque sí. Esto no es como el agua que cae del cielo sin que se sepa exactamente por qué.",
             "author": "Mariano Rajoy, expresidente de España",
@@ -1813,17 +1943,21 @@
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Feminismo explicado a las damitas"
+            ],
             "date": "2018-03-01",
             "text": "Ahora el más resuelto enemigo de la literatura, que pretende descontaminarla de machismo, prejuicios múltiples e inmoralidades, es el feminismo.",
             "author": "Mario Vargas Llosa",
             "info_author": "",
-            "comment": "El más resuelto enemigo. Sea. (Duda seria: ¿el machismo es amigo o enemigo de la literatura?)"
+            "comment": "¿No será que a lo que quiere descontaminar de machismo, prejuicios e inmoralidades a la realidad? PD. '¿El más resuelto enemigo de la literatura?' ¿No nos estaremos invirtiendo a lo tonto en hipérboles?"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Feminismo explicado a las damitas"
+            ],
             "date": "",
             "text": "Mientras más estricta ha sido la educación de una niña y de una adolescente, más dispuesta para el amor será esa mujer cuando sea adulta.",
             "author": "Mario Vargas Llosa",
@@ -1833,7 +1967,10 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Historia",
+                "Glorias del periodismo"
+            ],
             "date": "",
             "text": "Hoy es el aniversario de Karl Marx, nacido el 5 de mayo de 1883. Nunca las ideas de un filósofo generaron tantas muertes.",
             "author": "Sergio Sarmiento",
@@ -1843,17 +1980,22 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Glorias del periodismo"
+            ],
             "date": "2020-06-01",
             "text": "Con mucha pena te esclibo esta calta para infolmalte que pol óldenes supelioles no publicalemos la entlevista que te hice la semana pasada pol la cantidad de mentilas que nos dĳiste.",
             "author": "Carlos Alazraki, en 'Carta de mi amigo chino Tu Chin Gun'",
             "info_author": "",
-            "comment": "Si El Universal quiere abarcar todo el espectro de la complejidad de las opiniones, ¿por qué no invitar directamente a escribir a un niño de cuatro años?"
+            "comment": "Si El Universal quiere abarcar todo el espectro de la complejidad de las opiniones, ¿por qué no invitar directamente a un niño de cuatro años?"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Sociología",
+                "Glorias del periodismo"
+            ],
             "date": "2020-06-01",
             "text": "Conforme avanza la recuperación de la vida económica de México va quedando claro quiénes fueron los principales personajes que sacaron la casta para que nuestra crisis tuviera un freno: los banqueros. [...] Hace falta que el presidente Andrés Manuel López Obrador emita un reconocimiento público a esta acción heroica de los banqueros.",
             "author": "Carlos Mota, sobre la prórroga de cuatro meses al cobro de créditos concedida por los bancos durante la pandemia",
@@ -1878,12 +2020,14 @@
             "text": "Piñera no fue capaz de hacer nada. No fue que lo derrotaron. Fue que ni siquiera fue a la batalla. Y entregó el país en los que podríamos llamar un Golpe de Estado posmoderno.",
             "author": "Vanesa Vallejo, periodista chilena, sobre la derogación de la constitución chilena a través del plebiscito de 2020.",
             "info_author": "",
-            "comment": "Ahonde la denunciante: ¿el posmogolpe incluye torturas posmodernas? ¿Los toques eléctricos se enviarán por Wifi? ¿A los asesinatos los reemplaza la eliminación de las cuentas de Instagram? Qué manga de débiles son los posmogolpistas."
+            "comment": "Ahonde la denunciante: ¿el posmogolpe incluye torturas posmodernas? ¿Los toques eléctricos se enviarán por Wifi? ¿A los asesinatos los reemplaza la eliminación de las cuentas de Instagram?"
         },
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2020-09-01",
             "text": "Se le conoció como el benemérito de las Américas... Fue tan importante su proceder y su fama, que Benito Mussolini lleva ese nombre porque su papá quiso que se llamara como Benito Juárez.",
             "author": "AMLO, ante una asamblea general de la ONU complacida por estas interesantes historias.",
@@ -1893,7 +2037,9 @@
         {
             "points": 1,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "2020-09-01",
             "text": "¿Así se le dice a un animalito que se tiene como mascota, se le dice a un perrito, a cualquier animalito, 'vete a buscar tus alimentos'? No. El dueño, el que quiere a ese animal, lo protege y le da de comer. ¿Por qué a los seres humanos no? ¿Cuál es la misión del gobierno? Lograr la felicidad del publo.",
             "author": "AMLO",
@@ -1903,7 +2049,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "",
             "text": "Ojalá la historia me descuente mis primeros 24 meses de gobierno.",
             "author": "Nicolás Maduro",
@@ -1923,7 +2071,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "",
             "text": "Una persona me dijo de forma frontal, como acostumbra la gente: 'ójalá tuviéramos un mejor presidente'. Yo le dije, 'ojalá tuviera yo un mejor pueblo también'.",
             "author": "Lenín Moreno",
@@ -1933,7 +2083,9 @@
         {
             "points": 0,
             "region": "",
-            "hashtags": [],
+            "hashtags": [
+                "Presidenciales"
+            ],
             "date": "",
             "text": "Al socialismo del siglo XXI le gusta tener enemigos claros: el principal es el imperio, pero también a algunas figuras claves del mismo, un ejemplo es el del Hombre Araña.",
             "author": "Nicolás Maduro",
@@ -1941,62 +2093,1055 @@
             "comment": "Los efectos especiales han mejorado muchísimo, pero avísenle al compañero que es gente actuando. Mejor concéntrese en lo del imperialismo."
         },
         {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Presidenciales"
+            ],
+            "date": "2023-09-01",
+            "text": "Es como ir a un auto a 100 km por hora y te vas a chocar contra el paredón, y sabés que te matás, entonces te tirás del auto. ¿Y vas a sobrevivir? Qué sé yo, pero al menos tenés una chance.",
+            "author": "Mauricio Macri, expresando su apoyo a Javier Milei",
+            "info_author": "",
+            "comment": "Hasta la izquierda debería preocuparse cuando a los de enfrente ya sólo les quedan lemas dirigidos a votantes de expectativas tan modestas: “Vote por nosotros. Tal vez sobrevivamos."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Acaban de… acabo de nombrar a Santiago Creel como coordinador general de la campaña.",
+            "author": "Xóchitl Gálvez, candidata a la presidencia",
+            "info_author": "",
+            "comment": "Adivinen quién acabo de tener un lapsus. Quede claro que en esta campaña yo me mandan sola."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Nosotros somos el pueblo de la luz, ellos son el pueblo de las tinieblas. Haremos realidad la profecía de Isaías, ya no habrá robos en tus fronteras y tus puertas serán de gloria.",
+            "author": "Benjamín Netanyahu",
+            "info_author": "",
+            "comment": "¿Qué no la banda de fanáticos religiosos son los enemigos? Por cierto, ya habría que modernizar las metáforas supremacistas. ¿Qué tal “pueblo de los misiles teledirigidos” vs. “pueblo de los cohetes artesanales”? ¿Qué tal que la presunción de poderío la hacemos en términos de capacidad de reducir a la población infantil del bando enemigo?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "El Estado es el pedófilo en el jardín de infantes, con los nenes encadenados y bañados en vaselina.",
+            "author": "Javier Milei, candidato a presidir el Estado.",
+            "info_author": "",
+            "comment": "¿De la serie infinita de metáforas posibles ésa es la que su mente eligió?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Historia"
+            ],
+            "date": "2023-09-01",
+            "text": "Los nazis y antisemitas siempre fueron de izquierda, el reavivamiento de esta guerra los dejó en evidencia una vez más.",
+            "author": "Emmanuel Rincón, escritor",
+            "info_author": "",
+            "comment": "Las golpizas, encarcelamientos, torturas y asesinatos cometidos por los nazis contra los militantes de izquierda fueron cortina de humo para encubrir sus profundas coincidencias."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Que la gente, los más radicales de izquierda, abracen a la policía, abracen al ejército.",
+            "author": "Andrés Man…  Omar García Harfuch",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Bueno, vean, ¿quién es el líder de izquierda más importante del planeta, me atrevo a decir? El presidente. ¡Y es el primero que ha abrazado al ejército mexicano!",
+            "author": "Omar García Harfuch",
+            "info_author": "",
+            "comment": "Tengan altura de miras: en vez de aferrarse a sus viejas concepciones piensen en conformar el ala izquierda del ejército. Y luego decimos: “no es que la izquierda se vuelva militarista, sino que estamos izquierdizando lo militar”. ¿Arroz?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "La globalista neoliberal Sheinbaum resultó filo-Pansta como su gato el presunto narco---según su amante/secretaria Martha Ojeda--- y panista de clóset /'izquierdista(jajaja) travesti' Loroña$ jajaja  Mas que normal.” José Antonio García Diputado del PAN se suma a Sheinbaum",
+            "author": "Alfredo Jalife-Rahme",
+            "info_author": "",
+            "comment": "eS ke la fORma db cer TaN mALa cOmO el cOnTenidojajjjaa!!!!"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Hoy México brilla en todo el mundo, la gente quisiera vivir en nuestro país, la moneda más estable, la inversión mayor, disminución de desigualdades, disminución de la pobreza, estabilidad económica, estabilidad política y también, poco a poco, se consigue la seguridad de nuestro país, así que solo hay un camino: la cuarta transformación de la vida pública de México.",
+            "author": "Claudia Sheinbaum",
+            "info_author": "",
+            "comment": "¿Ya se vale incluir humor negro en el proselitismo? Sí, “la gente quisiera vivir en nuestro país”, empezando por los veinticinco mil asesinados al año, incluidos ecologistas, indígenas, periodistas, mujeres, defensores de derechos humanos, líderes comunitarios, menores de edad. En fin, estamos en campaña: que nada se anteponga al delirio triunfalista."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Historia"
+            ],
+            "date": "2021-03-01",
+            "text": "¿Sí sabes, secretaria, que Cárdenas nacionalizó el petróleo a petición de EU, para evitar que le vendiéramos a los nazis? Ay nomás, para que no te hagas bolas con las verdaderas razones detrás de la “hazaña soberana y patriotera”.",
+            "author": "Yuriria Sierra, periodista",
+            "info_author": "",
+            "comment": "Pero si era de ellos cómo íbamos a vendérselo a los n... En fin."
+        },
+        {
+            "points": 0,
+            "region": "2021-03-01",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Creo que no lo saben, pero cuando se come mariguana al pasar por el hígado se potencializa la potencia… Con tres mordidas a un panqué de chocolate con 550 miligramos de mariguana, de concentrado de THC, una persona podría estar en un viaje durante cuatro días, ¡¿Eso es lo que quieren, eso es lo que quieren?!",
+            "author": "Cynthia Iliana López Castro, diputada del PRI",
+            "info_author": "",
+            "comment": "Que la diputada aclare cuánta marihuana necesitó para obtener esas cifras. ¿Podrá compartir?"
+        },
+        {
+            "points": 0,
+            "region": "2021-03-01",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Estoy consciente a lo que me expongo. Es más fuerte mi indignación y mi enojo que mi corrección política por atreverme a decir lo que siento. Así como Gutiérrez Müller es la no-primera dama para millones de mexicanos, para mí, AMLO es mi no-presidente.",
+            "author": "Guadalupe Loaeza",
+            "info_author": "",
+            "comment": "'Yo sé a lo que me expongo'. Cálmese Juana de Arco."
+        },
+        {
+            "points": 0,
+            "region": "2021-03-01",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "El #OsitoBimbo no sólo simboliza la tradicional marca de esta panadería, sino la resistencia ante los embates del gobierno izquierdista que atenta contra las libertades y los derechos.",
+            "author": "Raúl Tortolero",
+            "info_author": "",
+            "comment": "El Osito Bimbo como emblema. ¿Quién dijo que la oposición está en problemas?"
+        },
+        {
+            "points": 1,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-04-01",
+            "text": "Los políticos no deben robar mucho… Yo espero no robar nada.",
+            "author": "Onésimo Cepeda, obispo, al lanzarse como diputado plurinominal del PRI",
+            "info_author": "",
+            "comment": "'Espero no robar mucho' es un eslógan que toma en cuenta la falibilidad del alma humana. Resulta encomiable que el obispo reconozca que las expectativas que tiene sobre sí mismo son modestísimas."
+        },
+        {
+            "points": 0,
+            "region": "2021-03-01",
+            "hashtags": [],
+            "date": "2021-03-01",
+            "text": "Lilly [Téllez] obligó a que se entregara información ni más ni menos que a los Rusos.",
+            "author": "Manuel Díaz, analista",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "2021-03-01",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "No hay, por ejemplo, diferencia mayor entre los posicionamientos del EZLN y los de Frena; ambos podrían convocar a eventos conjuntos o suscribir los mismos manifiestos, pues sus discursos hepáticos, plenos de fantasías y de calumnias, son coincidentes.",
+            "author": "Víctor Toledo",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "2021-03-01",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "Honestamente “Patria” no se me hace un mal nombre para una vacuna. Vaya mejor eso que: “Ce-ácatl Topilitzin Vacunacuiautli” o algo que se le hubiera ocurrido a @ElenaBuylla.",
+            "author": "Xavier Tello, analista.",
+            "info_author": "",
+            "comment": "¿Sí cachan? Porque lo indígena es por sí mismo risible. ¿Quién se aguanta la risa ante fonemas tales? (Pd. Se alarma en vano, compañero: el virus está más avanzado que algunos en materia de no discriminación)."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "Cómo que India nos mandó vacunas “como gesto de solidaridad”? ¿Pues qué somos? Eso es como cuando tu tía te manda la ropa usada de sus hijos.",
+            "author": "Pascal Beltrán del Río",
+            "info_author": "",
+            "comment": "Solidaridad: esa forma de humillar al prójimo. Que nos socorran los pueblos superiores; no la India, por Dios."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-03-01",
+            "text": "Ni Díaz Ordaz llegó a tanto.",
+            "author": "Fernando Belauzarán, sobre la instalación de vallas frente a Palacio Nacional en vísperas de una manifestación.",
+            "info_author": "",
+            "comment": "Sí, lo de la matanza estuvo mal. ¿Pero poner vallas? ¡Oiga!"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-03-01",
+            "text": "Acción Nacional me postula respetando mis ideas y convicciones como hombre de izquierda… Cuando la democracia y las libertades conquistadas corren peligro, es un orgullo representar al partido de Gómez Morín.",
+            "author": "Fernando Belauzarán",
+            "info_author": "",
+            "comment": "No descartemos la posibilidad de que mi postulación signifique que en realidad el PAN es ya un partido de izquierda. ¿Qué otra explicación podríamos darle a este concubinato?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-04-01",
+            "text": "No sabía que el presidente no es Evo Morales.",
+            "author": "Chumel Torres, momentos antes de ponerse a opinar media hora sobre lo que significa la visita oficial del presidente boliviano Luis Arce.",
+            "info_author": "",
+            "comment": "La manifestación rectifica: “Educacioooón primero… al pobre youtubero!”"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-04-01",
+            "text": "La desigualdad es un problema de envidia. Carlos Slim tiene 52 MMDD y yo por supuesto que no tengo ni una fracción de eso. ¿Me afecta a mí que él tenga tanto dinero? Por supuesto que no",
+            "author": "Sergio Sarmiento",
+            "info_author": "",
+            "comment": "Los derechos laborales son fruto de las tendencias megalómanas de los trabajadores."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-04-01",
+            "text": "La nacionalidad no te la da un papel, te la da la sangre.",
+            "author": "Simpatizante de Vox",
+            "info_author": "",
+            "comment": "¿A los AB positivo qué país nos corresponde?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-04-01",
+            "text": "Si eres un hombre negro viviendo en España, por mucho que tengas un papel que te dice que eres español, lo siento pero no lo eres.",
+            "author": "Simpatizante de Vox",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-05-01",
+            "text": "No mamen, no saben nada, el PAN fue la mayor oposición al PRI hegemónico durante 60 años. No puedo discutir con gente que no sabe eso.",
+            "author": "Pablo Majluf",
+            "info_author": "",
+            "comment": "Tuit respaldado por el movimiento ferrocarrilero de 1958, el movimiento estudiantil de 1968, el movimiento Urbano Popular, Ejército Zapatista de Liberación Nacional..."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-05-01",
+            "text": "El nazismo no era de derecha, el nombre del partido de Hitler era Partido Nacionalsocialista Obrero Alemán, si el nombre no les dice todo, entonces son necios.",
+            "author": "Marietto Ponce",
+            "info_author": "",
+            "comment": "Se cancela el estudio de los archivos porque en el nombre contiene la esencia de lo que es el caso. El hallazgo revoluciona nuestra comprensión de los cacahuates japoneses, las quesadillas, las enchiladas suizas, los perros calientes, las hamburguesas, las papas a la francesa y las chinas poblanas. P.D.- No lean “La náusea”, trata sobre vomitar."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Sociología"
+            ],
+            "date": "2021-05-01",
+            "text": "Tú y todos los que votaron por López Obrador son responsables también. En lugar de tanta “rabia y dolor” asume tu responsabilidad. Es más ético.",
+            "author": "Isabel Turrent, en respuesta a Gael García, a propósito del colapso de la línea 12 del metro.",
+            "info_author": "",
+            "comment": "La ciudadanía va a estar muy entretenida elaborando el tabulador de la corresponsabilidad. ¿Qué porción de responsabilidad por los miles de muertos le corresponde al votante de Calderón o Peña Nieto?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-07-01",
+            "text": "Yo no tengo hijes, tengo HIJOS. Y como padre de familia uso el 'sentido común', los niños juegan con los niños y las niñas juegan con las niñas. Nos basamos en la biología, no en la ideología.",
+            "author": "Carlos Leal, diputado",
+            "info_author": "",
+            "comment": "¿Está seguro que el libro de Biología que cree que leyó no era el Manual de Carreño? ¿Qué principio biológico se imagina que ordena la separación de niños y niñas?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-07-01",
+            "text": "Le falta un poquito de cultura al Presidente de Argentina. Acá decimos: “no tiene la culpa el indio, sino el que lo hace presidente”.",
+            "author": "Felipe Calderón, a quien no le falta un poquito de cultura",
+            "info_author": "",
+            "comment": "Variante oportuna: si hay un narcotraficante y un presidente lo hace Secretario de Seguridad, culpamos al indio, a los caprichos de la fortuna, al pasado, a quien sea."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-07-01",
+            "text": "Nor hemos convertido en el haz me reir....",
+            "author": "Vicente Fox, tras encontrar una frase que es el título de su autobiografía y la autobiografía completa.",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-07-01",
+            "text": "Les tengo una buena noticia, la cantidad de pendejos en México bajó de 30 millones a 16.5 millones, para 2024 hay que bajarla a 0. Imaginemos cosas chingonas.",
+            "author": "Marietto Ponce",
+            "info_author": "",
+            "comment": "AMLO polariza al país llamando “pueblo bueno” a quienes nosotros conocemos como 'bola de pendejos'. ¿Notan el daño que se le inflige a la unidad nacional?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Presidenciales"
+            ],
+            "date": "2021-07-01",
+            "text": "Los más afectados (Iztapalapa, Tláhuac: gente humilde, trabajadora, buena) entienden que estas cosas desgraciadamente suceden.",
+            "author": "AMLO, sobre el accidente del Metro de la Ciudad de México, en el que murieron 27 personas",
+            "info_author": "",
+            "comment": "'Estas cosas suceden', qué frase conmovedora. Un gobierno de izquierdas no va a quitarle al pueblo su derecho a la resignación heroica."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-07-01",
+            "text": "Mucho 'orgullo gay' pero luego quieren casarse como los heteros, poder tener hijos como los heteros, etc. Me recuerdan a los veganos comiéndose verduras en forma de hamburguesa.",
+            "author": "Twittera española",
+            "info_author": "",
+            "comment": "Mucho “orgullo gay” pero quieren derechos, bola de hipócritas. (Notifíquese al mundo que los carnívoros tienen el copyright de la comida en forma cicular)."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "Qué maricones. ¡No me toques, maricón! Estás muerto, maricón!",
+            "author": "René Bolio, presidente de la Comisión Mexicana de Derechos Humanos, en una protesta frente a la embajada de Cuba",
+            "info_author": "",
+            "comment": "Es que esta es una Comisión para hombrecitos de a devis."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "El viaje al espacio de Bezos ayudó más a la economía del mundo que todos los programas populistas de América juntos.",
+            "author": "Marietto Ponce",
+            "info_author": "",
+            "comment": "Insondables son los caminos del capitalismo para maximizar el bien común."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "- Por definición, yo soy de izquierda. Mega de izquierda. - ¿Liberal de centro derecha? - Ajá. -Eres de derecha. - Sí.",
+            "author": "Chumel Torres, en entrevista con Diego Ruzzarin.",
+            "info_author": "",
+            "comment": "Es como leer una síntesis apretada de la historia del PRD."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Presidenciales"
+            ],
+            "date": "2021-08-01",
+            "text": "Cuanto peor mejor para todos, cuanto peor para todos mejor, mejor para mí, el suyo, beneficio político.",
+            "author": "Mariano Rajoy",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [
+                "Presidenciales"
+            ],
+            "date": "2021-08-01",
+            "text": "¿Ustedes piensan antes de hablar o hablan tras pensar?",
+            "author": "Mariano Rajoy",
+            "info_author": "",
+            "comment": "Cinco minutos de silencio para que el declarante piense y después nos diga (o al revés: diga tras pensar) si ya se percató de que no nos dejó muchas opciones."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "En lugar de ayudar a una mujer con el trauma de la violación, todavía le agregan otro más que es el de un asesinar a su propio hijo. Destruyen a la mujer por dentro, porque aparte de ser víctima de un delito ahora la convierten en autora de uno.",
+            "author": "Christian Camacho",
+            "info_author": "",
+            "comment": "Peor: le suman el trauma de cargar con la libertad de decidir qué hacer con su vida. Las sociedades siempre han fallado en lo de garantizarle seguridad a las mujeres, pero al menos podemos no fallar en restringir sus libertades."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "Nosotros no colonizábamos. Nosotros lo que hacíamos era tener una España más grande.",
+            "author": "Pablo Casado, político español",
+            "info_author": "",
+            "comment": "Todo fuera como hacer eufemismos. Los países no invaden: amplían sus fronteras y diversifican sus afluentes culturales."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "Un paso importante para terminar con la vida de mexicanas y mexicanos en gestación. Gran avance sin duda considerando que hace 500 años los aztecas hacían lo mismo, sólo cambió el ritual y la deidad, la matanza igual.",
+            "author": "Esteban Arce, conductor de televisión, acerca de la despenalización del aborto.",
+            "info_author": "",
+            "comment": "Pero ahora es peor, compañeros: antes por lo menos el sacrificio garantizaba que saliera el sol, ahora sólo es un aliciente para que las mujeres salgan de noche. ¿Qué se creen?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "El capitalismo ha sido el único sistema de la historia en el cual la riqueza no se ha adquirido mediante saqueo, sino mediante producción, no por la fuerza, sino mediante el comercio.",
+            "author": "Ayn Rand, escritora",
+            "info_author": "",
+            "comment": "Comparece el capitalismo en el juicio de la historia: “los relatos de los historiadores a propósito de ciertos hechos de violencia en los que me vi envuelto, no expresan mi esencia sino que desafortunadamente se repitieron titipuchal de veces, siendo siempre ajenos y contrarios a mis convicciones más íntimas”"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "La mayor de las minorías marginadas y oprimidas en el mundo actual es la de los varones blancos y heterosexuales.",
+            "author": "Fernando Sánchez Dragó, escritor, víctima, sobreviviente, candidato a Rosa Parks en espera de su autobús.",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "Si vamos a frenar esta marea progresista asquerosa y asesina que se viene, es desde la trinchera política y, señores, vamos a ganar porque es el plan de Dios.",
+            "author": "Jesús Rendón, “Tumaburros”",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "[José María Morelos] sabía que el avance se obtiene a través del rezago y de la marginación de la población, en una ilusión.",
+            "author": "Cuauhtémoc Blanco, gobernador de Morelos",
+            "info_author": "",
+            "comment": "“El avance a través del rezago y la marginación”: suponemos que está llevando la dialéctica más allá de donde la dejó Lenin."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Las mañaneras son la repetición de una doctrina. [...] No dije doctrina. No, para nada.",
+            "author": "Patricia Armendáriz, durante la misma entrevista",
+            "info_author": "",
+            "comment": "Es que el pensamiento evoluciona. Uno no puede quedarse anclado en un pasado que terminó hace ya cinco minutos"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Si la mujer no es un ser libre, no tendría derecho a decidir ¿que va a decidir una persona que no es libre? Una persona que no es libre, no tiene derecho, entonces, plantear que el aborto es un derecho y que debe ser despenalizado, legal, es plantear que la mujer tiene derecho a decidir, ahora, la mujer no puede tener derecho a decidir si no es un ser libre y,  si la mujer no esta facultada para decidir, entonces no se puede hablar de ese derecho.",
+            "author": "Ernesto D’Alessio, cantante afortunadamente",
+            "info_author": "",
+            "comment": "Otros silogismos del mismo autor: Si A es B, y B es C, y B está ahí nomás pajareando, entonces C agarra y le dice a D: oye D, ya viste lo que dijo A de ti, entonces D agarra y va con A y le dice por qué andas diciendo eso, y A le dice “yo no fui, fue B”, y D le dice pues sí pero como eres igual a B... y se arma una confusión."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Solo los imbéciles y resentidos pueden decir que los mexicanos “fuimos conquistados”, porque sin los espermas europeos de hace 500 años, no habrían nacido…",
+            "author": "Diego Fernández de Cevallos",
+            "info_author": "",
+            "comment": "Qué idea para sustituir la estatua de Colón. Ya que estamos en la reivindicación del esperma, podríamos modificar dos cabezas olmecas para hacerle un homenaje escultórico a ciertas partes pudendas que nos dieron patria."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Les sugiero leer, sin prejuicios, este libro. Un Roberto Madrazo maduro e implacable, brillante en ciertos momentos [...] No estoy de acuerdo en todo, pero es lectura indispensable.",
+            "author": "Pablo Hiriart",
+            "info_author": "",
+            "comment": "Un Roberto Madrazo brillante debe ser un Roberto Madrazo inédito."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Lo lamento mucho pero la bisexualidad de Superman Junior escapa a cualquier verosimilitud dramática...",
+            "author": "Pablo Majluf",
+            "info_author": "",
+            "comment": "¡Extra, Extra! ¡Comic acerca de extraterrestre que vuela y echa rayos por los ojos podría carecer de verosimilitud dramática! Preocupación entre las Tortugas Ninja Adolescentes Mutantes: “nuestro nombre ya es larguísimo. Si uno de los muchachos sale gay esto se volverá dramáticamente insostenible”, comenta la rata gigante que los entrena. PD.- La comunidad LGTBI+ objeta: ¿Personajes musculosos con doble vida que por las noches recorren la ciudad en mallas coloridas? Los cómics son una marcha del orgullo gay en dibujos."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "No te respondo como mereces por ser la esposa de mi amigo. Por lo demás, simplemente te digo que eres un ser despreciable. Enlódate en tu amargura.",
+            "author": "Javier Lozano, en respuesta a María Scherer, quien le recordó el poco tiempo que duró su nombramiento en la Coparmex.",
+            "info_author": "",
+            "comment": "Bueno, durante unas doce palabras se comportó como un caballero. Récord personal y más o menos el tiempo que duró en la Coparmex"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Cuando las barbas de tu vecino cortar…",
+            "author": "Vicente Fox",
+            "info_author": "",
+            "comment": "Del libro de refranes intervenidos por Vicente Fox: “Dar y dar, pajarito volar”, “Camarón que se dormir corriente se lo llevar”."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Ándale ya esta Gertz y la PGR en el 'Washington Post' la crema inata del periodismo a nivel Global.",
+            "author": "Vicente Fox",
+            "info_author": "",
+            "comment": "Adéndum epistemológico: la “crema inata” es lo opuesto de la “mantequilla adquirida”."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "Es escandaloso que, siendo economista, no tengas idea de cuánta derrama económica genera un proyecto espacial. Qué trágico que te doble la ideología. Por culpa de eso, la 4T tiene al país peor que nunca.",
+            "author": "Irving Gatell, twittero, en respuesta al economista Gerardo Esquivel acera del viaje orbital de Jeff Bezos",
+            "info_author": "",
+            "comment": "Suscribimos: ¿sabes la derrama económica que dejaron las pirámides de Egipto? ¿Sabes cuántos empleos crearon? ¿Y sabes lo contento que se puso el Faraón?)"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Lo crean o no, hay muchísimo paisano en el gabacho que se traga el discurso populista. Y también pueden votar... Disfrutando las mieles del capitalismo a la vez que condenan su país.",
+            "author": "Arturo Herrera, twittero, sobre los migrantes en Estados Unidos que se acercaon a vitorear a AMLO.",
+            "info_author": "",
+            "comment": "Nacen en la pobreza, arriesgan su vida migrando ilegalmente, toman los trabajos más extenuantes, enfrentan la xenofobia, viven como indocumentados. ¡Están acaprando las mieles del capitalismo, dejen algo para los demás! ¡Y para colmo votan!"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Dejen de tenerle miedo a la desigualdad que trae la mayor riqueza.",
+            "author": "Sergio Negrete",
+            "info_author": "",
+            "comment": "En cuanto nos la presenten le perderemos el miedo, por ahora sólo conocemos a la desigualdad que trae la mayor pobreza, y viera que no sólo no le tenemos miedo sino que es un miembro más de nuestras familias."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Siendo sinceros, ¿no les dará pena a los chairos el mero hecho de existir? ¿serán conscientes de su existencia?",
+            "author": "Gonzalo Monroy",
+            "info_author": "",
+            "comment": "Vamos respetando: usted habla del “mero hecho de existir” como si fuera hacer enchiladas en el sartén del Ser. Si lo que usted quiere es expresar su desprecio por quienes no piensan como usted, el castellano pone a su disposición una amplia variedad de insultos. ¿Pa’ qué fingir que entra en honduras filosóficas?"
+        },
+        {
+            "points": 1,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Lo que el Presidente López Obrador hizo hoy en Naciones Unidas resonará con un eco de época en los pasillos del Templo de la Historia.",
+            "author": "Antonio Attolini",
+            "info_author": "",
+            "comment": "¡Qué ganas de minimizar el momento histórico por ahorrarse unos cuantos adjetivos! A ver, ahonde: lo que hizo el presidente, ¿resonará en “límpidas vibraciones seráficas” o con los “metálicos timbres de la eternidad”? ¿Ni una referencia a “la hondura infinita” de los pasillos? ¿Y de qué está hecho el templo? ¿De oro reluciente, de marmóreos mármoles, de barro fraguado en los hornos del fondo de los tiempos? Es tiempo de definiciones: si está con la Transformación es sin miedo a expresar cabalmente los Sentimientos de la patria."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Culera",
+            "author": "Diputada Marisol García, en sesión de la Cámara de Diputados",
+            "info_author": "",
+            "comment": "Con cinco razonamientos como este casi junta para un haiku completo."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Si la van a seguir haciendo de beisbolistas, pues nosotros los vamos a seguir ponchando. Y si quieren ser beisbolistas en el montículo, pues sigan lanzando sus propuestas, y nosotros las vamos a seguir bateando.",
+            "author": "Benjamín Robles, diputado, durante una sesión parlamentaria.",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "No es falso, pero tampoco es verdadero.",
+            "author": "Ana Elizabeth García Vilchis, sobre el aumento de la corrupción en México",
+            "info_author": "",
+            "comment": "Es injusto: si lo dice Vilchis todo mundo se ríe; si lo dice un filósofo analítico le ponen un centro de investigación."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Acá les podemos gritar, Pío Pío, como los pollitos dicen, cuando tienen hambre, cuando tienen frío.",
+            "author": "Monserrat Arcos, diputada, durante una sesión parlamentaria.",
+            "info_author": "",
+            "comment": "Qué buen nivel está agarrando la discusión."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Existen propuestas propositivas…",
+            "author": "Patricia Armendáriz",
+            "info_author": "",
+            "comment": "Proponemos evitar las tautologías tautológicas"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "¡No me toques! ¿Qué te crees, igualado?",
+            "author": "Oscar Cantón Zetina, diputado, durante una sesión legislativa.",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Yo prefiero llegar a mi casa cansado de trabajar, que llegar cansado de buscar trabajo.",
+            "author": "Letrero en la cocina de un restaurante (Casa Toño, presuntamente)",
+            "info_author": "",
+            "comment": "La frase está cansada porque tiene como tres chambas: lema motivacional, amenaza de despido, llamado urgente a tomar los medios de producción..."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-11-01",
+            "text": "Quienes reciben algún tipo de ayuda gubernamental, ¿deberían votar?”, hay que preguntar si esos votos no degeneran a la democracia electoral en mercado electorero.",
+            "author": "Arturo Damm Arnal",
+            "info_author": "",
+            "comment": "Si por “ayuda del gobierno” se refiere a la defensa de las relaciones de propiedad, ¿está llamando a prohibirle el voto a la burguesía? Ahí sí que nos deslindamos."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-09-01",
+            "text": "El problema es que la gente decidió que no quiere trabajar realmente, tras el Covid, y eso tuvo un gran impacto en la productividad. El desempleo tiene que subir  un 40 o 50 por  ciento. Necesitamos algo de dolor en la economía. Tenemos que recordar a la gente que trabajan para el empresario, no al revés. (...)  Los gobiernos de todo el mundo están intentando que aumente el desempleo. Tenemos que acabar con esa actitud y eso tiene que pasar por dañar la economía",
+            "author": "Tim Gurner, empresario australiano",
+            "info_author": "",
+            "comment": "¿Cómo era lo de la inexistencia de la lucha de clases? Nos encontramos ante una radical inadecuación entre teoría y práctica: los economistas fresas duro y dale con sus modelos-himno al capitalismo mientras los millonarios persisten en su marxismo radical."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2023-08-01",
+            "text": "[La oposición debiera] sembrar en la mística político-religiosa de los mexicanos la idea de la 'Virgen Xóchitl' [...] En lugar de que el hijo (el mesías tropical) acuse a los criminales con sus mamás, el pueblo acusaría al hijo con su madre, la Virgen Xóchitl. Las posibilidades de Xóchitl como virgen política, sin pecado concebida, son inmensas.",
+            "author": "Ricardo Elías en el artículo, “La 'Virgen Xóchitl'”",
+            "info_author": "",
+            "comment": "Denunciamos que AMLO y sus compinches le están pagando a los columnistas del Reforma para que escriban estas cosas. Qué eslóganes nos esperan: Refugio de los desfavorecidos en las encuestas, vota pro nobis."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "Hoy México llora. Hoy México tiembla. Llueve desconsoladamente en varias partes del país, y la tierra cruje. Hoy, miles de bebés mexicanos han sido condenados a muerte. Hoy, México llora; hoy, México tiembla, por sus hijas e hijos que no nacerán.",
+            "author": "Eduardo Verástegui, tras el fallo de la SCJN que despenaliza el aborto.",
+            "info_author": "",
+            "comment": "Si le sirve de consuelo, una modificación jurídica no causa lluvias desconsoladas ni crujidos de tierra: los abortos ya se practicaban con mucha frecuencia antes de la decisión de la Corte."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "Lo que estamos viendo es una persecución que recuerda, lo debo decir claramente, a las peores épocas del estalinismo, a las peores épocas de la revolución cultural durante la revolución china.",
+            "author": "Antonio Lazcano, biólogo de excelencia, historiador cuestionable, sobre las acusaciones de fraude contra el Conacyt",
+            "info_author": "",
+            "comment": "Alguien aquí tiene que estar exagerando. Si así fueron sus 'peores épocas', el estalinismo y la revolución cultural china fueron modelos del respeto a los derechos humanos."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "Hace unos dos años, cuando empezó el movimiento feminista, muchas mujeres participaron, pero se empezaron a dar cuenta de que se habían convertido en feministas conservadoras, sólo para afectarnos a nosotros.",
+            "author": "AMLO",
+            "info_author": "",
+            "comment": "Ya independícense las feministas, no que siguen definiendo su praxis alrededor del presidente."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "No podemos vivir en un mundo donde la libertad sea totalitaria y la vida subjetiva.",
+            "author": "Pancarta en una marcha a favor de la penalización del aborto.",
+            "info_author": "",
+            "comment": "Moción: ¿cómo es un mundo donde la vida es subjetiva? ¿Cómo es una vida no subjetiva?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Franco no era socialista como Hitler, ni inició una guerra para conquistar el mundo con sus amigos los comunistas, como hizo Hitler. Franco solo era un DICTADOR de izquierdas que no se guiaba por su ideología como sí hacía el socialista alemán",
+            "author": "Tuitero anónimo, @eonolibertad.",
+            "info_author": "",
+            "comment": "Franco fue un dictador de izquierdas. La República Española era de ultraderecha. Durruti era anarocapitalista. La CNT era el brazo laico de la Iglesia Católica. El día que estos tuiteros se pasen a la geografía veremos debates acerca de si la tierra plana es triangular o hexagonal."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "España tiene mucho que celebrar y nada de lo que arrepentirse. Tal día como hoy de hace 529 años, Colón descubre América y se inicia la Hispanidad, la mayor obra de hermanamiento realizada por un pueblo en la Historia universal",
+            "author": "Cuenta oficial de VOX",
+            "info_author": "",
+            "comment": "“Hermanamiento” es un término que llama a reescribir tantos libros de historia. “Miles de indios fueron conducidos a las minas para que se hermanaran  con la plata”. “¿Se acuerda de cuando Alemania se hermanó a Polonia?”"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Ya le cortaron los huevos de acero a Superman, lo deconstruyeron y lo volvieron aliade. No podía saberse. Sigue cambio de sexo para Hulk. No quiero ni imaginar esa cirugía",
+            "author": "Pablo Majluf, sobre el anuncio de que en un nuevo cómic Superman se enamora de un hombre.",
+            "info_author": "",
+            "comment": "Relación homosexual = cortar los huevos."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "La UNAM ha sido y es una institución educativa que cuenta con una estructura horizontal",
+            "author": "Boletín Oficial de la UNAM",
+            "info_author": "",
+            "comment": "El rector condena enérgicamente la epidemia de dolor abdominal provocada por carcajearse inconteniblemente."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Abstente de emitir comentarios u opiniones negativos o desfavorables sobre las políticas o programas del Conacyt en el desempeño de tus funciones.",
+            "author": "Código de Ética del Conacyt.",
+            "info_author": "",
+            "comment": "Por ejemplo, si te preguntan sobre esta sugerencia abstente de decir que es medio ridícula."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Es en serio. López está tratando de imponer un socialismo nacional-populista en México.",
+            "author": "Gabriel Quadri ",
+            "info_author": "",
+            "comment": "Aplaudimos que Quadri añada un “en serio” a sus comentarios para aclarar si son humor involuntario o absurdo intencional."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "La “A” de UNAM significa “Autónoma”",
+            "author": "Javier Lozano",
+            "info_author": "",
+            "comment": "Y dicen que ya no hay eruditos. A quienes sostenían que la “A” era de “Nacional” o de “México” les informamos que perdieron el debate."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Yo no estudié en UNAM, pero estaría dispuesto a asistir a una manifestación contra López, para defenderla de sus ataques. ¿La van a organizar?",
+            "author": "Gabriel Quadri, quien, dicho sea de paso, llamó a la UNAM 'epicentro de anarquía e impunidad'.",
+            "info_author": "",
+            "comment": "¿No? ¿Nada? ¿Ni una limosnita para este político necesitado de base social?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "La caída del sistema fue un amasiato entre el PAN y Salinas de Gortari.",
+            "author": "Manuel Bartlett, sobre el fraude electoral de 1988",
+            "info_author": "",
+            "comment": "Continúa la biografía: Consumado el fraude, Salinas de Gortari lo invitó a ser Secretario de Educación. Bartlett, guiado por sus principios irrenunciables y su alto sentido de la dignidad, aceptó el cargo. Desde esa trinchera continuó su incans..."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "No dijeron nada durante el saqueo más grande en la historia de México. Nada. Ayúdenme a encontrar los libros de la UNAM durante el periodo neoliberal cuestionando la corrupción que imperó...",
+            "author": "AMLO",
+            "info_author": "",
+            "comment": "No es por desconfiar de su erudición, presidente, pero tal vez si dedicara menos tiempo a narrar sus obras completas y revisara el catálogo de publicaciones..."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "El feminismo no defiende a la mujer, no les importa, la DENIGRA y la rompe por dentro para siempre. Es una agenda Globalista y financiada por el Capitalismo más salvaje e inhumano.",
+            "author": "Ernesto D’Alessio",
+            "info_author": "",
+            "comment": "Nota que se anticipa a infundados reclamos: el declarante no está hablando de las millones de mujeres involucradas en el feminismo, sino específicamente de “LA MUJER”, esa lumínica entidad a la que felicitamos cada 8 de marzo por ser la creación más bella del universo."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-10-01",
+            "text": "Lamento inmensamente que el daño colateral haya sido tan espantoso. No es mi posición cuestionar al presidente.",
+            "author": "Patricia Armendáriz, sobre las muertes causadas por el desabasto de medicinas",
+            "info_author": "",
+            "comment": ""
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-08-01",
+            "text": "Yo he pensado mucho que los feminicidios son finalmente un acto de amor, porque la tortura, la cercenación, la huella sobre el cadáver es una pasión del alma.",
+            "author": "Iván Ruiz, director del Instituto de Investigaciones Estéticas de la UNAM",
+            "info_author": "",
+            "comment": "“Yo he pensado mucho”, dice. ¿Qué declarará cuando piensa poquito? Y después ahí anda la comunidad filosófica teniendo que convencer al público de que la filosofía sí sirve para algo."
+        },
+        {
+            "points": 0,
+            "region": "La familia es la institución de seguridad social más importante en el país, nuestras familias. No es el Seguro Social, no es el Issste, no es el gobierno, la institución más importante de seguridad social es la familia, sobre todo la familia mexicana.",
+            "hashtags": [],
+            "date": "2020-03-01",
+            "text": "",
+            "author": "AMLO",
+            "info_author": "",
+            "comment": "Sobre todo la familia mexicana. ¿Qué no ha visto “Nosotros los pobres”, no vio “Los Tres García”? ¿Usted cree que, digamos, la familia colombiana o la sueca va a dar a una Sara García?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-12-01",
+            "text": "El pueblo está contento, la gente está, la verdad, feliz. Antes se hablaba del mal humor social, ¿se acuerdan?, que la gente andaba enojada; pues no, y vaya que pasamos por una situación difícil, muy difícil con la pandemia, muy dolorosa.",
+            "author": "AMLO",
+            "info_author": "",
+            "comment": "Recién ayer mi imaginación y yo levantamos una encuesta rigurosa y eso salió. ¿Cómo los estragos de la violencia, la pandemia y la precariedad económica podrían entristecer a un pueblo que se sabe tan en los pensamientos de su presidente?"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-09-01",
+            "text": "La historia no se “Reescribe” ¡Es lo que es! No lo que les conviene.",
+            "author": "Pedro Ferriz H.",
+            "info_author": "",
+            "comment": "Usted suelta esto en una facultad de Humanidades y desata una campal de a cuchilladas."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2021-03-01",
+            "text": "Voy a seguir recurriendo a los papás y los abuelos para que nos ayuden a que no haya violencia, es lo que debe de hacerse.",
+            "author": "",
+            "info_author": "",
+            "comment": "Lo que le faltaba a la exitosa estrategia transexenal de militarización y punitivismo eran las apelaciones a las mamacitas y los papacitos."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-02-01",
+            "text": "Ustedes, amigos pejistas, tendrán el poder y el dinero, pero nosotros tenemos la dignidad que no se compra. Pueden citarme.",
+            "author": "",
+            "info_author": "",
+            "comment": "Ay sí ay sí alguien cíteme por el amor de Dios. (Una colecta para que aquí el compañero pueda comprarse citas y deje de andarlas mendigando)."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-10-01",
+            "text": "Tengo el mejor consejo para las mujeres y los negocios. Pónganse a trabajar. Parece que nadie quiere trabajar hoy en día.",
+            "author": "Kim Kardashian",
+            "info_author": "",
+            "comment": "Y uno diría: “no se burlen, no es experta”, pero lo preocupante es que sí parece ideóloga del PAN."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-03-01",
+            "text": "El padre de la izquierda es Lucifer. ¡Dios es conservador!",
+            "author": "Eduardo Verástegui",
+            "info_author": "",
+            "comment": "Dios padre tal vez. Pero el Hijo y el Espíritu Santo tienen una pinta de hippies..."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-02-01",
+            "text": "Dije: “esto es una genialidad”. Putin declara como independiente una gran porción de Ucrania. Oh, es maravilloso. Dije: “qué inteligente”. Piénsalo. Es un tipo muy inteligente, lo conozco bien, muy bien. Tienes que decir: esto es muy inteligente.",
+            "author": "Donald Trump",
+            "info_author": "",
+            "comment": "La guerra va rumbo a trescientos mil muertos. Un genio. Hay que saber reconocer, de idiota a idiota."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2015-09-01",
+            "text": "Los padres  se niegan a ver las  evidencias porque eso implica volver a la milpa, al trabajo: se acabaron las caravanas de autobuses de primera clase, los hoteles, las recepciones como héroe.",
+            "author": "Luis González de Alba",
+            "info_author": "",
+            "comment": "¿O qué otra cosa se le ocurre que pueda mover a los padres de un desaparecido si no el amor a los viajes? ¿El amor? No sean cursis. ¿La dignidad? ¿Eso qué es?."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2018-06-01",
+            "text": "Los Padres de los 43 [...] debieran irle a pedir perdón, por las ofensas que le han propinado, a Jesús Murillo Karam",
+            "author": "Carlos Marín",
+            "info_author": "",
+            "comment": "Porque la misión del periodismo es vivir con los labios puestos en la bota del poderoso."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-02-01",
+            "text": "Qué tristeza que 'la casa gris', que habitó el pobre muchacho López Beltrán, no trasmita ni un ápice de hogar familiar. [...] Estoy segura que la revista Hola! se rehusaría a retratarla por lo qué hay detras.",
+            "author": "Guadalupe Loaeza",
+            "info_author": "",
+            "comment": "No ser fotografiable por la revista Hola… la compañera ya está propinando insultos mayores."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-02-01",
+            "text": "[Dostoyevski] no fue cancelado por ser ruso, sino porque apoya las ideas de Putin y se negó a distanciarse de lo que está haciendo. Las figuras públicas tienen esta clase de responsabilidad.",
+            "author": "Tuitera anónima, sobre la prohibición de estudiar a Dostoyevsky propuesta por la Universidad de Milán.",
+            "info_author": "",
+            "comment": "Y no es la primera vez que pasa. Desde hace siglo y medio Dostoyevsky ha guardado un sospechoso silencio ante muchos actos cuestionables de los gobiernos rusos]"
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-03-01",
+            "text": "Entiendo que los tiempos son difíciles, pero ¿acaso el presidente de Ucrania no tiene un traje?",
+            "author": "Peter Schiff, empresario estadounidense, sobre la comparecencia de Volodímir Zelenski ante el Congreso de Estados Unidos, en suéter militar.",
+            "info_author": "",
+            "comment": "De veras que sí entiendo. Sé lo que es una guerra. He visto muchas películas."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-04-01",
+            "text": "Si tengo que convencerlos para  creer que pueden ser ricos y tener éxito en la vida… no se lo merecen. La mayoría de la gente que no triunfa, no le falta capacidad, le falta disciplina.",
+            "author": "Ricardo Salinas Pliego",
+            "info_author": "",
+            "comment": "Lo que nadie se merece es al señor Burns tuiteando frases de autoayuda financiera."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-04-01",
+            "text": "Aún en las relaciones homosexuales, siempre se marca quién tiene el rol masculino y el femenino. Los roles no son culturales, son naturales. Así es como está concebida la naturaleza. El rol de macho y hembra garantiza el orden NATURAL y la supervivencia de las especies.",
+            "author": "Christian Camacho",
+            "info_author": "",
+            "comment": "Los roles son naturales. Si lo dijo Levi-Strauss."
+        },
+        {
+            "points": 0,
+            "region": "",
+            "hashtags": [],
+            "date": "2022-03-01",
+            "text": "La caída sigue, opiniones críticas en periódicos, la radio y también la televisión. Perdieron las redes. Loret y Brozo, Alazraki y mil más, incontenibles. Esto se está acabando",
+            "author": "Federico Reyes Heroles",
+            "info_author": "",
+            "comment": "Un equipo que entre sus fichas fuertes contbiliza las opiniones de Alazraki... muy bien no le está yendo, ¿cierto?"
+        },{
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Es como ir a un auto a 100 km por hora y te vas a chocar contra el paredón, y sabés que te matás, entonces te tirás del auto. ¿Y vas a sobrevivir? Qué sé yo, pero al menos tenés una chance.",
- "author": "Mauricio Macri, expresando su apoyo a Javier Milei",
+ "date": "2022-05-01",
+ "text": "No tengo tiempo para burlarme de las feministas, pues estoy preparándome y poniéndome guapa para mi boda, cosa que ellas jamás sabrán qué es. Primero porque les es imposible ponerse guapas y segundo; ¿qué tipo de hombre se casaría con una feminista?",
+ "author": "Sara Winter",
  "info_author": "",
- "comment": "Hasta la izquierda debería preocuparse cuando a los de enfrente ya sólo les quedan lemas dirigidos a votantes de expectativas tan modestas: “Vote por nosotros. Tal vez sobrevivamos."
+ "comment": "Qué bueno que en vísperas de la boda tenga tiempo de pensar en lo importante. (Por cierto, la crítica es injusta: es como si las feministas acudieran a los juzgados para burlarse de las que se divorcian con carteles de “te lo dijimos”)."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Acaban de… acabo de nombrar a Santiago Creel como coordinador general de la campaña.",
- "author": "Xóchitl Gálvez, candidata a la presidencia",
+ "date": "2022-05-01",
+ "text": "Las payasadas de Bolsonaro son muy difíciles de admitir para un liberal. Ahora, entre Bolsonaro y Lula, yo prefiero a Bolsonaro. Con las payasadas de Bolsonaro, no es Lula.",
+ "author": "Mario Vargas Llosa",
  "info_author": "",
- "comment": "Adivinen quién acabo de tener un lapsus. Quede claro que en esta campaña yo me mandan sola."
+ "comment": "Homenajear a un torturador, celebrar la dictadura, destruir el Amazonas… El auténtico liberal no deja que las pequeñas payasadas del árbol le impidan ver el verdor patronal del bosque."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Nosotros somos el pueblo de la luz, ellos son el pueblo de las tinieblas. Haremos realidad la profecía de Isaías, ya no habrá robos en tus fronteras y tus puertas serán de gloria.",
- "author": "Benjamín Netanyahu",
- "info_author": "",
- "comment": "¿Qué no la banda de fanáticos religiosos son los enemigos? Por cierto, ya habría que modernizar las metáforas supremacistas. ¿Qué tal “pueblo de los misiles teledirigidos” vs. “pueblo de los cohetes artesanales”? ¿Qué tal que la presunción de poderío la hacemos en términos de capacidad de reducir a la población infantil del bando enemigo?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2023-09-01",
- "text": "El Estado es el pedófilo en el jardín de infantes, con los nenes encadenados y bañados en vaselina.",
- "author": "Javier Milei, candidato a presidir el Estado.",
- "info_author": "",
- "comment": "¿De la serie infinita de metáforas posibles ésa es la que su mente eligió?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2023-09-01",
- "text": "Los nazis y antisemitas siempre fueron de izquierda, el reavivamiento de esta guerra los dejó en evidencia una vez más.",
- "author": "Emmanuel Rincón, escritor",
- "info_author": "",
- "comment": "Las golpizas, encarcelamientos, torturas y asesinatos cometidos por los nazis contra los militantes de izquierda fueron cortina de humo para encubrir sus profundas coincidencias."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2023-09-01",
- "text": "Que la gente, los más radicales de izquierda, abracen a la policía, abracen al ejército.",
- "author": "Andrés Man…  Omar García Harfuch",
+ "date": "2022-04-01",
+ "text": "Pero hay también en el corazón humano un gusto depravado por la igualdad que lleva a los débiles a querer rebajar a los fuertes a su nivel y que conduce a los hombres a preferir la igualdad en la servidumbre a la desigualdad en la libertad.",
+ "author": "Ricardo Salinas Pliego",
  "info_author": "",
  "comment": ""
 },
@@ -2004,169 +3149,203 @@
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Bueno, vean, ¿quién es el líder de izquierda más importante del planeta, me atrevo a decir? El presidente. ¡Y es el primero que ha abrazado al ejército mexicano!",
- "author": "Omar García Harfuch",
+ "date": "2022-04-01",
+ "text": "Pues a mí me cae bien el presidente Trump, aunque es capitalista.",
+ "author": "AMLO, en respuesta a Trump, quien se refirió a él como socialista.",
  "info_author": "",
- "comment": "Tengan altura de miras: en vez de aferrarse a sus viejas concepciones piensen en conformar el ala izquierda del ejército. Y luego decimos: “no es que la izquierda se vuelva militarista, sino que estamos izquierdizando lo militar”. ¿Arroz?"
+ "comment": "Lo importante es que más allá de las diferencias podemos ser amigos y ponernos de acuerdo: en el tema migratorio, por ejemplo."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "La globalista neoliberal Sheinbaum resultó filo-Pansta como su gato el presunto narco---según su amante/secretaria Martha Ojeda--- y panista de clóset /'izquierdista(jajaja) travesti' Loroña$ jajaja  Mas que normal.” José Antonio García Diputado del PAN se suma a Sheinbaum",
- "author": "Alfredo Jalife-Rahme",
+ "date": "2022-05-01",
+ "text": "El principal problema de México es la corrupción. Antes no se hablaba de eso, me siento de los precursores en poner este tema en la mesa del debate.",
+ "author": "AMLO, precursor de sí mismo.",
  "info_author": "",
- "comment": "eS ke la fORma db cer TaN mALa cOmO el cOnTenidojajjjaa!!!!"
+ "comment": "¿Cómo ven que tuve que ser mi propio precursor?"
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Hoy México brilla en todo el mundo, la gente quisiera vivir en nuestro país, la moneda más estable, la inversión mayor, disminución de desigualdades, disminución de la pobreza, estabilidad económica, estabilidad política y también, poco a poco, se consigue la seguridad de nuestro país, así que solo hay un camino: la cuarta transformación de la vida pública de México.",
- "author": "Claudia Sheinbaum",
+ "date": "2022-06-01",
+ "text": "En este reportaje de Science, se especifica que la viruela del mono afecta a los hombres que tienen relaciones sexuales con otros hombres. Justo en el “orgullo”. La naturaleza es sabia.",
+ "author": "@Sublevados_",
  "info_author": "",
- "comment": "¿Ya se vale incluir humor negro en el proselitismo? Sí, “la gente quisiera vivir en nuestro país”, empezando por los veinticinco mil asesinados al año, incluidos ecologistas, indígenas, periodistas, mujeres, defensores de derechos humanos, líderes comunitarios, menores de edad. En fin, estamos en campaña: que nada se anteponga al delirio triunfalista."
+ "comment": "Por la misma razón, no existen enfermedades que se transmitan por relaciones sexuales entre hombres y mujeres."
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-06-01",
+ "text": "Los progresistas carecen de toda sensibilidad artística. Cada vez me parecen personas menos confiables. Prohibir la más bella de todas las fiestas en la Ciudad de México es un signo ominoso de los tiempos que vivimos en la Capital.",
+ "author": "Carlos Mota, periodista",
+ "info_author": "",
+ "comment": "Habiendo tanta tragedia en el mundo, elegimos como signo de decencia y sentido artístico la hipersensibilidad ante la tortura de un animal."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-03-01",
- "text": "¿Sí sabes, secretaria, que Cárdenas nacionalizó el petróleo a petición de EU, para evitar que le vendiéramos a los nazis? Ay nomás, para que no te hagas bolas con las verdaderas razones detrás de la “hazaña soberana y patriotera”.",
- "author": "Yuriria Sierra, periodista",
+ "date": "2022-06-01",
+ "text": "Los neoliberales no fuimos tan pendejos!!",
+ "author": "Vicente Fox",
+ "info_author": "",
+ "comment": "¿Tan? Conque ya sólo estamos discutiendo el volumen..."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-07-01",
+ "text": "¿Y nos hemos degenerado [Occidente], de un modo profundamente amenazador? Creo que la respuesta puede ser afirmativa… ¿[La guerra cultural] es lo suficientemente seria como para aumentar la probabilidad de que Rusia, digamos, se vea motivada para invadir y potencialmente incapacitar a Ucrania simplemente para mantener al patológico Occidente fuera de ese país…? Y los rusos creen que tienen el deber moral de oponerse a las ideas degeneradas (filosofía, teología) de Occidente. Y hay algo de cierto en ello.",
+ "author": "Jordan Peterson, psicólogo",
+ "info_author": "",
+ "comment": "Eso: Rusia invadió a Ucrania para prevenir los matrimonios del mismo sexo y la multiplicación de los pronombres personales. Que el compañero se concentre en escribir autoayuda."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-06-01",
+ "text": "Los turistas de alta gama gustan de la cultura Maya, artesanía, gastronomía, contacto con la población y la naturaleza....",
+ "author": "Miguel Torruco Marqués, secretario de turismo",
+ "info_author": "",
+ "comment": "¡Hay vacantes! Turistas de alta gama solicitan indígenas en traje típico y vocación de curiosidad chistosona. Indígenas con aspiraciones de ejercer la autonomía política abstenerse."
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-07-01",
+ "text": "El planteamiento nuestro es no perseguir a nadie[...]. Que el juicio a los expresidentes se hiciera si el pueblo lo demandaba en una consulta. Sí, millones de mexicanos dijeron: “Que se inicien los procesos de investigación”, pero no participaron suficientes ciudadanos, no fue vinculatoria la consulta, entonces ya nosotros no vamos a presentar denuncias.",
+ "author": "AMLO",
+ "info_author": "",
+ "comment": "Sí. En 2018 treinta millones de mexicanos votaron por nosotros, pero en la boleta no escribieron si querían o no justicia. Y cuando se les preguntó en la consulta no salieron a votar. No fallé yo, falló el pueblo."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-08-01",
+ "text": "El concepto de “extrema derecha” es una fantasía barata para desacreditar a quienes defienden el imperio de la ley y las libertades. A cualquiera que no concuerde con la izquierda progresista ahora se le tacha inmisericordemente de radical extremista.",
+ "author": "Carlos Mota, periodista con lances de historiador",
+ "info_author": "",
+ "comment": "Los próceres de la extrema derecha protestan: no hicimos lo que hicimos para que se nos recuerde como fantasía barata. Lo nuestro es muy real y por cierto muy costoso en más de un sentido. Si no pregúntele a nuestras víctimas y nuestros financiadores. ¿Y cómo de que defensores de la ley y las libertades? No ofenda."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-08-01",
+ "text": "Los 43 de Ayotzinapa eran delincuentes al servicio de una facción del Crimen Organizado, no eran héroes buscando servir a su país.",
+ "author": "Luis Pazos P.",
+ "info_author": "",
+ "comment": "Es indignante. Los de Ayotzinapa lograron obligar a la gente de bien a fingir que lamenta la muerte de 43 normalistas rurales. Ya no hay valores"
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-08-01",
+ "text": " Si la persona era honesta o delincuente, joven o vieja, se puso en riesgo o no, todo eso le importa poco a sus deudos. Lo que no entiendo es la importancia que como sociedad se le dio a los 43.",
+ "author": "Mau Far Ath, tuitero.",
+ "info_author": "",
+ "comment": "Tanta gente de bien que es asesinada todos los días, y la sociedad va y mete a unos campesinos pobres a su panteón de mártires."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-08-01",
+ "text": "Riesgo real. Lopez y Morena van a lograr la división del país. Que el norte-centro se separe, en otro México: México del Norte.",
+ "author": "Gabriel Quadri",
  "info_author": "",
  "comment": ""
 },
 {
  "points": 0,
- "region": "2021-03-01",
+ "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Creo que no lo saben, pero cuando se come mariguana al pasar por el hígado se potencializa la potencia… Con tres mordidas a un panqué de chocolate con 550 miligramos de mariguana, de concentrado de THC, una persona podría estar en un viaje durante cuatro días, ¡¿Eso es lo que quieren, eso es lo que quieren?!",
- "author": "Cynthia Iliana López Castro, diputada del PRI",
+ "date": "2022-05-01",
+ "text": "El 1 de mayo es el día del trabajo. Debería ser el día de salir a la calle a agradecer su esfuerzo a los que generan empleo: los empresarios.",
+ "author": "Iván Espinosa de los Monteros, político de VOX",
  "info_author": "",
- "comment": "Que la diputada aclare cuánta marihuana necesitó para obtener esas cifras. ¿Podrá compartir?"
+ "comment": "Pero también es un día para conmemorar el martirio de nuestros compañeros empresarios que a lo largo de la historia se han visto forzados a subir salarios, reducir jornadas de trabajo o conceder días de descanso debido a la acción egoísta, malagradecida y ambiciosa de los malditos obreros."
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2015-07-01",
+ "text": "Es algo reciente y muy sorprendente: las mujeres lo deciden todo. Deciden cuándo empieza una relación, deciden cuándo termina, deciden si tener un hijo o no. El hombre está extrañamente inerte. Hay una especie de desvanecimiento del punto de vista masculino que no deja de ser inquietante. El punto de vista masculino, al tener tan pocas oportunidades de expresarse, se ha vuelto desconocido. Es una especie de secreto.",
+ "author": "Michel Houellebecq",
+ "info_author": "",
+ "comment": ""
 },
 {
  "points": 0,
- "region": "2021-03-01",
+ "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "Estoy consciente a lo que me expongo. Es más fuerte mi indignación y mi enojo que mi corrección política por atreverme a decir lo que siento. Así como Gutiérrez Müller es la no-primera dama para millones de mexicanos, para mí, AMLO es mi no-presidente.",
+ "date": "2022-09-01",
+ "text": "Larga vida al ejército y las fuerzas armadas sirviendo a la patria en labores de paz. [...] Larga vida al pueblo de México ayudando en labores de seguridad pública y a las fuerzas armadas.",
+ "author": "Gerardo Fernández Noroña",
+ "info_author": "",
+ "comment": "Esto es plenamente compatible con los principios históricos de la izquierda: ¿qué no decíamos: “vestidos de verde olivo, políticamente vivos...”? Nos referíamos a las fuerzas armadas."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-09-01",
+ "text": "En momentos de debate y miedo a equivocarnos, siempre confiamos en AMLO, y tiempo después, todos le hemos dado la razón. No entiendo por qué hoy nos piden que cambiemos de actitud, obedezcamos a quienes nos atacan sistemáticamente, y reneguemos de la persona en quien confiamos.",
+ "author": "Jorge Gómez Naredo",
+ "info_author": "",
+ "comment": "Lo que demuestra que nuestra capacidad de darle la razón a AMLO es infinita."
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-08-01",
+ "text": "Si eres el presidente de Estados Unidos puedes desclasificar sólo diciendo “esto es desclasificado”, incluso pensándolo.",
+ "author": "Donald Trump",
+ "info_author": "",
+ "comment": "Ándele: a legislar sobre la gobernanza telepática."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-09-01",
+ "text": "Mmm no mi estimado “closetero”… me disculpa pero aquí TODOS sabemos que a tu eres el que tiene obsesión con los plátanos, es más se sabe bien que te dicen el mago de las berenjenas porque las desapareces completas. ¿Te hice enojar por decirte la verdad, muerde almohadas?",
+ "author": "Salinas Pliego",
+ "info_author": "",
+ "comment": ""
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-09-01",
+ "text": "No debemos dejar que nada ensombrezca el acontecimiento más importante que el mundo verá jamás: el funeral de su Majestad.",
+ "author": "Lindsay Hoyle, vocera de la Casa de los Comunes",
+ "info_author": "",
+ "comment": ""
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-09-01",
+ "text": "Me pregunto si alguna vez la reina de Inglaterra se imaginó que se convertiría en la abuela del mundo occidental. La extrañaremos muchísimo.",
  "author": "Guadalupe Loaeza",
  "info_author": "",
- "comment": "'Yo sé a lo que me expongo'. Cálmese Juana de Arco."
-},
-{
- "points": 0,
- "region": "2021-03-01",
- "hashtags": [],
- "date": "2023-09-01",
- "text": "El #OsitoBimbo no sólo simboliza la tradicional marca de esta panadería, sino la resistencia ante los embates del gobierno izquierdista que atenta contra las libertades y los derechos.",
- "author": "Raúl Tortolero",
- "info_author": "",
- "comment": "El Osito Bimbo como emblema. Imprímase la augusta imagen en los escudos y banderines de nuestros ejércitos."
-},
-{
- "points": 1,
- "region": "",
- "hashtags": [],
- "date": "2021-04-01",
- "text": "Los políticos no deben robar mucho… Yo espero no robar nada.",
- "author": "Onésimo Cepeda, obispo, al lanzarse como diputado plurinominal del PRI",
- "info_author": "",
- "comment": "'Espero no robar mucho' es un eslógan que toma en cuenta la falibilidad del alma humana. Resulta encomiable que el obispo reconozca que las expectativas que tiene sobre sí mismo son modestísimas. Una suerte de declaración patrimonial de valores."
-},
-{
- "points": 0,
- "region": "2021-03-01",
- "hashtags": [],
- "date": "2021-03-01",
- "text": "Lilly [Téllez] obligó a que se entregara información ni más ni menos que a los Rusos.",
- "author": "Manuel Díaz, analista",
- "info_author": "",
  "comment": ""
 },
 {
  "points": 0,
- "region": "2021-03-01",
- "hashtags": [],
- "date": "2023-09-01",
- "text": "No hay, por ejemplo, diferencia mayor entre los posicionamientos del EZLN y los de Frena; ambos podrían convocar a eventos conjuntos o suscribir los mismos manifiestos, pues sus discursos hepáticos, plenos de fantasías y de calumnias, son coincidentes.",
- "author": "Víctor Toledo",
- "info_author": "",
- "comment": ""
-},
-{
- "points": 0,
- "region": "2021-03-01",
- "hashtags": [],
- "date": "2023-09-01",
- "text": "Honestamente “Patria” no se me hace un mal nombre para una vacuna. Vaya mejor eso que: “Ce-ácatl Topilitzin Vacunacuiautli” o algo que se le hubiera ocurrido a @ElenaBuylla.",
- "author": "Xavier Tello, analista.",
- "info_author": "",
- "comment": "¿Sí cachan? Porque lo indígena es por sí mismo risible. ¿Quién se aguanta la risa ante fonemas tales? (Pd. Se alarma en vano, compañero: el virus está más avanzado que algunos en materia de no discriminación)."
-},
-{
- "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-09-01",
- "text": "Cómo que India nos mandó vacunas “como gesto de solidaridad”? ¿Pues qué somos? Eso es como cuando tu tía te manda la ropa usada de sus hijos.",
- "author": "Pascal Beltrán del Río",
- "info_author": "",
- "comment": "Solidaridad: esa forma de humillar al prójimo. Que nos socorran los pueblos superiores; no la India, por Dios."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-03-01",
- "text": "Ni Díaz Ordaz llegó a tanto.",
- "author": "Fernando Belauzarán, sobre la instalación de vallas frente a Palacio Nacional en vísperas de una manifestación.",
- "info_author": "",
- "comment": "Sí, las matanzas indignan, ¿pero poner vallas? ¡Oiga!"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-03-01",
- "text": "Acción Nacional me postula respetando mis ideas y convicciones como hombre de izquierda… Cuando la democracia y las libertades conquistadas corren peligro, es un orgullo representar al partido de Gómez Morín.",
- "author": "Fernando Belauzarán",
- "info_author": "",
- "comment": "No descartemos la posibilidad de que mi postulación signifique que en realidad el PAN es ya un partido de izquierda. ¿Qué otra explicación podríamos darle a este concubinato?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-04-01",
- "text": "No sabía que el presidente no es Evo Morales.",
- "author": "Chumel Torres, momentos antes de ponerse a opinar media hora sobre lo que significa la visita oficial del presidente boliviano Luis Arce.",
- "info_author": "",
- "comment": "La manifestación rectifica: “Educacioooón primero… al pobre youtubero!”"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-04-01",
- "text": "La desigualdad es un problema de envidia. Carlos Slim tiene 52 MMDD y yo por supuesto que no tengo ni una fracción de eso. ¿Me afecta a mí que él tenga tanto dinero? Por supuesto que no",
- "author": "Sergio Sarmiento",
- "info_author": "",
- "comment": "Los derechos laborales son fruto de las tendencias megalómanas de los trabajadores."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-04-01",
- "text": "El éxito es directamente proporcional a la suma de la chinga y el talento.",
- "author": "Arturo Elias Ayub",
+ "date": "2022-09-01",
+ "text": "Nuestra Constitución actual tiene más de un siglo, más años incluso que mis papás y mis abuelos. ¿Se imaginan lo obsoleta que está?",
+ "author": "Samuel García, gobenador de Nuevo León",
  "info_author": "",
  "comment": ""
 },
@@ -2174,89 +3353,38 @@
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-04-01",
- "text": "Las feministas, los izquierdistas y la comunidad LGBT, son tal para cual: Agresivos, rencorosos, ignorantes y poco inteligentes. ¡Oremos para que algun día encuentren la reconversión, y el amor que tanta falta les hace!",
- "author": "Andrés Torres",
+ "date": "2022-10-01",
+ "text": "A mí ese destapador no me hace corcholata.",
+ "author": "Ildefonso Guajardo Villarreal, sobre su intención de ser el candidato del PRI a la presidencia.",
  "info_author": "",
- "comment": "Y aprecien que en nuestro desprecio encontramos la bondad suficiente para orar por su salvación"
+ "comment": "Se descubre todo un campo semántico hasta hoy ignorado por los políticos en busca de frases eternizables. No canjeo mis principios ni por tres taparroscas”.  “Me creían portavasos y les salí sacacorchos!”"
+},{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-10-01",
+ "text": "Europa es un jardín. El resto del mundo es una jungla. Y la jungla podría invadir el jardín.",
+ "author": "Josep Borrell, político español, representante de la Comisión Europea",
+ "info_author": "",
+ "comment": "Falta ver si los habitantes de la jungla son igual de salvajes que los del jardín cuando les dio por invadir la jungla."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-04-01",
- "text": "La nacionalidad no te la da un papel, te la da la sangre.",
- "author": "Simpatizante de Vox",
+ "date": "2022-10-01",
+ "text": "Algunas personas me dicen: ¿tú crees en dios? Yo pienso: hay un par de misterios en esta pregunta. ¿Qué significa “tú”? ¿Qué significa “creer”? ¿Y qué significa “dios”? [...] Si vamos a los detalles fundamentales, no sabemos realmente qué significa ninguna de esas cosas.",
+ "author": "Jordan Peterson",
  "info_author": "",
- "comment": "Duda legítima: ¿A los AB positivo qué país nos corresponde?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-04-01",
- "text": "Si eres un hombre negro viviendo en España, por mucho que tengas un papel que te dice que eres español, lo siento pero no lo eres.",
- "author": "Simpatizante de Vox",
- "info_author": "",
- "comment": ""
+ "comment": "- ¿Por qué llegaste tarde anoche? - A ver, mi amor: ¿Qué significa “porqué”? ¿Qué significa “llegar”? ¿Qué significa “tarde”? ¿Qué significa “anoche”? Si deseamos llegar al fondo de estas cuestiones debemos antes…"
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
  "date": "2021-05-01",
- "text": "No mamen, no saben nada, el PAN fue la mayor oposición al PRI hegemónico durante 60 años. No puedo discutir con gente que no sabe eso.",
- "author": "Pablo Majluf",
- "info_author": "",
- "comment": "Tuit respaldado por el movimiento ferrocarrilero de 1958, el movimiento estudiantil de 1968, movimiento Urbano Popular, Ejército Zapatista de Liberación Nacional..."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-05-01",
- "text": "El nazismo no era de derecha, el nombre del partido de Hitler era Partido Nacionalsocialista Obrero Alemán, si el nombre no les dice todo, entonces son necios.",
- "author": "Marietto Ponce",
- "info_author": "",
- "comment": "Se cancela el estudio de los archivos porque en el nombre contiene la esencia de lo que es el caso. El hallazgo revoluciona nuestra comprensión de los cacahuates japoneses, las quesadillas, las enchiladas suizas, los perros calientes, las hamburguesas, las papas a la francesa y las chinas poblanas. P.D.- No lean “La náusea”, trata sobre vomitar."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-05-01",
- "text": "Tú y todos los que votaron por López Obrador son responsables también. En lugar de tanta “rabia y dolor” asume tu responsabilidad. Es más ético.",
- "author": "Isabel Turrent, en respuesta a Gael García, a propósito del colapso de la línea 12 del metro.",
- "info_author": "",
- "comment": "La ciudadanía va a estar muy entretenida elaborando el tabulador de la corresponsabilidad. ¿Qué porción de responsabilidad por los miles de muertos le corresponde al votante de Calderón o Peña Nieto?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-07-01",
- "text": "Yo no tengo hijes, tengo HIJOS. Y como padre de familia uso el 'sentido común', los niños juegan con los niños y las niñas juegan con las niñas. Nos basamos en la biología, no en la ideología.",
- "author": "Carlos Leal, diputado",
- "info_author": "",
- "comment": "¿Está seguro que el libro de Biología que cree que leyó no era el Manual de Carreño? ¿Qué principio biológico se imagina que ordena la separación de niños y niñas?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-07-01",
- "text": "Le falta un poquito de cultura al Presidente de Argentina. Acá decimos: “no tiene la culpa el indio, sino el que lo hace presidente”.",
- "author": "Felipe Calderón, a quien no le falta un poquito de cultura",
- "info_author": "",
- "comment": "Variante oportuna: si hay un narcotraficante y un presidente lo hace Secretario de Seguridad, culpamos al indio, a quien sea, a los caprichos de la fortuna."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-07-01",
- "text": "Nor hemos convertido en el haz me reir....",
- "author": "Vicente Fox, tras encontrar una frase que es el título de su autobiografía y la autobiografía completa.",
+ "text": "Algunas personas me llaman gay porque nunca he tenido una novia. Creo que, si algo, eso me hace menos gay. De hecho, me hace más heterosexual que nadie. Si somos honestos, nunca haber tenido una novia, nunca haber tenido sexo con una mujer, me hace más heterosexual porque, honestamente, salir con mujeres es gay. La única posición realmente heterosexual es ser un incel.",
+ "author": "Nick Fuentes",
  "info_author": "",
  "comment": ""
 },
@@ -2264,69 +3392,49 @@
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-07-01",
- "text": "Les tengo una buena noticia, la cantidad de pendejos en México bajó de 30 millones a 16.5 millones, para 2024 hay que bajarla a 0. Imaginemos cosas chingonas.",
- "author": "Marietto Ponce",
+ "date": "2022-11-01",
+ "text": "Las marchas organizadas desde el poder se llaman propaganda. No muy diferentes a las que Goebbels le organizaba a Hitler.",
+ "author": "Maria Marván Laborde, sobre la movilización en apoyo a AMLO",
  "info_author": "",
- "comment": "AMLO polariza al país llamando “pueblo bueno” a quienes nosotros conocemos como 'bola de pendejos'. ¿Notan el daño que se le inflige a la unidad nacional?"
+ "comment": "Cuánto avanza la comprensión del presente cada vez que proponemos una nueva analogía entre AMLO y los nazis."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-07-01",
- "text": "Los más afectados (Iztapalapa, Tláhuac: gente humilde, trabajadora, buena) entienden que estas cosas desgraciadamente suceden.",
- "author": "AMLO, sobre el accidente del Metro de la Ciudad de México, en el que murieron 27 personas",
+ "date": "2022-12-01",
+ "text": "En México, el lugar donde más peligro de perder la vida corre un ser humano es en el vientre de su madre. Suceden más asesinatos ahí que en ningún otro lugar del país. Todo esto, gracias a la izquierda.",
+ "author": "Jorge Verástegui",
  "info_author": "",
- "comment": "'Estas cosas suceden', qué frase conmovedora. Un gobierno de izquierdas no va a quitarle al pueblo su derecho a la resignación heroica."
+ "comment": "Lo que nos falta es mandar a la Guardia Nacional a vigilar los úteros. (Y se pone peor: hay como 50 países donde el aborto no está penalizado, en su mayoría, por cierto, países donde la religión principal es cristiana.)"
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-07-01",
- "text": "Mucho 'orgullo gay' pero luego quieren casarse como los heteros, poder tener hijos como los heteros, etc. Me recuerdan a los veganos comiéndose verduras en forma de hamburguesa.",
- "author": "Twittera española",
+ "date": "2022-06-01",
+ "text": "Imaginarte a una persona de bajos recursos vendiendo un riñón para salvar a un hijo enfermo es TRISTÍSIMO de imaginar. Ahora imagínate que sos muy pobre, tenés un hijo enfermo y podrías salvarlo vendiendo un riñón... Hoy tu hijo se muere porque no podés venderlo. Es más triste.",
+ "author": "Lilia Lemoine, diputada argentina del Partido Libertario",
  "info_author": "",
- "comment": "Mucho “orgullo gay” pero quieren derechos, bola de hipócritas. (Notifíquese al mundo que los carnívoros tienen el copyright de la comida en forma cicular)."
+ "comment": "Mucha imaginación, pero lo inconcebible es que un sistema de salud pueda garantizar el tratamiento del niño."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-08-01",
- "text": "Qué maricones. ¡No me toques, maricón! Estás muerto, maricón!",
- "author": "René Bolio, presidente de la Comisión Mexicana de Derechos Humanos, en una protesta frente a la embajada de Cuba",
+ "date": "2023-03-01",
+ "text": "Si el machismo es tan malo, ¿por qué es bueno el feminismo?",
+ "author": "Club de los Viernes",
  "info_author": "",
- "comment": "Es que esta es una Comisión para hombrecitos de a devis."
+ "comment": "Si el nazismo es malo, ¿por qué el antinazismo habría de ser bueno?"
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-08-01",
- "text": "El viaje al espacio de Bezos ayudó más a la economía del mundo que todos los programas populistas de América juntos.",
- "author": "Marietto Ponce",
- "info_author": "",
- "comment": "Dogma de fe #4: insondables son los caminos del capitalismo para maximizar el bien común."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-08-01",
- "text": "- Por definición, yo soy de izquierda. Mega de izquierda. - ¿Liberal de centro derecha? - Ajá. -Eres de derecha. - Sí.",
- "author": "Chumel Torres, en entrevista con Diego Ruzzarin.",
- "info_author": "",
- "comment": "Es como leer una síntesis apretada de la historia del PRD."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-08-01",
- "text": "Cuanto peor mejor para todos, cuanto peor para todos mejor, mejor para mí, el suyo, beneficio político.",
- "author": "Mariano Rajoy",
+ "date": "2023-10-01",
+ "text": "Si yo tuviera que elegir entre el Estado o la mafia, me quedo con la mafia. Porque la mafia tiene códigos, la mafia cumple, la mafia no miente y por sobre todas las cosas, la mafia compite.",
+ "author": "Javier Milei, jefe de Estado",
  "info_author": "",
  "comment": ""
 },
@@ -2334,472 +3442,171 @@
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-08-01",
- "text": "¿Ustedes piensan antes de hablar o hablan tras pensar?",
- "author": "Mariano Rajoy",
+ "date": "2022-04-01",
+ "text": "Para finales de 2022, cada persona totalmente vacunada mayor de 30 años podría tener el equivalente a un SIDA inmunodeprimido inducido por la vacuna.",
+ "author": "Sherri Tenpenny, activista antivacunas",
  "info_author": "",
- "comment": "Cinco minutos de silencio para que el declarante piense y después nos diga (o al revés: diga tras pensar) si ya se percató de que no nos dejó muchas opciones."
+ "comment": "Estamos seguros que, de no cumplirse el pronóstico, la compañera se retractará y cambiará de opinión en función de la evidencia."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-08-01",
- "text": "En lugar de ayudar a una mujer con el trauma de la violación, todavía le agregan otro más que es el de un asesinar a su propio hijo. Destruyen a la mujer por dentro, porque aparte de ser víctima de un delito ahora la convierten en autora de uno.",
+ "date": "2022-12-01",
+ "text": "Viendo con detalle las copias de ambas tesis, la de la ministra y el otro estudiante, la verdad es que sí, son idénticas INCLUSO en la introducción y la verdad es que son taaan iguales que, solo por este hecho, me hace suponer que todo esto es una enorme y elaborada FAKE.",
+ "author": "Nacho Rodríguez “El Chapucero”, sobre la tesis de la juez Yasmín Esquivel",
+ "info_author": "",
+ "comment": "Nueva línea de investigación: el que todo parezca indicar que se cometió un delito es indicador de que el delito no se cometió, porque quien comete un delito no es tan tonto como para no intentar disimuar lo que hizo."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-01-01",
+ "text": "A ver, chairos arrastrados sin memoria y sin dignidad, TODAS las tragedias que involucran servicios públicos TIENEN una connotación política. Ustedes han estado jode y jode durante décadas con casos como los 43 rufianes de Ayotzinapa. Ahora, AGUÁNTENSE.",
+ "author": "Irving Gatell",
+ "info_author": "",
+ "comment": "Eso: pedir justicia es estar jode y jode. Lo bueno es que el tema de Ayotzinapa es lo suficientemente simple y banal como para permitirnos prodigar comentarios idiotas."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2022-12-01",
+ "text": "Creo que soy excesivamente generoso, y no creo que eso sea malo. Pero a veces puede hacer la vida un poco más difícil. Soy excesivamente generoso.",
+ "author": "Donald Trump",
+ "info_author": "",
+ "comment": ""
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-03-01",
+ "text": "Habría que rebuscar mucho en la historia universal, y ni aun así, para encontrar ejemplos de totalitarismo, despotismo, intrusismo y abusos de poder superiores a la doctrina de educación sexual de Irene Montero y sus coristas.",
+ "author": "Fernando Sánchez Dragó",
+ "info_author": "",
+ "comment": ""
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-03-01",
+ "text": "AMLO me señaló como candidato de la oposición, no es la primera ni la última, seguro la hará en todos los tonos muchas veces más. Él sabe que el tiempo de entregarme la presidencia está cerca.",
+ "author": "Gustavo de Hoyos",
+ "info_author": "",
+ "comment": "¿La presidencia de qué? ¿Del grupo de apoyo Anónimos Anónimos? ¿Cerca de qué era geológica?"
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-03-01",
+ "text": "No es gas, son extintores pero se merecen eso y más.",
+ "author": "Nacho Rodríguez “El Chapucero”, sobre los enfrentamientos en la manifestación del 8 de marzo",
+ "info_author": "",
+ "comment": "Que se explaye: ¿qué considera que se merecen esas pinches viejas? ¿Cárcel, golpes, gas, “métodos extrajudiciales” a discreción del comandante?"
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-03-01",
+ "text": "El mexicano medio se autodesprecia, odia ser mexicano. Querría ser gringo. Por eso la Leyenda Negra antiespañola es tan fuerte en México. Poinsett hizo bien su trabajo.",
+ "author": "Santiago Armesilla, historiador español",
+ "info_author": "",
+ "comment": "Loas a los psicólogos instantáneos. Lo que sí es verdad es que con españoles como el de la declaración, sí da coraje no haber sido conquistados por noruegos"
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-03-01",
+ "text": "Está declarando Donald Trump que lo van a detener por un asunto presuntamente amoroso. Si fuese así, todo el mundo sabría, porque no nos estamos chupando el dedo, que es para que no aparezca en la papeleta electoral. Yo padecí de la fabricación de un delito porque no querían que yo fuese el candidato. Y eso es completamente antidemocrático.",
+ "author": "AMLO, sobre la demanda de la estrella porno Stormy Daniels contra Donald Trump",
+ "info_author": "",
+ "comment": "Qué romántico del presidente llamar “asunto amoroso” a un soborno para comprar el silencio de una trabajadora sexual."
+},
+{
+ "points": 0,
+ "region": "",
+ "hashtags": [],
+ "date": "2023-02-01",
+ "text": "En el trabajo una mujer es remplazable. En el hogar, una ama de casa y madre de familia es irremplazable.",
  "author": "Christian Camacho",
  "info_author": "",
- "comment": "Peor: le suman el trauma de cargar con la libertad de decidir qué hacer con su vida. Las sociedades siempre han fallado en lo de garantizarle seguridad a las mujeres, pero al menos podemos no fallar en restringir sus libertades."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-08-01",
- "text": "Nosotros no colonizábamos. Nosotros lo que hacíamos era tener una España más grande.",
- "author": "Pablo Casado, político español",
- "info_author": "",
- "comment": "Todo fuera como hacer eufemismos. Los países no invaden: amplían sus fronteras y diversifican sus afluentes culturales."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-09-01",
- "text": "Un paso importante para terminar con la vida de mexicanas y mexicanos en gestación. Gran avance sin duda considerando que hace 500 años los aztecas hacían lo mismo, sólo cambió el ritual y la deidad, la matanza igual.",
- "author": "Esteban Arce, conductor de televisión, acerca de la despenalización del aborto.",
- "info_author": "",
- "comment": "Pero ahora es peor, compañeros: antes por lo menos el sacrificio garantizaba que saliera el sol, ahora sólo es un aliciente para que las mujeres salgan de noche. ¿Qué se creen?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-09-01",
- "text": "El capitalismo ha sido el único sistema de la historia en el cual la riqueza no se ha adquirido mediante saqueo, sino mediante producción, no por la fuerza, sino mediante el comercio.",
- "author": "Ayn Rand, escritora",
- "info_author": "",
- "comment": "Comparece el capitalismo en el juicio de la historia: “los relatos de los historiadores a propósito de ciertos hechos de violencia en los que me vi envuelto, no expresan mi esencia sino que desafortunadamente se repitieron titipuchal de veces, siendo siempre ajenos y contrarios a mis convicciones más íntimas”"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-09-01",
- "text": "La mayor de las minorías marginadas y oprimidas en el mundo actual es la de los varones blancos y heterosexuales.",
- "author": "Fernando Sánchez Dragó, escritor, víctima, sobreviviente, candidato a Rosa Parks en espera de su autobús.",
- "info_author": "",
  "comment": ""
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-09-01",
- "text": "Si vamos a frenar esta marea progresista asquerosa y asesina que se viene, es desde la trinchera política y, señores, vamos a ganar porque es el plan de Dios.",
- "author": "Jesús Rendón, “Tumaburros”",
+ "date": "2023-03-01",
+ "text": "El pobre siempre sale adelante trabajando duro y siendo disciplinado. El resentido es el que nunca va a salir de jodido, porque su alma está podrida, llena de odio y envidia. Es el que prefiere quemar su propia casa con tal de ver arder la del vecino.",
+ "author": "Christian Camacho",
  "info_author": "",
- "comment": ""
+ "comment": "¿Dónde coloca a la mitad de la población mexicana en pobreza o sus inmediaciones? ¿Si se quedan allí fue por resentimiento? Deles chance: usted porque es una mente muy brillante de las que sabe detectar almas podridas y llenas de vicios."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-10-01",
- "text": "[José María Morelos] sabía que el avance se obtiene a través del rezago y de la marginación de la población, en una ilusión.",
- "author": "Cuauhtémoc Blanco, gobernador de Morelos",
+ "date": "2023-03-01",
+ "text": "No llegan los pasajeros al aeropuerto [AIFA], pero tampoco ya nadie lee el Reforma.",
+ "author": "AMLO",
  "info_author": "",
- "comment": "“El avance a través del rezago y la marginación”: suponemos que está llevando la dialéctica más allá de donde la dejó Lenin."
+ "comment": "¡Sóbense! Además, si el Reforma se queda sin lectores, quiebra, mientras que si al aeropuerto no llegan pasajeros nada más hace falta aumentarle el presupuesto a Sedena. A la próxima construyo otro más caro y donde no lleguen ni las bacterias, esta vez para darle una lección a El Universal."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-10-01",
- "text": "Las mañaneras son la repetición de una doctrina. [...] No dije doctrina. No, para nada.",
- "author": "Patricia Armendáriz, durante la misma entrevista",
- "info_author": "",
- "comment": "Es que el pensamiento evoluciona. Uno no puede quedarse anclado en un pasado que terminó hace ya cinco minutos"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Si la mujer no es un ser libre, no tendría derecho a decidir ¿que va a decidir una persona que no es libre? Una persona que no es libre, no tiene derecho, entonces, plantear que el aborto es un derecho y que debe ser despenalizado, legal, es plantear que la mujer tiene derecho a decidir, ahora, la mujer no puede tener derecho a decidir si no es un ser libre y,  si la mujer no esta facultada para decidir, entonces no se puede hablar de ese derecho.",
- "author": "Ernesto D’Alessio, cantante afortunadamente",
- "info_author": "",
- "comment": "Otros silogismos del mismo autor: Si A es B, y B es C, y B está ahí nomás pajareando, entonces C agarra y le dice a D: oye D, ya viste lo que dijo A de ti, entonces D agarra y va con A y le dice por qué andas diciendo eso, y A le dice “yo no fui, fue B”, y D le dice pues sí pero como eres igual a B... y se arma una confusión."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Solo los imbéciles y resentidos pueden decir que los mexicanos “fuimos conquistados”, porque sin los espermas europeos de hace 500 años, no habrían nacido…",
- "author": "Diego Fernández de Cevallos",
- "info_author": "",
- "comment": "Qué idea para sustituir la estatua de Colón. Ya que estamos en la reivindicación del esperma, podríamos modificar dos cabezas olmecas para hacerle un homenaje escultórico a ciertas partes pudendas que nos dieron patria."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Les sugiero leer, sin prejuicios, este libro. Un Roberto Madrazo maduro e implacable, brillante en ciertos momentos [...] No estoy de acuerdo en todo, pero es lectura indispensable.",
- "author": "Pablo Hiriart",
- "info_author": "",
- "comment": "Un Roberto Madrazo brillante debe ser un Roberto Madrazo inédito."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Lo lamento mucho pero la bisexualidad de Superman Junior escapa a cualquier verosimilitud dramática...",
- "author": "Pablo Majluf",
- "info_author": "",
- "comment": "¡Extra, Extra! ¡Comic acerca de extraterrestre que vuela y echa rayos por los ojos podría carecer de verosimilitud dramática! Preocupación entre las Tortugas Ninja Adolescentes Mutantes: “nuestro nombre ya es larguísimo. Si uno de los muchachos sale gay esto se volverá dramáticamente insostenible”, comenta la rata gigante que los entrena. PD.- La comunidad LGTBI+ objeta: ¿Personajes musculosos con doble vida que por las noches recorren la ciudad en mallas coloridas? Los cómics son una marcha del orgullo gay en dibujos."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "No te respondo como mereces por ser la esposa de mi amigo. Por lo demás, simplemente te digo que eres un ser despreciable. Enlódate en tu amargura.",
- "author": "Javier Lozano, en respuesta a María Scherer, quien le recordó el poco tiempo que duró su nombramiento en la Coparmex.",
- "info_author": "",
- "comment": "Bueno, durante unas doce palabras se comportó como un caballero. Récord personal y más o menos el tiempo que duró en la Coparmex"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Cuando las barbas de tu vecino cortar…",
- "author": "Vicente Fox",
- "info_author": "",
- "comment": "Del libro de refranes intervenidos por Vicente Fox: “Dar y dar, pajarito volar”, “Camarón que se dormir corriente se lo llevar”."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Ándale ya esta Gertz y la PGR en el 'Washington Post' la crema inata del periodismo a nivel Global.",
- "author": "Vicente Fox",
- "info_author": "",
- "comment": "Adéndum epistemológico: la “crema inata” es lo opuesto de la “mantequilla adquirida”."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-08-01",
- "text": "Es escandaloso que, siendo economista, no tengas idea de cuánta derrama económica genera un proyecto espacial. Qué trágico que te doble la ideología. Por culpa de eso, la 4T tiene al país peor que nunca.",
- "author": "Irving Gatell, twittero, en respuesta al economista Gerardo Esquivel acera del viaje orbital de Jeff Bezos",
- "info_author": "",
- "comment": "Suscribimos: ¿sabes la derrama económica que dejaron las pirámides de Egipto? ¿Sabes cuántos empleos crearon? ¿Y sabes lo contento que se puso el Faraón?)"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Lo crean o no, hay muchísimo paisano en el gabacho que se traga el discurso populista. Y también pueden votar... Disfrutando las mieles del capitalismo a la vez que condenan su país.",
- "author": "Arturo Herrera, twittero, sobre los migrantes en Estados Unidos que se acercaon a vitorear a AMLO.",
- "info_author": "",
- "comment": "Nacen en la pobreza, arriesgan su vida migrando ilegalmente, toman los trabajos más extenuantes, enfrentan la xenofobia, viven como indocumentados. ¡Están acaprando las mieles del capitalismo, dejen algo para los demás! ¡Y para colmo votan!"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Dejen de tenerle miedo a la desigualdad que trae la mayor riqueza.",
- "author": "Sergio Negrete",
- "info_author": "",
- "comment": "En cuanto nos la presenten le perderemos el miedo, por ahora sólo conocemos a la desigualdad que trae la mayor pobreza, y viera que no sólo no le tenemos miedo sino que es un miembro más de nuestras familias."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Siendo sinceros, ¿no les dará pena a los chairos el mero hecho de existir? ¿serán conscientes de su existencia?",
- "author": "Gonzalo Monroy",
- "info_author": "",
- "comment": "Vamos respetando: usted habla del “mero hecho de existir” como si fuera hacer enchiladas en el sartén del Ser. Si lo que usted quiere es expresar su desprecio por quienes no piensan como usted, el castellano pone a su disposición una amplia variedad de insultos. ¿Pa’ qué fingir que entra en honduras filosóficas?"
-},
-{
- "points": 1,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Lo que el Presidente López Obrador hizo hoy en Naciones Unidas resonará con un eco de época en los pasillos del Templo de la Historia.",
- "author": "Antonio Attolini",
- "info_author": "",
- "comment": "¡Qué ganas de minimizar el momento histórico por ahorrarse unos cuantos adjetivos! A ver, ahonde: lo que hizo el presidente, ¿resonará en “límpidas vibraciones seráficas” o con los “metálicos timbres de la eternidad”? ¿Ni una referencia a “la hondura infinita” de los pasillos? ¿Y de qué está hecho el templo? ¿De oro reluciente, de marmóreos mármoles, de barro fraguado en los hornos del fondo de los tiempos? Es tiempo de definiciones: si está con la Transformación es sin miedo a expresar cabalmente los Sentimientos de la patria."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Culera",
- "author": "Diputada Marisol García, en sesión de la Cámara de Diputados",
- "info_author": "",
- "comment": "Con cinco razonamientos como este casi junta para un haiku completo."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Si la van a seguir haciendo de beisbolistas, pues nosotros los vamos a seguir ponchando. Y si quieren ser beisbolistas en el montículo, pues sigan lanzando sus propuestas, y nosotros las vamos a seguir bateando.",
- "author": "Benjamín Robles, diputado, durante una sesión parlamentaria.",
- "info_author": "",
- "comment": ""
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "No es falso, pero tampoco es verdadero.",
- "author": "Ana Elizabeth García Vilchis, sobre el aumento de la corrupción en México",
- "info_author": "",
- "comment": "Es injusto: si lo dice Vilchis todo mundo se ríe; si lo dice un filósofo analítico le ponen un centro de investigación."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Acá les podemos gritar, Pío Pío, como los pollitos dicen, cuando tienen hambre, cuando tienen frío.",
- "author": "Monserrat Arcos, diputada, durante una sesión parlamentaria.",
- "info_author": "",
- "comment": "Qué buen nivel está agarrando la discusión."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Existen propuestas propositivas…",
- "author": "Patricia Armendáriz",
- "info_author": "",
- "comment": "Proponemos evitar las tautologías tautológicas"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "¡No me toques! ¿Qué te crees, igualado?",
- "author": "Oscar Cantón Zetina, diputado, durante una sesión legislativa.",
- "info_author": "",
- "comment": ""
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Yo prefiero llegar a mi casa cansado de trabajar, que llegar cansado de buscar trabajo.",
- "author": "Letrero en la cocina de un restaurante (Casa Toño, presuntamente)",
- "info_author": "",
- "comment": "La frase está cansada porque tiene como tres chambas: lema motivacional, amenaza de despido, llamado urgente a tomar los medios de producción..."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-11-01",
- "text": "Quienes reciben algún tipo de ayuda gubernamental, ¿deberían votar?”, hay que preguntar si esos votos no degeneran a la democracia electoral en mercado electorero.",
+ "date": "2023-03-01",
+ "text": "¿En una economía de truque, sin dinero, puede haber inflación? Si la respuesta es no, entonces la inflación es un fenómeno monetario, relacionado con la cantidad de dinero que se intercambia, que se usa para demandar bienes y servicios.",
  "author": "Arturo Damm Arnal",
  "info_author": "",
- "comment": "Si por “ayuda del gobierno” se refiere a la defensa de las relaciones de propiedad, ¿está llamando a prohibirle el voto a la burguesía? Ahí sí que nos deslindamos."
+ "comment": "No manche: 1) El concepto de inflación presupone la existencia de dinero (¿en ausencia de alfabeto puede haber faltas ortográficas?) 2) Afirmar que la inflación es un fenómeno monetario es tan revelador como decir que la guerra es un fenómeno violento."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-09-01",
- "text": "El problema es que la gente decidió que no quiere trabajar realmente, tras el Covid, y eso tuvo un gran impacto en la productividad. El desempleo tiene que subir  un 40 o 50 por  ciento. Necesitamos algo de dolor en la economía. Tenemos que recordar a la gente que trabajan para el empresario, no al revés. (...)  Los gobiernos de todo el mundo están intentando que aumente el desempleo. Tenemos que acabar con esa actitud y eso tiene que pasar por dañar la economía",
- "author": "Tim Gurner, empresario australiano",
+ "date": "2023-03-01",
+ "text": "No, como no pasó nada cuando Calderón se robó la presidencia.",
+ "author": "AMLO, en respuesta a la pregunta de si no pasará nada con el plagio de Yazmín Esquivel.",
  "info_author": "",
- "comment": "¿Cómo era lo de la inexistencia de la lucha de clases? Nos encontramos ante una radical inadecuación entre teoría y práctica: los economistas fresas duro y dale con sus modelos-himno al capitalismo mientras los millonarios persisten en su marxismo radical."
+ "comment": "Vale, entonces tenemos un cheque en blanco: mientras nuestros delitos sean menores a robo de presidencia, mantendremos intacta la autoridad moral."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2023-08-01",
- "text": "[La oposición debiera] sembrar en la mística político-religiosa de los mexicanos la idea de la 'Virgen Xóchitl' [...] En lugar de que el hijo (el mesías tropical) acuse a los criminales con sus mamás, el pueblo acusaría al hijo con su madre, la Virgen Xóchitl. Las posibilidades de Xóchitl como virgen política, sin pecado concebida, son inmensas.",
- "author": "Ricardo Elías en el artículo, “La 'Virgen Xóchitl'”",
+ "date": "2023-02-01",
+ "text": "ES HOY. VAMOS DODOS. ES HOY",
+ "author": "Vicente Fox",
  "info_author": "",
- "comment": "Denunciamos que AMLO y sus compinches le están pagando a los columnistas del Reforma para que escriban estas cosas."
+ "comment": "Un día este señor granó la las elecciones presidenciales. El resto de su vida lo dedicó a restregárselo al país que lo votó."
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-09-01",
- "text": "Hoy México llora. Hoy México tiembla. Llueve desconsoladamente en varias partes del país, y la tierra cruje. Hoy, miles de bebés mexicanos han sido condenados a muerte. Hoy, México llora; hoy, México tiembla, por sus hijas e hijos que no nacerán.",
- "author": "Eduardo Verástegui, tras el fallo de la SCJN que despenaliza el aborto.",
+ "date": "2023-04-01",
+ "text": "Es contradictorio e hipócrita.",
+ "author": "AMLO, sobre la decisión de la NBA de no sancionar a los jugadores por consumo de marihuana.",
  "info_author": "",
- "comment": "Si le sirve de consuelo, una modificación jurídica no causa lluvias desconsoladas y crujidos de tierra: los abortos ya se practicaban con mucha frecuencia antes de la decisión de la Corte. El fallo simplemente reduce la probabilidad de que se sigan realizando clandestinamente en condiciones insalubres."
+ "comment": "¡Castíguenlos hombre! ¡¿Dónde están dejando la honestidad punitivista, la coherencia carcelómana?!"
 },
 {
  "points": 0,
  "region": "",
  "hashtags": [],
- "date": "2021-09-01",
- "text": "Lo que estamos viendo es una persecución que recuerda, lo debo decir claramente, a las peores épocas del estalinismo, a las peores épocas de la revolución cultural durante la revolución china.",
- "author": "Antonio Lazcano, biólogo de excelencia, historiador cuestionable, sobre las acusaciones de fraude contra el Conacyt",
+ "date": "2023-03-01",
+ "text": "Si tú trabajas pero el riesgo de tu trabajo lo soporta patrimonialmente otro, no eres tú quien soporta el riesgo del trabajo que ejecutas. En suma, el capitalista crea valor aun sin desempeñar trabajo concreto alguno.",
+ "author": "Juan Ramón Rallo",
  "info_author": "",
- "comment": "Alguien aquí tiene que estar exagerando. Si así fueron sus 'peores épocas', el estalinismo y la revolución cultural china fueron modelos del respeto a los derechos humanos."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-09-01",
- "text": "Hace unos dos años, cuando empezó el movimiento feminista, muchas mujeres participaron, pero se empezaron a dar cuenta de que se habían convertido en feministas conservadoras, sólo para afectarnos a nosotros.",
- "author": "AMLO",
- "info_author": "",
- "comment": ""
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-09-01",
- "text": "No podemos vivir en un mundo donde la libertad sea totalitaria y la vida subjetiva.",
- "author": "Pancarta en una marcha a favor de la penalización del aborto.",
- "info_author": "",
- "comment": "Moción: ¿cómo es un mundo donde la vida es subjetiva? ¿Cómo es una vida no subjetiva?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Franco no era socialista como Hitler, ni inició una guerra para conquistar el mundo con sus amigos los comunistas, como hizo Hitler. Franco solo era un DICTADOR de izquierdas que no se guiaba por su ideología como sí hacía el socialista alemán",
- "author": "Tuitero anónimo, @eonolibertad.",
- "info_author": "",
- "comment": "Franco fue un dictador de izquierdas. La República Española era de ultraderecha. Durruti era anarocapitalista. La CNT era el brazo laico de la Iglesia Católica. El día que estos tuiteros se pasen a la geografía veremos debates acerca de si la tierra plana es triangular o hexagonal."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "España tiene mucho que celebrar y nada de lo que arrepentirse. Tal día como hoy de hace 529 años, Colón descubre América y se inicia la Hispanidad, la mayor obra de hermanamiento realizada por un pueblo en la Historia universal",
- "author": "Cuenta oficial de VOX",
- "info_author": "",
- "comment": "“Hermanamiento” es un término que llama a reescribir tantos libros de historia. “Miles de indios fueron conducidos a las minas para que se hermanaran  con la plata”. “¿Se acuerda de cuando Alemania se hermanó a Polonia?”"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Ya le cortaron los huevos de acero a Superman, lo deconstruyeron y lo volvieron aliade. No podía saberse. Sigue cambio de sexo para Hulk. No quiero ni imaginar esa cirugía",
- "author": "Pablo Majluf, sobre el anuncio de que en un nuevo cómic Superman se enamora de un hombre.",
- "info_author": "",
- "comment": "Relación homosexual = cortar los huevos."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "La UNAM ha sido y es una institución educativa que cuenta con una estructura horizontal",
- "author": "Boletín Oficial de la UNAM",
- "info_author": "",
- "comment": "El rector condena enérgicamente la epidemia de dolor abdominal provocada por carcajearse inconteniblemente."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Abstente de emitir comentarios u opiniones negativos o desfavorables sobre las políticas o programas del Conacyt en el desempeño de tus funciones.",
- "author": "Código de Ética del Conacyt.",
- "info_author": "",
- "comment": ""
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Es en serio. López está tratando de imponer un socialismo nacional-populista en México.",
- "author": "Gabriel Quadri ",
- "info_author": "",
- "comment": "Estamos llegando al punto en que el compañero debe iniciar sus advertencias con un “en serio”. ¿Qué no le creen? Cuando no pase, acuérdense quién se los dijo."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "La “A” de UNAM significa “Autónoma”",
- "author": "Javier Lozano",
- "info_author": "",
- "comment": "Basta de acusar a la oposición de falta de agudeza. A quienes sostenían que la “A” era de “Nacional” o de “México” les informamos que perdieron el debate."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Yo no estudié en UNAM, pero estaría dispuesto a asistir a una manifestación contra López, para defenderla de sus ataques. ¿La van a organizar?",
- "author": "Gabriel Quadri, quien, dicho sea de paso, llamó a la UNAM 'epicentro de anarquía e impunidad'.",
- "info_author": "",
- "comment": "¿No? ¿Nada? ¿Ni una limosnita para este político necesitado de base social?"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "La caída del sistema fue un amasiato entre el PAN y Salinas de Gortari.",
- "author": "Manuel Bartlett, sobre el fraude electoral de 1988",
- "info_author": "",
- "comment": "[Continúa la biografía: Consumado el fraude, Salinas de Gortari lo invitó a ser Secretario de Educación. Bartlett, guiado por sus principios irrenunciables y su alto sentido de la dignidad, aceptó el cargo. Desde esa trinchera continuó su incans...]"
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "No dijeron nada durante el saqueo más grande en la historia de México. Nada. Ayúdenme a encontrar los libros de la UNAM durante el periodo neoliberal cuestionando la corrupción que imperó...",
- "author": "AMLO",
- "info_author": "",
- "comment": "No es por desconfiar de erudición, presidente, pero tal vez si dedicara menos tiempo a narrar sus obras completas y revisara el catálogo de publicaciones..."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "El feminismo no defiende a la mujer, no les importa, la DENIGRA y la rompe por dentro para siempre. Es una agenda Globalista y financiada por el Capitalismo más salvaje e inhumano.",
- "author": "",
- "info_author": "",
- "comment": "Nota que se anticipa a infundados reclamos: el declarante no está hablando de las millones de mujeres involucradas en el feminismo, sino específicamente de “LA MUJER”, esa lumínica entidad a la que felicitamos cada 8 de marzo por ser la creación más bella del universo."
-},
-{
- "points": 0,
- "region": "",
- "hashtags": [],
- "date": "2021-10-01",
- "text": "Lamento inmensamente que el daño colateral haya sido tan espantoso. No es mi posición cuestionar al presidente.",
- "author": "Patricia Armendáriz, sobre las muertes causadas por el desabasto de medicinas",
- "info_author": "",
- "comment": ""
+ "comment": "Eso es contar la mitad de la historia del huevo y la gallina. El capitalista es quien tiene el privilegio de poder “soportar patrimonialmente” el trabajo de otros, y lo obtiene gracias a las ganancias generadas por los trabajadores, quienes por cierto corren el riesgo de quedarse sin trabajo si no generan los ingresos que el capitalista espera. Correr el riesgo de perder una cantidad determinada de dinero a cambio de la posibilidad de embolsarse una cantidad indefinida de dinero en el futuro, no es “crear valor”, es la condición bajo la que se ponen en marcha los procesos productivos."
 }
-
     ]
 }

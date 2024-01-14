@@ -73,19 +73,19 @@ return (
         
         <div className='options'>
             <div className='item' onClick={handleHallOfFame}> 
-                <img src={principios} alt='salón'/> <p>Salón de la fama</p>
+                <p>Salón de la fama</p>
             </div>
             <div className='item' onClick={handleSupport}> 
-                <img src={heart} alt='contribuir'/> <p>Contribuir</p>
+                 <p>Contribuir</p>
             </div>
             <div className='item' onClick={handlePrinciples}> 
-                <img src={star} alt='principios'/> <p>Principios</p>
+                <p>Principios</p>
             </div>
             <div className='item' onClick={handleCredits}> 
-                <img src={copyleft} alt='créditos'/> <p>Créditos</p>
+                 <p>Créditos</p>
             </div>
             <div className='item' onClick={turnOff}> 
-                <img src={hide} alt='ocultar'/> <p>Ocultar</p>
+                <p>Ocultar</p>
             </div>
         </div>
 

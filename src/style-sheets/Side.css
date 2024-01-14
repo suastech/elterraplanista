@@ -55,7 +55,7 @@
 
 .options {
     height: 100%;
-    width: 180px;
+    width: 140px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     display: flex;
@@ -68,7 +68,7 @@
 
 .item {
     height: 50px;
-    width: 150px;
+    width: 130px;
     border-radius: 10px;
     color: white;
     cursor: pointer;
@@ -76,6 +76,7 @@
     line-height: 60px;
     display: flex;
     align-items: center;
+    text-indent: 5px;
     &:hover {
         background-color: rgb(55, 55, 55);
     }

@@ -47,9 +47,18 @@ function App() {
       return [shuffledArray, hall_of_fame]; 
     }
 
-    const [list_to_show, hallOfFameArray] = getArrays(general_list)
+  const [list_to_show, hallOfFameArray] = getArrays(general_list)
 
-    return (
+  //Get Hashtags 
+  let listCategories = new Set();
+  list_to_show.forEach(obj => {
+    const hashtags = obj.hashtags;
+    hashtags.forEach(hashtag => {
+    listCategories.add(hashtag);
+  });
+});
+
+  return (
       <>
         <Header/>
         {isLoading?
@@ -60,7 +69,7 @@ function App() {
         :
         <div className='fullbody'>
           <Side hallOfFameArray={hallOfFameArray} normalVersion={normalVersion} setNormalVersion={setNormalVersion}/>
-          <MainContainer list_to_show={list_to_show} normalVersion={normalVersion} setNormalVersion={setNormalVersion}/>   
+          <MainContainer list_to_show={list_to_show} normalVersion={normalVersion} setNormalVersion={setNormalVersion} listCategories={listCategories}/>   
         </div>
         }
         <Footer/>

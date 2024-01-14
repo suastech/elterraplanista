@@ -3,7 +3,7 @@ import PhraseGenerator from "./PhraseGenerator";
 import { useState, useEffect } from "react";
 import wordFinder from "./wordFinder";
 
-function MainContainer( {list_to_show, normalVersion, setNormalVersion} ) {
+function MainContainer( {list_to_show, normalVersion, setNormalVersion, listCategories} ) {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isSearchActive, setIsSearchActive] = useState(false);
     const [search, setSearch] = useState("")
@@ -44,30 +44,9 @@ function MainContainer( {list_to_show, normalVersion, setNormalVersion} ) {
     setCategory(newCategory);
   }
 
-  //Get Hashtags 
-  const listCategories = new Set();
-  list_to_show.forEach(obj => {
-      const hashtags = obj.hashtags;
-      hashtags.forEach(hashtag => {
-        listCategories.add(hashtag);
-      }); 
-    });
-
 //Building the list of phrases to show according to user selections: 
 
-  //sortByDate
-  function sortByDate(data) {
-    data.forEach(item => {
-      const [month, year] = item.date.split("/");
-      const parsedDate = new Date(year, month - 1, 1); // Restamos 1 al mes ya que los meses en JavaScript son 0-indexados
-      item.parsedDate = parsedDate;
-    });
-    // Ordena el array en orden descendente por fecha
-    data.sort((a, b) => b.parsedDate - a.parsedDate);
-    return data.slice(0, 20);
-  }
-
-//Functions to select phrases: 
+  //Functions to select phrases: 
   function arrayFactory(list_to_arrenge) { 
     if (category !== "all") {
       return list_to_arrenge.filter(obj => obj.hashtags.some(hashtag => hashtag === category) ) }
