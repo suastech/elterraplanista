@@ -59,7 +59,7 @@ function App() {
     const shuffledArray = [...array];
     const hall_of_fame = array.filter((obj) => obj.points > 0);
 
-    /*
+    
     for (let i = shuffledArray.length - 1; i > 0; i--) {
       const randomIndex = Math.floor(Math.random() * (i + 1));
       [shuffledArray[i], shuffledArray[randomIndex]] = [
@@ -74,7 +74,7 @@ function App() {
         hall_of_fame[i],
       ];
     }
-    */
+    
     return [shuffledArray, hall_of_fame];
   }
 
