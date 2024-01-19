@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elterraplanista/static/css/main.031f76e8.css",
-    "main.js": "/elterraplanista/static/js/main.5f8d713e.js",
+    "main.js": "/elterraplanista/static/js/main.d90dbf90.js",
     "static/media/logo_recortado.png": "/elterraplanista/static/media/logo_recortado.9fa9f8f3a710f3914848.png",
     "static/media/framehall2.jpg": "/elterraplanista/static/media/framehall2.1f36ba0b1581662a6e5f.jpg",
     "static/media/framehall3vertical.png": "/elterraplanista/static/media/framehall3vertical.397ecba3680d23fdaaeb.png",
@@ -16,10 +16,10 @@
     "static/media/lupa.png": "/elterraplanista/static/media/lupa.99c83429f28813ca8dc2.png",
     "index.html": "/elterraplanista/index.html",
     "main.031f76e8.css.map": "/elterraplanista/static/css/main.031f76e8.css.map",
-    "main.5f8d713e.js.map": "/elterraplanista/static/js/main.5f8d713e.js.map"
+    "main.d90dbf90.js.map": "/elterraplanista/static/js/main.d90dbf90.js.map"
   },
   "entrypoints": [
     "static/css/main.031f76e8.css",
-    "static/js/main.5f8d713e.js"
+    "static/js/main.d90dbf90.js"
   ]
 }
