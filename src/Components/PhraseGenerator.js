@@ -44,7 +44,7 @@ function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex, normalV
       (prevIndex) =>
         (prevIndex + num + selectedArray.length) % selectedArray.length
     );
-    await new Promise((resolve) => setTimeout(resolve, 800));
+    await new Promise((resolve) => setTimeout(resolve, 300));
     setIsLoading(false);
   };
 
