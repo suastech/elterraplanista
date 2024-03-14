@@ -1,46 +1,35 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import logo_welcome from './imagenes/logo_encabezado.png'
 import Header from './Components/Header';
 import MainContainer from './Components/MainContainer';
 import Footer from './Components/Footer';
 import Side from './Components/Side';
-import axios from 'axios';
-import welcomephrase from './imagenes/welcomephrase.png';
+import all_phrases from './all_phrases.json'
+//import axios from 'axios';
 
 function App() {
-  const spaceId = process.env.REACT_APP_SPACE_ID;
+  /*const spaceId = process.env.REACT_APP_SPACE_ID;
   const accessToken = process.env.REACT_APP_ACCESS_TOKEN;
-  const entryId = process.env.REACT_APP_ENTRY_ID;
-  const [general_list, setGeneral_list] = useState([]);
+  const entryId = process.env.REACT_APP_ENTRY_ID;*/
+  const [general_list, setGeneral_list] = useState(all_phrases.phrases);
   const [normalVersion, setNormalVersion] = useState(true);
-  const [isWaiting, setIsWaiting] = useState(true);
-  const [segundos, setSegundos] = useState(9);
-  const [phraseHeader, setPhraseHeader] = useState(Math.floor(Math.random() * 3))
+  const [isWelcome, setIsWelcome] = useState(true);
+  const [isData, setIsData] = useState(true)
+  const [phraseHeader] = useState(Math.floor(Math.random() * 3));
+  const welcomePhrases= [
+    ['Demasiada coincidencia que maten a alguien y al día siguiente esté muerto.','Nicolás Maduro'],
+    ['Esto no es porque sí. Esto no es como el agua que cae del cielo sin que se sepa exactamente por qué.','Mariano Rajoy'],
+    ]
+
+  const [numeroRandom] = useState(Math.floor(Math.random() * welcomePhrases.length))
 
   const enter = () => {
-    setIsWaiting(false);
+    setIsWelcome(false);
   };
 
-  const intervaloRef = useRef(null);
 
-  useEffect(() => {
-    intervaloRef.current = setInterval(() => {
-      setSegundos((prevSegundos) => prevSegundos - 1);
-    }, 1000);
-
-    return () => {
-      clearInterval(intervaloRef.current);
-    };
-  }, []);
-
-  useEffect(() => {
-    if (segundos === 0) {
-      clearInterval(intervaloRef.current);
-      enter();
-    }
-  }, [segundos]);
-
-  useEffect(() => {
+  /* useEffect(() => {
     axios
       .get(`https://cdn.contentful.com/spaces/${spaceId}/entries/${entryId}`, {
         headers: {
@@ -49,11 +38,35 @@ function App() {
       })
       .then((response) => {
         setGeneral_list(response.data.fields.TerraplanistaPhrases.phrases);
+        setIsData(true);
       })
       .catch((error) => {
         console.error('Error al obtener el contenido:', error);
       });
+  }, [accessToken, entryId,spaceId]);*/
+
+
+ /* useEffect(() => {
+    const countdownElement = document.querySelector('.number')? document.querySelector('.number'): {textContent: 1};
+    let count = 4;
+    function updateCountdown() {
+    countdownElement.textContent = `(${count})`;
+    count--;
+    if (count < 0) {
+      clearInterval(interval);
+      setIsWelcome(false)
+    }
+    }
+    const interval = setInterval(updateCountdown, 1000); 
+  }, []);*/
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsWelcome(false);
+    }, 5000);
+    return () => clearTimeout(timer);
   }, []);
+  
 
   function getArrays(array) {
     const shuffledArray = [...array];
@@ -90,35 +103,41 @@ function App() {
 
   let sortedList = Array.from(listCategories).sort();
 
-
-  return (
-    <>
-      <Header phraseHeader={phraseHeader}/>
-      <div className='fullbody'>
-        <Side
-          hallOfFameArray={hallOfFameArray}
-          normalVersion={normalVersion}
-          setNormalVersion={setNormalVersion}
-        />
-        {isWaiting ? (
-          <div id='welcome' onClick={() => enter()}>
-            <h1>¡Bienvenido!</h1>
-            <h2>Reflexión del mes</h2>
-            <img src={welcomephrase} alt='welcome_phrase' />
-            <div id='enter'>Entrar ({segundos}) </div>
-          </div>
-        ) : (
-          <MainContainer
-            list_to_show={list_to_show}
-            normalVersion={normalVersion}
-            setNormalVersion={setNormalVersion}
-            listCategories={sortedList }
-          />
-        )}
+return (
+<>
+  {isWelcome ?
+   <div id='welcome' onClick={() => enter()}>
+      <div id='message'> 
+        <h1>El Terraplanista</h1>
+        <h2>Museo de la desinhibición declarativa</h2>
+        <img src={logo_welcome} id='logowelcome' alt='welcomelogo'/>
+        <h3><i>{welcomePhrases[numeroRandom][0]}</i></h3>
+        <h4>{welcomePhrases[numeroRandom][1]}</h4>
+        <div id='enter'>¡Bienvenid@!{/*&nbsp;<span className="number">(5)</span>*/}</div>
       </div>
-      <Footer phraseHeader={phraseHeader}/>
-    </>
-  );
+   </div>
+   :null
+  }
+
+  <Header phraseHeader={phraseHeader}/>
+  {isData?
+  <div className='fullbody'>
+    <Side
+        hallOfFameArray={hallOfFameArray}
+        normalVersion={normalVersion}
+        setNormalVersion={setNormalVersion}
+        isWelcome={isWelcome} />
+    <MainContainer
+        list_to_show={list_to_show}
+        normalVersion={normalVersion}
+        setNormalVersion={setNormalVersion}
+        listCategories={sortedList}/>
+  </div>
+  : null}
+  <Footer phraseHeader={phraseHeader} />
+
+</>
+);
 }
 
 export default App;

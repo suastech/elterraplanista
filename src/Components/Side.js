@@ -65,7 +65,7 @@ const Side = (props) => {
 
 return (
     <>
-    <div onClick={turnOn} className={'sideMenu' + (sideActive? '-expanded': '')} >
+    <div onClick={turnOn} className={'sideMenu' + (sideActive? '-expanded': '')} style={{ pointerEvents: props.isWaiting ? 'none' : 'auto' }}>
         {!sideActive? 
          <img src={seeMore} alt="more" />
         :

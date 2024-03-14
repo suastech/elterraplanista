@@ -8,7 +8,8 @@ scripts/flow/*/.flowconfig
 .flowconfig
 *~
 *.pyc
-frases_protección.js
+buildJson.js
+all_phrases.json
 phrasesJson.json
 .grunt
 _SpecRunner.html

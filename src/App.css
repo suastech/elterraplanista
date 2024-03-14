@@ -1,5 +1,91 @@
+#welcome {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0, 0, 0,0.95);
+    color: white;
+    cursor: pointer;
+    display: flex;
+    z-index: 2;
+  }
+#message {
+    width: 50vw;
+    height: 550px;
+    background-color: rgb(6, 49, 94, .8);
+    border: 3px solid blue;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 40px;
+    position: relative;
+}
 
-.fullbody {
+#message h1 {
+    font-size: 65px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#message h2 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: 600;
+}
+
+#logowelcome {
+    width: 90px;
+    margin: 10px auto 0 auto;
+    animation: spin 30s infinite linear; /* Aquí definimos la animación */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg); /* Comenzamos sin rotación */
+    }
+    100% {
+        transform: rotate(360deg); /* Rotación completa (una vuelta completa) */
+    }
+}
+
+#message h3 {
+    font-size: 25px;
+    margin: 40px 50px 0px 50px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+#message h4 {
+    font-weight: 400;
+    font-size: 25px;
+    text-align: end;
+    margin: 0px 50px 0px 0px;
+}
+
+#enter {
+    background-color: #dddcdc;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: 600;
+    border-radius: 20px;
+    width: 90%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    &:hover {
+        opacity: 0.7;  
+    }
+  }
+
+  .fullbody {
     background-image: url('./imagenes/backgroundMain.png');
     background-size: cover;
     min-height:85vh;
@@ -7,77 +93,83 @@
     position: relative;
 }
 
-#welcome {
-    width: 550px;
-    border: 4px solid rgb(18, 164, 152); 
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: rgba(0, 0, 0, 0.7);
-    color: white;
-    cursor: pointer;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 5%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 
-  }
-
-#welcome h1 {
-    font-size: 30px;
-    margin-top: 5px;
-    margin-bottom: 0px;
-}
-
-#welcome h2 {
-    font-size: 20px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-#welcome img {
-    width: 500px;
-    height: auto;
-}
-
-#enter {
-    background-color: #f9f9f9;
-    border-radius: 20px;
-    width: 110px;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    color: rgb(0, 0, 0);
-    font-size: 16px;
-    &:hover {
-        opacity: 0.7;  
+@media (max-width: 1000px) {
+    #message {
+        width: 60vw;
+        height: 600px;
     }
-  }
+    #message h1 {
+        font-size: 50px;
+    }
+}
 
 @media (max-width: 870px) {
     .fullbody {
         min-height:80vh;
     }
   }
-    
+
+
 @media (max-width: 670px) {
 .fullbody {
     background-image: none;
     background-color:#015D87;
 }
-#welcome {
-    width: 90vw;
-    z-index: 3;
-    top: 5%;
+#message h1 {
+    font-size: 45px;
+}
+#message h2 {
+    font-size: 18px;
+}
+#message h3 {
+    font-size: 22px;
+    margin: 50px 15px 0 15px ;
+}
+#message h4 {
+    font-size: 20px;
+    margin: 10px 15px 0 15px ;
 }
 
-#welcome img {
-    width: 85vw;
 }
+
+@media (max-width: 500px) {
+#message {
+    width: 80vw;
+    height: 600px;
+}
+
+#message h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#message h2 {
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: 600;
+}
+#logowelcome {
+    width: 70px;
+
+}
+
+#message h3 {
+    font-size: 20px;
+    margin: 60px 20px 0px 20px;
+}
+
+#message h4 {
+    font-weight: 400;
+    font-size: 18px;
+    margin: 10px 20px 0px 0px;
+}
+
+#enter {
+    font-size: 25px;
+    height: 70px;
+    bottom: 40px;
+    }
 }

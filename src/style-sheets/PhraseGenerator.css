@@ -73,10 +73,10 @@
     }
     
 .comment {
-      font-size: .8em;
+      font-size: 1em;
       font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
       color: #8b5c04;
-      font-weight: 600;
+      font-weight: 400;
       margin-top: 0px;
       margin-bottom: 0px;
       margin-left: 10%;

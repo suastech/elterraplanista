@@ -6,9 +6,9 @@ footer {
   align-items: center;
   font-size: 14px;
   color: white;
-  justify-content: space-around;
- 
+  justify-content: space-around; 
 }
+
 footer p {
   text-align: center;
 }

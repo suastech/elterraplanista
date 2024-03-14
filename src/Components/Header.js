@@ -12,7 +12,6 @@ return (
     <header>
         <h1>El Terraplanista</h1>
         <h2> <p>{phrases[phraseHeader]}</p> </h2>
-
     </header>
     )
 }
