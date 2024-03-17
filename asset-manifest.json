@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elterraplanista/static/css/main.d3ccc215.css",
-    "main.js": "/elterraplanista/static/js/main.105ab5c5.js",
+    "main.css": "/elterraplanista/static/css/main.fd9f49c2.css",
+    "main.js": "/elterraplanista/static/js/main.d47b356a.js",
     "static/media/logo_encabezado.png": "/elterraplanista/static/media/logo_encabezado.7bee881d89121fb4247c.png",
     "static/media/logo_recortado.png": "/elterraplanista/static/media/logo_recortado.9fa9f8f3a710f3914848.png",
     "static/media/backgroundMain.png": "/elterraplanista/static/media/backgroundMain.2ab24165971f53b0d899.png",
@@ -10,12 +10,13 @@
     "static/media/closebutton2.png": "/elterraplanista/static/media/closebutton2.6e3d302780f0e6c32437.png",
     "static/media/logoTwitter.webp": "/elterraplanista/static/media/logoTwitter.50023a68bf6983651324.webp",
     "static/media/lupa.png": "/elterraplanista/static/media/lupa.99c83429f28813ca8dc2.png",
+    "static/media/menu.png": "/elterraplanista/static/media/menu.d8b037e012327ac51b27.png",
     "index.html": "/elterraplanista/index.html",
-    "main.d3ccc215.css.map": "/elterraplanista/static/css/main.d3ccc215.css.map",
-    "main.105ab5c5.js.map": "/elterraplanista/static/js/main.105ab5c5.js.map"
+    "main.fd9f49c2.css.map": "/elterraplanista/static/css/main.fd9f49c2.css.map",
+    "main.d47b356a.js.map": "/elterraplanista/static/js/main.d47b356a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3ccc215.css",
-    "static/js/main.105ab5c5.js"
+    "static/css/main.fd9f49c2.css",
+    "static/js/main.d47b356a.js"
   ]
 }
