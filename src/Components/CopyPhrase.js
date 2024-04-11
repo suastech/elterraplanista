@@ -6,7 +6,6 @@ const CopyPhrase = ({ currentItem }) => {
   const handleCopy = () => {
     const message = `"${text}"\n${author}${info_author}\n[${comment}]\nPara más frases inmortales, visite "El Terraplanista" o síganos en @TerraplanistaMX`;
 
-    // Copiar el mensaje al portapapeles
     navigator.clipboard.writeText(message)
       .then(() => {
         alert('Texto copiado al portapapeles');

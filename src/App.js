@@ -13,20 +13,16 @@ function App() {
   const accessToken = process.env.REACT_APP_ACCESS_TOKEN;
   const entryId = process.env.REACT_APP_ENTRY_ID;*/
   const [general_list, setGeneral_list] = useState(all_phrases.phrases);
-  const [normalVersion, setNormalVersion] = useState(true);
   const [isWelcome, setIsWelcome] = useState(true);
   const [isData, setIsData] = useState(true)
   const [phraseHeader] = useState(Math.floor(Math.random() * 3));
+  const [hallOfFame, setHallOfFame] = useState(false)
   const welcomePhrases= [
     ['Demasiada coincidencia que maten a alguien y al día siguiente esté muerto.','Nicolás Maduro'],
     ['Esto no es porque sí. Esto no es como el agua que cae del cielo sin que se sepa exactamente por qué.','Mariano Rajoy'],
     ]
 
   const [numeroRandom] = useState(Math.floor(Math.random() * welcomePhrases.length))
-
-  const enter = () => {
-    setIsWelcome(false);
-  };
 
 
   /* useEffect(() => {
@@ -106,7 +102,7 @@ function App() {
 return (
 <>
   {isWelcome ?
-   <div id='welcome' onClick={() => enter()}>
+   <div id='welcome' onClick={() =>setIsWelcome(false)}>
       <div id='message'> 
         <h1>El Terraplanista</h1>
         <h2>Museo de la desinhibición declarativa</h2>
@@ -122,20 +118,11 @@ return (
   <Header phraseHeader={phraseHeader}/>
   {isData?
   <div className='fullbody'>
-    <Side
-        hallOfFameArray={hallOfFameArray}
-        normalVersion={normalVersion}
-        setNormalVersion={setNormalVersion}
-        isWelcome={isWelcome} />
-    <MainContainer
-        list_to_show={list_to_show}
-        normalVersion={normalVersion}
-        setNormalVersion={setNormalVersion}
-        listCategories={sortedList}/>
+    <Side hallOfFameArray={hallOfFameArray} hallOfFame={hallOfFame} setHallOfFame={setHallOfFame}/>
+    <MainContainer list_to_show={list_to_show} listCategories={sortedList} hallOfFame={hallOfFame}/>
   </div>
   : null}
   <Footer phraseHeader={phraseHeader} />
-
 </>
 );
 }

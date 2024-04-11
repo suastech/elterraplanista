@@ -3,23 +3,22 @@ import PhraseGenerator from "./PhraseGenerator";
 import { useState, useEffect } from "react";
 import wordFinder from "./wordFinder";
 
-function MainContainer( {list_to_show, normalVersion, setNormalVersion, listCategories} ) {
-    const [currentIndex, setCurrentIndex] = useState(0);
-    const [isSearchActive, setIsSearchActive] = useState(false);
-    const [search, setSearch] = useState("")
-    const [order, setOrder] = useState("seeAll");
-    const [category, setCategory] = useState('all')
-    const [isCategoryOn, setIsCategoryOn] = useState(false);
-    const [selectedArray, setSelectedArray] = useState(list_to_show);
+function MainContainer( {list_to_show, listCategories, hallOfFame} ) {
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [isSearchActive, setIsSearchActive] = useState(false);
+  const [search, setSearch] = useState("")
+  const [order, setOrder] = useState("seeAll");
+  const [category, setCategory] = useState('all')
+  const [isCategoryOn, setIsCategoryOn] = useState(false);
+  const [selectedArray, setSelectedArray] = useState(list_to_show);
 
-    const handleOrder  = (event) => {
+  const handleOrder  = (event) => {
         const newOrder = event.target.value;
         setCurrentIndex(0);
         setOrder(newOrder);
     };
 
-
-    const handleSearch = (event) => {   
+  const handleSearch = (event) => {   
         if (event.key === 'Enter') {
           const wordToFind = event.target.value.trim();
           if (wordToFind !== '') {
@@ -73,8 +72,7 @@ function MainContainer( {list_to_show, normalVersion, setNormalVersion, listCate
 
  
 return (
-    <div className="workingspace">
-
+    <>
       <div className="upperMenu">
 
          <select
@@ -100,7 +98,7 @@ return (
             <option value="seeRecent">Más recientes</option>
           </select>
        
-          <div  style={ isCategoryOn ? { opacity: 0.5, pointerEvents: 'none' } : {} }>
+          <div style={ isCategoryOn ? { opacity: 0.5, pointerEvents: 'none' } : {} }>
             {!isSearchActive ? 
                 ( <>
                 <input  type="text"
@@ -121,11 +119,10 @@ return (
           selectedArray={selectedArray}
           currentIndex={currentIndex}
           setCurrentIndex={setCurrentIndex}
-          normalVersion={normalVersion}
-          setNormalVersion={setNormalVersion}
+          hallOfFame={hallOfFame}
         />
       </>
-    </div>
+    </>
   );
 }
 

@@ -6,49 +6,20 @@ import ShareOnTwitter from "./ShareOnTwitter";
 import DownloadPhrase from "./DownloadPhrase";
 import CopyPhrase from "./CopyPhrase";
 import share from "../imagenes/sharew.png";
-import horizontalframe from "../imagenes/frame1b.jpg";
-import verticalframe from "../imagenes/framehall2.jpg";
+import mini from "../imagenes/logo_recortado.png";
 import ShareWhatsapp from "./ShareWhatsapp";
+//import { toPng } from 'html-to-image'; //para activar imprimir todas
+//import { saveAs } from 'file-saver';
 
-function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex, normalVersion, setNormalVersion })  {
+function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex, hallOfFame})  {
   const generatorRef = useRef(null);
-  const rootFont = normalVersion? 26:20;
+  const rootFont = 28;
   const [isLoading, setIsLoading] = useState(false);
   const [isShareOn, setIsShareOn] = useState(false);
-  
-  const handleResize = () => {
-    if (window.innerWidth > 870) {
-      setNormalVersion(true);
-    } 
-    else if (window.innerWidth > 670) {
-      setNormalVersion(false);
-    } 
-    else {
-      setNormalVersion(null);
-    }
-  };
-
-  useEffect(() => {
-    window.addEventListener('resize', handleResize);
-    handleResize();
-    return () => {
-    window.removeEventListener('resize', handleResize);
-    };
-  }, []);
-
-  // Logic to switch the phrase with the arrows and touch screen:
-  const showNewItem = async (num) => {
-    setIsLoading(true);
-  
-    setCurrentIndex(
-      (prevIndex) =>
-        (prevIndex + num + selectedArray.length) % selectedArray.length
-    );
-    await new Promise((resolve) => setTimeout(resolve, 300));
-    setIsLoading(false);
-  };
-
   const [touchStartX, setTouchStartX] = useState(null);
+  let currentItem = selectedArray[currentIndex];
+  let word_length = currentItem.text.length + currentItem.author.length + currentItem.info_author.length + currentItem.comment.length;
+  
   const handleTouchStart = (event) => {
     setTouchStartX(event.touches[0].clientX);
   };
@@ -65,130 +36,84 @@ function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex, normalV
     }
   };
 
-  const handleKeyPress = (event) => {
-    if (event.key === 'ArrowLeft' ) { showNewItem(-1)}
-    if (event.key === 'ArrowRight') { showNewItem(+1)}
+  /* 
+  //Imprimir todas
+  async function printAll(){
+    for (let element of selectedArray) {
+    const generatorNode = generatorRef.current;
+    try {
+        const imageBlob = await toPng(generatorNode); 
+        saveAs(imageBlob, 'frase_inmortal.png');
+    } catch (error) {
+        console.error('Error al generar o descargar la imagen:', error);
+    }
+    setCurrentIndex((prevIndex) => (prevIndex + 1 + selectedArray.length) % selectedArray.length);
+    await new Promise((resolve) => setTimeout(resolve, 200));
+    }
+  }*/
+
+  const showNewItem = async (num) => {
+    setIsLoading(true);
+    setCurrentIndex((prevIndex) => (prevIndex + num + selectedArray.length) % selectedArray.length);
+    //await new Promise((resolve) => setTimeout(resolve, 300));
+    setIsLoading(false);
+    //const phraseFrame = document.querySelector('.phrase-frame');
+    //phraseFrame.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
-  const handleShare= () => {
-    setIsShareOn( (prev) => !prev)
-  }
+  const handleKeyPress = (event) => {
+    if (!hallOfFame) {
+      if (event.key === 'ArrowLeft' ) { showNewItem(-1)}
+      if (event.key === 'ArrowRight') { showNewItem(+1)}
+    }
+  };
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyPress);
     return () => {
       window.removeEventListener('keydown', handleKeyPress);
     };
-  }, [showNewItem, handleKeyPress]); 
+  },); 
 
 
-  //Select the phrase to show:
-  let currentItem = selectedArray[currentIndex];
-  let word_length = currentItem.text.length + currentItem.author.length + currentItem.info_author.length + currentItem.comment.length;
-
-  return (
+return (
     <div className="phraseAndBottom">
       <div className="main-container">
+
         <button className="arrow" onClick={() => showNewItem(-1)}>
           <img src={left_arrow} alt="left arrow" />
         </button>
-        <div className="whole-phrase" ref={generatorRef}>
-        {normalVersion === null?
-         <img src={verticalframe} alt="frame" ref={generatorRef}/>
-         :
-         <img src={horizontalframe} alt="frame" ref={generatorRef}/>
-        }
+         
          <div className="phrase-frame"
+            ref={generatorRef}
             onTouchStart={handleTouchStart}
             onTouchMove={handleTouchMove}            
          >
           {isLoading ? (
-              normalVersion === null?
               <div className="circle"></div>
-              :
-              <div className="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>               
             )
             :
             (
-              <>
-                  <div className="phrase"
-                    style={
-                      normalVersion?
-                      {
-                      fontSize:
-                        word_length < 150?
-                        `${rootFont+5}px`
-                        :
-                        word_length < 200
-                        ? `${rootFont}px`
-                        : word_length < 250
-                        ? `${rootFont -1}px`
-                        : word_length < 350
-                        ? `${rootFont - 2}px`
-                        : word_length < 450
-                        ? `${rootFont - 4}px`
-                        : word_length < 550
-                        ? `${rootFont - 6}px`
-                        : word_length < 650
-                        ? `${rootFont - 8}px`
-                        : word_length < 750
-                        ? `${rootFont - 10}px`
-                        : word_length < 850
-                        ? `${rootFont - 11}px`
-                        : `${rootFont - 12}px`,
-                      }
-                      :
-                      {
-                      fontSize:
-                        word_length < 150?
-                        `${rootFont+4}px`
-                        : word_length < 200
-                        ? `${rootFont}px`
-                        : word_length < 250
-                        ? `${rootFont -1}px`
-                        : word_length < 300
-                        ? `${rootFont -2}px`
-                        : word_length < 350
-                        ? `${rootFont - 3}px`
-                        : word_length < 400
-                        ? `${rootFont - 3.5}px`
-                        : word_length < 450
-                        ? `${rootFont - 4.5}px`
-                        : word_length < 500
-                        ? `${rootFont - 5.5}px`
-                        : word_length < 550
-                        ? `${rootFont - 6.5}px`
-                        : word_length < 650
-                        ? `${rootFont - 7}px`
-                        : word_length < 750
-                        ? `${rootFont - 7.5}px`
-                        : word_length < 800
-                        ? `${rootFont - 8}px`
-                        : word_length < 850
-                        ? `${rootFont - 8.5}px`
-                        : `${rootFont - 9}px`,
-                      }
-                  } >
-                    <p className="text">{currentItem.text}</p>
-                    <p className="author">
-                      {currentItem.author}{currentItem.info_author}
-                    </p>
-                    <p className="comment">{currentItem.comment}</p>
-                  </div>
-              </>
+            <>
+                <div className="phrase" style={{ fontSize: word_length < 150 ? `${rootFont + 5}px` : word_length < 200 ? `${rootFont}px` : word_length < 250 ? `${rootFont - 1}px` : word_length < 350 ? `${rootFont - 2}px` : word_length < 450 ? `${rootFont - 4}px` : word_length < 550 ? `${rootFont - 6}px` : word_length < 650 ? `${rootFont - 8}px` : `${rootFont - 9}px` }}>
+                <p className="text">{currentItem.text}</p>
+                <p className="author">{currentItem.author}{currentItem.info_author}</p>
+                <p className="comment"><img src={mini} alt='mini' style={{width:'30px', transform:'scaleX(-1)',rotate:'-10deg'}}/> {currentItem.comment}</p>
+              </div>
+            </>
             )}
           </div>
-        </div>
 
         <button className="arrow" onClick={() => showNewItem(1)}>
           <img src={right_arrow} alt="right arrow" />
         </button>
+
       </div>
 
       <div className="bottom">
         <div  className={isShareOn? "shareButtonsA":"shareButtons"}
-              onMouseEnter={handleShare}
-              onMouseLeave={handleShare}>
+              onMouseEnter={   () => {setIsShareOn(true)}}
+              onMouseLeave={   () => {setIsShareOn(false)}}>
               
               <img id='sharebutton' src={share} alt='share'
               style={isShareOn? { boxShadow: '0 0 3px 3px rgb(32, 195, 249)'}: {} } />
@@ -205,6 +130,8 @@ function PhraseGenerator({ selectedArray, currentIndex, setCurrentIndex, normalV
         </div>
           <>Mostrando: {currentIndex+1} de {selectedArray.length} </>
       </div>
+
+    {/*<button onClick={()=> {printAll()}}>ALL</button>*/}
 
     </div>
   );

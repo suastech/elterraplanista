@@ -1,29 +1,17 @@
 import { useState } from 'react';
 import '../style-sheets/Side.css';
 import HallOfFame from './HallOfFame';
-import seeMore from '../imagenes/seemore2.png';
+import seeMore from '../imagenes/menu.png';
 import seeLess from '../imagenes/seeless2.png';
 import paypal from '../imagenes/paypal.png'
 import close from '../imagenes/closebutton2.png'
 
-    /*
-    import principios from '../imagenes/foco.png';
-    import copyleft from '../imagenes/credits.png';
-    import heart from '../imagenes/heart.png';
-    import hide from '../imagenes/close.png'
-    import star from '../imagenes/star.png'
-    */
-
 const Side = (props) => {
+    const {hallOfFame, setHallOfFame, hallOfFameArray} = props;
     const [sideActive,setSideActive]= useState(false)
     const [principles, setPrinciples] = useState(false)
     const [support, setSupport] = useState(false)
     const [credits, setCredits] = useState(false)
-    const [hallOfFame, setHallOfFame] = useState(false)
-
-    const turnOn = ()=> {
-        setSideActive(true)
-    }
 
     const turnOff = () => {
         setTimeout(() => {
@@ -65,16 +53,13 @@ const Side = (props) => {
 
 return (
     <>
-    <div onClick={turnOn} className={'sideMenu' + (sideActive? '-expanded': '')} style={{ pointerEvents: props.isWaiting ? 'none' : 'auto' }}>
+    <div onClick={ ()=> { setSideActive(true)}} onMouseEnter={()=> { setSideActive(true)}} onMouseLeave={()=> { setSideActive(false)}} className={'sideMenu' + (sideActive? '-expanded': '')} >
         {!sideActive? 
          <img src={seeMore} alt="more" />
         :
-        <>
-        <div className='hide' onClick={turnOff}>
-            <img src={seeLess} alt="less" />
-        </div>
-        
-        <div className='options'>
+        <>       
+            <img id='closeMenu' src={close} alt='close' onClick={()=> {turnOff()}}/>
+
             <div className='item' onClick={handleHallOfFame}> 
                 <p>Salón de la fama</p>
             </div>
@@ -87,10 +72,8 @@ return (
             <div className='item' onClick={handleCredits}> 
                  <p>Créditos</p>
             </div>
-            <div className='item' onClick={turnOff}> 
-                <p>Ocultar</p>
-            </div>
-        </div>
+            
+        
 
         </>        
         }
@@ -98,17 +81,15 @@ return (
     
     {hallOfFame? 
         <> 
-            <HallOfFame hallOfFameArray={props.hallOfFameArray}
-                        setHallOfFame={setHallOfFame}
-                        normalVersion={props.normalVersion} setNormalVersion={props.setNormalVersion}/>
+            <HallOfFame hallOfFameArray={hallOfFameArray}
+                        setHallOfFame={setHallOfFame}/>
         </>
-    :
-    null
-
-    }
+    : null}
 
     {support? 
-       ( <div className='extra-containers'>
+       (
+       <div className='extra-background'>
+       <div className='extra-containers'>
          <img className='closeButton' src={close} alt='close' onClick={()=> toggleButton(setSupport)}/>
             <p id="support-content">
                 <i>¡Terraplanistas del mundo, mochaos!</i><br/><br/>Si te gusta el contenido de nuestro sitio, puedes contribuir a que siga funcionando con un donativo a través de PayPal.<br/>¡Gracias!
@@ -119,13 +100,15 @@ return (
              {//<img src={buyme} alt='buyme' className='buyme'/>
              }
             </div>    
-        </div> )
+        </div>
+        </div>
+       )
     :
-    null
-    }
+    null}
 
     {principles?
         (
+        <div className='extra-background'>
         <div className='extra-containers'>
             <img className='closeButton' onClick={()=> toggleButton(setPrinciples)}
                 src={close} alt='close'/>
@@ -146,15 +129,16 @@ return (
                         El <em>non sequitur</em> es la superstición que inventaron quienes no saben expresarse enérgicamente.
                     </li> 
                 </ul> 
-            <p> Bienvenido a <i>El Terraplanista: <br/>La casa del voluntarismo argumentativo</i></p>
+            <p> <i>El Terraplanista: <br/>La casa del voluntarismo argumentativo</i></p>
+        </div>
         </div>
         )
         :
-        null
-    }
+        null}
 
     {credits?
         (
+        <div className='extra-background'>
         <div className='extra-containers'>
             <img className='closeButton' onClick={()=> toggleButton(setCredits)}
                 src={close} alt='close'/>
@@ -172,6 +156,7 @@ return (
                     textDecoration: 'none'
                     }}>@tesiture</a>
             </p>
+        </div>
         </div>
         )
         :

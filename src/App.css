@@ -1,3 +1,17 @@
+body {
+    position: relative;
+}
+
+.fullbody {
+    background-image: url('./imagenes/backgroundMain.png');
+    background-size: cover;
+    min-height: 90vh; 
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
 #welcome {
     position: fixed;
     width: 100vw;
@@ -84,14 +98,6 @@
         opacity: 0.7;  
     }
   }
-
-  .fullbody {
-    background-image: url('./imagenes/backgroundMain.png');
-    background-size: cover;
-    min-height:85vh;
-    height: fit-content;
-    position: relative;
-}
 
 
 @media (max-width: 1000px) {
